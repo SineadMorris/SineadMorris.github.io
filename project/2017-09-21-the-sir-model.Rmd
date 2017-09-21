@@ -11,8 +11,8 @@ tags:
   - model
 output:
     blogdown::html_page:
-        fig_width: 20
-        fig_height: 10
+        fig_width: 12
+        fig_height: 5
 ---
 
 ## Introduction
