@@ -3,13 +3,15 @@ title: The SIR model
 author: Sinead Morris
 date: '2017-09-21'
 slug: the-sir-model
+featuredImage: 'Precept1.pdf'
 categories:
   - R
 tags:
   - SIR
   - model
 output:
-    blogdown::html_page
+    blogdown::html_page:
+        fig_width: 12
 ---
 
 ## Introduction
