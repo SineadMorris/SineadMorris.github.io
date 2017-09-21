@@ -1,0 +1,183 @@
+---
+title: The SIR model
+author: Sinead Morris
+date: '2017-09-21'
+slug: the-sir-model
+categories:
+  - R
+tags:
+  - SIR
+  - model
+output:
+    blogdown::html_page
+---
+
+## Introduction
+
+In class we went over the SIR model with births and deaths.
+Assuming the birth rate is equal to the death rate ($\mu$) gives: 
+
+$$\begin{align*}
+\frac{dS}{dt} &= \mu N -\beta S I - \mu S\\
+\frac{dI}{dt} &= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &=  \gamma I - \mu R.
+\end{align*}$$
+
+
+So what do these terms mean? Suppose the unit of time we are thinking aobut is days, then
+
+* $\mu N$ represents the number of births into the population per day (we assume everyone is born suceptible)
+* $\beta S I$ represents the number of susceptibles that become infected per day
+* $\mu S$ is the number of susceptibles that die per day.
+* $\gamma I$ is the number of infected individuals that recover per day.
+
+![Flow diagram of the SIR model with births equal to deaths.](/img/Precept1.pdf)
+
+
+We can use numerical integration methods to solve these equations to find $S, I$, and $R$. In this class we will use R to do this. 
+
+```{r SIRbasic, echo = FALSE, message = FALSE}
+require(deSolve)
+require(tidyverse)
+# Set parameter values of mu, beta, gamma ("parms")
+# Unit of time is days
+# i.e., mean infectious period is 7 days here
+mu <- 1/(4*365)
+R0 <- 3
+gamma <- 1/7
+
+# Set initial conditions S, I, R ("y")
+START.S <- 9999
+START.I <- 1
+START.R <- 0
+
+START.N <- START.S + START.I + START.R
+
+# Exercise: calculate beta
+beta <- R0 * (gamma + mu) / START.N 
+
+# This function models a time step for the SIR:
+dx.dt.SIR <- function(t, y, parms) {
+  
+  # Calculate the change in Susceptibles
+  dS <- parms["mu"] * (y["S"] + y["I"] + y["R"]) - 
+		parms["beta"] * y["S"] * y["I"] - 
+		parms["mu"] * y["S"]
+  
+  # Calculate the change in Infecteds
+  dI <- parms["beta"] * y["S"] * y["I"] - 
+		parms["gamma"] * y["I"] -
+		parms["mu"] * y["I"]
+  
+  # Calculate the change in Recovereds
+  dR <- parms["gamma"] * y["I"] -
+		parms["mu"] * y["R"] 
+  
+  # Return a list with the changes in S, I, R at the current time step
+  return(list(c(dS, dI, dR)))
+  
+}
+
+# Create the parameter vector
+parms_vector <- c(mu=mu, beta=beta, gamma=gamma)
+
+# Sequence of times at which we estimate 
+# (here, we do daily for 365 days - you can change this value)
+times_vector <- seq(from=0, to=365, by=1)
+
+
+# Run the ODE solver
+SIR.output <- lsoda(y=c(S=START.S, I=START.I, R=START.R), 
+						times=times_vector, 
+						func=dx.dt.SIR, 
+						parms=parms_vector)
+
+SIRmod <- data.frame(SIR.output) %>% tbl_df() %>% 
+    gather(variable, value, S:R) 
+
+ggplot(SIRmod, aes(x = time, y = value, 
+                   colour = as.factor(variable))) + geom_line(size = 1.2) +
+    theme_bw() + scale_colour_discrete("Compartment", 
+                                       breaks = c("S", "I", "R"),
+                                       labels = c("S", "I", "R")) +
+    ylab("Number of individuals") + xlab("Days")
+
+```
+
+
+## Incorporating vaccination
+
+1. To incorporate vaccination we need to modify the equations above so that a proportion, $p$ say, of the new births into the population are vaccinated, and thus immune to infection. 
+2. If $p$ is the proportion vaccinated, then $1 - p$ is the proportion left unvaccinated. 
+3. Thus the proportion of new births that are vaccinated is $\mu N p$, and the proportion unvaccinated is $\mu N (1 - p)$
+4. Those that are vaccinated then avoid the susceptible class and are sent straight to the recovered (i.e. immune) class, whereas those that are unvaccinated go into the susceptible class as before.
+
+Our equations therefore become
+
+$$\begin{align*}
+\frac{dS}{dt} &= \mu N (1 - p) -\beta S I - \mu S\\
+\frac{dI}{dt} &= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &=  \gamma I - \mu R + \mu N p.
+\end{align*}$$
+
+And our flow diagram now looks like:
+
+![Flow diagram of the SIR model with births equal to deaths.](/img/to/path/Precept1vacc.pdf)
+
+
+```{r SIRvacc, echo = FALSE, message = FALSE}
+# i.e., mean infectious period is 7 days here
+p <- 0.5
+
+START.S <- 9999 * p
+START.I <- 1
+START.R <- 9999 - 9999 * p
+
+# This function models a time step for the SIR:
+dx.dt.SIR <- function(t, y, parms) {
+  
+  # Calculate the change in Susceptibles
+  dS <- parms["mu"] * (y["S"] + y["I"] + y["R"])  * (1 - parms["p"]) - 
+		parms["beta"] * y["S"] * y["I"] - 
+		parms["mu"] * y["S"]
+  
+  # Calculate the change in Infecteds
+  dI <- parms["beta"] * y["S"] * y["I"] - 
+		parms["gamma"] * y["I"] -
+		parms["mu"] * y["I"]
+  
+  # Calculate the change in Recovereds
+  dR <- parms["gamma"] * y["I"] -
+		parms["mu"] * y["R"] +
+        parms["p"] * parms["mu"] * (y["S"] + y["I"] + y["R"])
+  
+  # Return a list with the changes in S, I, R at the current time step
+  return(list(c(dS, dI, dR)))
+  
+}
+
+# Create the parameter vector
+parms_vector <- c(mu=mu, beta=beta, gamma=gamma, p = p)
+
+# Sequence of times at which we estimate 
+# (here, we do daily for 365 days - you can change this value)
+times_vector <- seq(from=0, to=365, by=1)
+
+
+# Run the ODE solver
+SIR.output <- lsoda(y=c(S=START.S, I=START.I, R=START.R), 
+						times=times_vector, 
+						func=dx.dt.SIR, 
+						parms=parms_vector)
+
+SIRmod <- data.frame(SIR.output) %>% tbl_df() %>% 
+    gather(variable, value, S:R) 
+
+ggplot(SIRmod, aes(x = time, y = value, 
+                   colour = as.factor(variable))) + geom_line(size = 1.2) +
+    theme_bw() + scale_colour_discrete("Compartment", 
+                                       breaks = c("S", "I", "R"),
+                                       labels = c("S", "I", "R")) +
+    ylab("Number of individuals") + xlab("Days")
+
+```

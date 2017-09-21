@@ -7,8 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/sir/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The SIR model</title>
+      <link>/project/the-sir-model/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/the-sir-model/</guid>
+      <description>&lt;div id=&#34;introduction&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In class we went over the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (&lt;span class=&#34;math inline&#34;&gt;\(\mu\)&lt;/span&gt;) gives:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dS}{dt} &amp;amp;= \mu N -\beta S I - \mu S\\
+\frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &amp;amp;=  \gamma I - \mu R.
+\end{align*}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So what do these terms mean? Suppose the unit of time we are thinking aobut is days, then&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu N\)&lt;/span&gt; represents the number of births into the population per day (we assume everyone is born suceptible)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\beta S I\)&lt;/span&gt; represents the number of susceptibles that become infected per day&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu S\)&lt;/span&gt; is the number of susceptibles that die per day.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\gamma I\)&lt;/span&gt; is the number of infected individuals that recover per day.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;embed src=&#34;/img/Precept1.pdf&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Flow diagram of the SIR model with births equal to deaths.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;We can use numerical integration methods to solve these equations to find &lt;span class=&#34;math inline&#34;&gt;\(S, I\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(R\)&lt;/span&gt;. In this class we will use R to do this.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/project/2017-09-21-the-sir-model_files/figure-html/SIRbasic-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Incorporating vaccination&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;To incorporate vaccination we need to modify the equations above so that a proportion, &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; say, of the new births into the population are vaccinated, and thus immune to infection.&lt;/li&gt;
+&lt;li&gt;If &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; is the proportion vaccinated, then &lt;span class=&#34;math inline&#34;&gt;\(1 - p\)&lt;/span&gt; is the proportion left unvaccinated.&lt;/li&gt;
+&lt;li&gt;Thus the proportion of new births that are vaccinated is &lt;span class=&#34;math inline&#34;&gt;\(\mu N p\)&lt;/span&gt;, and the proportion unvaccinated is &lt;span class=&#34;math inline&#34;&gt;\(\mu N (1 - p)\)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Those that are vaccinated then avoid the susceptible class and are sent straight to the recovered (i.e. immune) class, whereas those that are unvaccinated go into the susceptible class as before.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Our equations therefore become&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dS}{dt} &amp;amp;= \mu N (1 - p) -\beta S I - \mu S\\
+\frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &amp;amp;=  \gamma I - \mu R + \mu N p.
+\end{align*}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And our flow diagram now looks like:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;embed src=&#34;/img/to/path/Precept1vacc.pdf&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Flow diagram of the SIR model with births equal to deaths.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;/project/2017-09-21-the-sir-model_files/figure-html/SIRvacc-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>The SIR model</title>

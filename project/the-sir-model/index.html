@@ -16,6 +16,11 @@
     
   
   
+    
+    
+    <link rel="stylesheet" href="/css/highlight.min.css">
+    
+  
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
@@ -28,17 +33,17 @@
 
   
 
-  <link rel="alternate" href="/tags/academic/index.xml" type="application/rss+xml" title="Academic">
-  <link rel="feed" href="/tags/academic/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Academic">
 
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/tags/academic/">
+  <link rel="canonical" href="/project/the-sir-model/">
 
   
 
-  <title>Content tagged as &#39;Academic&#39; | Academic</title>
+  <title>The SIR model | Academic</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -145,30 +150,127 @@
 </nav>
 
 
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
-<div class="article-header">
-  <img src="/img/headers/bubbles-wide.jpg" class="article-banner" itemprop="image">
   
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">The SIR model</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="pull-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fproject%2fthe-sir-model%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=The%20SIR%20model&amp;url=%2fproject%2fthe-sir-model%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fproject%2fthe-sir-model%2f&amp;title=The%20SIR%20model"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fproject%2fthe-sir-model%2f&amp;title=The%20SIR%20model"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=The%20SIR%20model&amp;body=%2fproject%2fthe-sir-model%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
 </div>
 
 
+      </span>
+    </div>
 
-<div class="universal-wrapper">
+    
 
-  <h1>Content tagged as &#39;Academic&#39;</h1>
-
-  
-  <div class="article-style" itemprop="articleBody"><p>Here is a list of all the content that has been tagged as <em>academic</em>.</p>
+    <div class="article-style" itemprop="articleBody">
+      <div id="introduction" class="section level2">
+<h2>Introduction</h2>
+<p>In class we went over the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (<span class="math inline">\(\mu\)</span>) gives:</p>
+<p><span class="math display">\[\begin{align*}
+\frac{dS}{dt} &amp;= \mu N -\beta S I - \mu S\\
+\frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &amp;=  \gamma I - \mu R.
+\end{align*}\]</span></p>
+<p>So what do these terms mean? Suppose the unit of time we are thinking aobut is days, then</p>
+<ul>
+<li><span class="math inline">\(\mu N\)</span> represents the number of births into the population per day (we assume everyone is born suceptible)</li>
+<li><span class="math inline">\(\beta S I\)</span> represents the number of susceptibles that become infected per day</li>
+<li><span class="math inline">\(\mu S\)</span> is the number of susceptibles that die per day.</li>
+<li><span class="math inline">\(\gamma I\)</span> is the number of infected individuals that recover per day.</li>
+</ul>
+<div class="figure">
+<embed src="/img/Precept1.pdf" />
+<p class="caption">Flow diagram of the SIR model with births equal to deaths.</p>
 </div>
-  
+<p>We can use numerical integration methods to solve these equations to find <span class="math inline">\(S, I\)</span>, and <span class="math inline">\(R\)</span>. In this class we will use R to do this.</p>
+<p><img src="/project/2017-09-21-the-sir-model_files/figure-html/SIRbasic-1.png" width="672" /></p>
+</div>
+<div id="incorporating-vaccination" class="section level2">
+<h2>Incorporating vaccination</h2>
+<ol style="list-style-type: decimal">
+<li>To incorporate vaccination we need to modify the equations above so that a proportion, <span class="math inline">\(p\)</span> say, of the new births into the population are vaccinated, and thus immune to infection.</li>
+<li>If <span class="math inline">\(p\)</span> is the proportion vaccinated, then <span class="math inline">\(1 - p\)</span> is the proportion left unvaccinated.</li>
+<li>Thus the proportion of new births that are vaccinated is <span class="math inline">\(\mu N p\)</span>, and the proportion unvaccinated is <span class="math inline">\(\mu N (1 - p)\)</span></li>
+<li>Those that are vaccinated then avoid the susceptible class and are sent straight to the recovered (i.e. immune) class, whereas those that are unvaccinated go into the susceptible class as before.</li>
+</ol>
+<p>Our equations therefore become</p>
+<p><span class="math display">\[\begin{align*}
+\frac{dS}{dt} &amp;= \mu N (1 - p) -\beta S I - \mu S\\
+\frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &amp;=  \gamma I - \mu R + \mu N p.
+\end{align*}\]</span></p>
+<p>And our flow diagram now looks like:</p>
+<div class="figure">
+<embed src="/img/to/path/Precept1vacc.pdf" />
+<p class="caption">Flow diagram of the SIR model with births equal to deaths.</p>
+</div>
+<p><img src="/project/2017-09-21-the-sir-model_files/figure-html/SIRvacc-1.png" width="672" /></p>
+</div>
 
-  
-  
+    </div>
 
-  
+  </div>
+</article>
 
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="/project/sir/"><span
+      aria-hidden="true">&larr;</span> The SIR model</a></li>
+    
+
+    
+  </ul>
+</nav>
 
 </div>
+
 <footer class="site-footer">
   <div class="container">
     <p class="powered-by">
@@ -202,6 +304,15 @@
     
 
     
+    
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
     
 
     
