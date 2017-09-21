@@ -62,15 +62,5 @@
 </description>
     </item>
     
-    <item>
-      <title>The SIR model</title>
-      <link>/project/sir/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/sir/</guid>
-      <description>&lt;p&gt;Introduction to the SIR model, inluding demography and vaccination.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
