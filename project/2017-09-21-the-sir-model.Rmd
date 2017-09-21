@@ -3,7 +3,7 @@ title: The SIR model
 author: Sinead Morris
 date: '2017-09-21'
 slug: the-sir-model
-featuredImage: 'Precept1.pdf'
+featuredImage: '/img/headers/Precept1.pdf'
 categories:
   - R
 tags:
@@ -12,6 +12,7 @@ tags:
 output:
     blogdown::html_page:
         fig_width: 12
+        fig_height: 5
 ---
 
 ## Introduction
