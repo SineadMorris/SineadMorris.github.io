@@ -59,7 +59,7 @@
 &lt;/div&gt;
 &lt;p&gt;&lt;img src=&#34;/project/2017-09-21-the-sir-model_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Interactive plot:&lt;/p&gt;
-&lt;iframe src=&#34;https://sineadmorris.shinyapps.io/sirmodel/&#34; width=&#34;700&#34; height=&#34;800&#34;&gt;
+&lt;iframe src=&#34;https://sineadmorris.shinyapps.io/sirmodel/&#34; width=&#34;900&#34; height=&#34;650&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;
 </description>

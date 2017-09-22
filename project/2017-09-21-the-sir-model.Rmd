@@ -189,4 +189,4 @@ ggplot(SIRmod, aes(x = time, y = value,
 Interactive plot:
 
 
-<iframe src="https://sineadmorris.shinyapps.io/sirmodel/" width="700" height="800"></iframe>
+<iframe src="https://sineadmorris.shinyapps.io/sirmodel/" width="900" height="650"></iframe>
