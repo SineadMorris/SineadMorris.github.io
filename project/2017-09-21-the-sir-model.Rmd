@@ -125,7 +125,11 @@ $$\begin{align*}
 
 And our flow diagram now looks like:
 
-![Flow diagram of the SIR model with births equal to deaths.](/img/Precept1vacc.pdf){ width=50% }
+![Flow diagram of the SIR model with births equal to deaths.](/img/Precept1vacc.pdf){ width=40% }
+
+```{r SIRvaccpic, echo = FALSE, message = FALSE}
+knitr::include_graphics("../../img/Precept1vacc.pdf")
+```
 
 
 ```{r SIRvacc, echo = FALSE, message = FALSE}
