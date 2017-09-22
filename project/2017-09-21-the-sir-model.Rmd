@@ -34,7 +34,7 @@ So what do these terms mean? Suppose the unit of time we are thinking aobut is d
 * $\mu S$ is the number of susceptibles that die per day.
 * $\gamma I$ is the number of infected individuals that recover per day.
 
-![Flow diagram of the SIR model with births equal to deaths.](/img/Precept1.pdf){ width=50% }
+![Flow diagram of the SIR model with births equal to deaths.](/img/Precept1.pdf){ out.width=100% }
 
 
 We can use numerical integration methods to solve these equations to find $S, I$, and $R$. In this class we will use R to do this. 
