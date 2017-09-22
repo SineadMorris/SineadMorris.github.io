@@ -3,7 +3,6 @@ title: The SIR model
 author: Sinead Morris
 date: '2017-09-21'
 slug: the-sir-model
-featuredImage: '/img/headers/Precept1.pdf'
 categories:
   - R
 tags:
@@ -13,6 +12,7 @@ output:
     blogdown::html_page:
         fig_width: 12
         fig_height: 5
+        featuredImage: '/headers/Precept1.png'
 ---
 
 ## Introduction
@@ -185,3 +185,7 @@ ggplot(SIRmod, aes(x = time, y = value,
     ylab("Number of individuals") + xlab("Days")
 
 ```
+
+
+
+<iframe src="https://sineadmorris.shinyapps.io/sirmodel/"></iframe>
