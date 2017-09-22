@@ -32,7 +32,7 @@
 &lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\gamma I\)&lt;/span&gt; is the number of infected individuals that recover per day.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;embed src=&#34;/img/Precept1.pdf&#34; out.width=&#34;100%&#34; /&gt;
+&lt;embed src=&#34;/img/Precept1.pdf&#34; style=&#34;width:50.0%&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Flow diagram of the SIR model with births equal to deaths.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;We can use numerical integration methods to solve these equations to find &lt;span class=&#34;math inline&#34;&gt;\(S, I\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(R\)&lt;/span&gt;. In this class we will use R to do this.&lt;/p&gt;
@@ -54,7 +54,7 @@
 \end{align*}\]&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;And our flow diagram now looks like:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;embed src=&#34;/img/Precept1vacc.pdf&#34; /&gt;
+&lt;embed src=&#34;/img/Precept1vacc.pdf&#34; style=&#34;width:50.0%&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Flow diagram of the SIR model with births equal to deaths.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;img src=&#34;/project/2017-09-21-the-sir-model_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
