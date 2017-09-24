@@ -8,6 +8,7 @@ categories:
 tags:
   - SIR
   - model
+  - class
 output:
     blogdown::html_page:
         fig_width: 12
@@ -27,17 +28,19 @@ $$\begin{align*}
 \end{align*}$$
 
 
-So what do these terms mean? Suppose the unit of time we are thinking aobut is days, then
+So what do these terms mean? Suppose the unit of time we are considering is days, then
 
 * $\mu N$ represents the number of births into the population per day (we assume everyone is born suceptible)
-* $\beta S I$ represents the number of susceptibles that become infected per day
+* $\beta S I$ represents the number of susceptible individuals that become infected per day
 * $\mu S$ is the number of susceptibles that die per day.
 * $\gamma I$ is the number of infected individuals that recover per day.
 
-![Flow diagram of the SIR model with births equal to deaths.](/img/Precept1.png)
+From these equations we can create a flow diagram showing the direction of movement of individuals through these compartments:
+
+![](/img/Precept1.png)
 
 
-We can use numerical integration methods to solve these equations to find $S, I$, and $R$. In this class we will use R to do this. 
+To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here's an example of what the outcome of solving these equations looks like for a given set of parameters ($\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7$; note: this corresponds to an $R_0$ of about 3). 
 
 ```{r SIRbasic, echo = FALSE, message = FALSE}
 require(deSolve)
@@ -110,10 +113,10 @@ ggplot(SIRmod, aes(x = time, y = value,
 
 ## Incorporating vaccination
 
-1. To incorporate vaccination we need to modify the equations above so that a proportion, $p$ say, of the new births into the population are vaccinated, and thus immune to infection. 
-2. If $p$ is the proportion vaccinated, then $1 - p$ is the proportion left unvaccinated. 
-3. Thus the proportion of new births that are vaccinated is $\mu N p$, and the proportion unvaccinated is $\mu N (1 - p)$
-4. Those that are vaccinated then avoid the susceptible class and are sent straight to the recovered (i.e. immune) class, whereas those that are unvaccinated go into the susceptible class as before.
+To incorporate vaccination we need to modify the equations above so that a proportion, $p$ say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered (i.e. immune) class, whereas those that are unvaccinated will go into the susceptible class as before.
+
+If $p$ is the proportion vaccinated, then $1 - p$ is the proportion left unvaccinated. 
+Therefore the *number* of new births that are vaccinated is $\mu N p$, and the number unvaccinated is $\mu N (1 - p)$.
 
 Our equations therefore become
 
@@ -123,19 +126,19 @@ $$\begin{align*}
 \frac{dR}{dt} &=  \gamma I - \mu R + \mu N p.
 \end{align*}$$
 
-And our flow diagram now looks like:
+And our flow diagram now looks something like this:
 
-![Flow diagram of the SIR model with births equal to deaths.](/img/Precept1vacc.png){ width=90% }
+![](/img/Precept1vacc.png){ width=90% }
 
-
+Here's an example of the outcome of solving these equations with $p = 0.5$ (and all other parameters as before). Note: now the *effective* reproduction number is $R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5$.
 
 ```{r SIRvacc, echo = FALSE, message = FALSE}
 # i.e., mean infectious period is 7 days here
 p <- 0.5
 
-START.S <- 9999 * p
+START.S <- 9999 * (1 - p)
 START.I <- 1
-START.R <- 9999 - 9999 * p
+START.R <- 9999 * p
 
 # This function models a time step for the SIR:
 dx.dt.SIR <- function(t, y, parms) {
@@ -186,7 +189,13 @@ ggplot(SIRmod, aes(x = time, y = value,
 
 ```
 
-Interactive plot:
+
+In the interactive plot below you can explore for yourself what happens to the outcome when you change different model parameters, e.g:
+
+* how does changing $R_0$ impact the shape of the epidemic curve?
+* what happens when you add in births/ deaths (i.e. change $\mu = 0$ to $\mu \geq 0$)?
+* what happens when you include vaccination?
+
 
 
 <iframe src="https://sineadmorris.shinyapps.io/sirmodel/" width="900" height="650"></iframe>
