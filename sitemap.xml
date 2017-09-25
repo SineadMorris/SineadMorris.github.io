@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/talk/example-talk/</loc>
+      <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/dolphin-morbillivirus/</loc>
       <lastmod>2017-09-24T00:00:00+00:00</lastmod>
     </url>
@@ -33,15 +42,6 @@
     <url>
     
       <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
