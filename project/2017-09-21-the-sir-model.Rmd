@@ -8,7 +8,7 @@ categories:
 tags:
   - SIR
   - model
-  - class
+  - Classes
 output:
     blogdown::html_page:
         fig_width: 12
