@@ -9,11 +9,13 @@ tags:
   - SIR
   - model
   - Classes
+image_preview: "headers/Precept1.png"
 output:
     blogdown::html_page:
         fig_width: 12
         fig_height: 5
-        featuredImage: '/headers/Precept1.png'
+header: 
+    image: "headers/Precept1.png"
 ---
 
 ## Introduction
