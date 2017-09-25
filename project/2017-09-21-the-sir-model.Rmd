@@ -104,11 +104,15 @@ SIRmod <- data.frame(SIR.output) %>% tbl_df() %>%
     gather(variable, value, S:R) 
 
 ggplot(SIRmod, aes(x = time, y = value, 
-                   colour = as.factor(variable))) + geom_line(size = 1.2) +
+                   colour = as.factor(variable))) + geom_line(size = 1.5) +
     theme_bw() + scale_colour_discrete("Compartment", 
                                        breaks = c("S", "I", "R"),
                                        labels = c("S", "I", "R")) +
-    ylab("Number of individuals") + xlab("Days")
+    ylab("Number of individuals") + xlab("Days") + 
+    theme(axis.text = element_text(size = 12),
+          axis.title = element_text(size = 14),
+          legend.text = element_text(size = 12),
+          legend.title = element_text(size = 14))
 
 ```
 
@@ -183,11 +187,15 @@ SIRmod <- data.frame(SIR.output) %>% tbl_df() %>%
     gather(variable, value, S:R) 
 
 ggplot(SIRmod, aes(x = time, y = value, 
-                   colour = as.factor(variable))) + geom_line(size = 1.2) +
+                   colour = as.factor(variable))) + geom_line(size = 1.5) +
     theme_bw() + scale_colour_discrete("Compartment", 
                                        breaks = c("S", "I", "R"),
                                        labels = c("S", "I", "R")) +
-    ylab("Number of individuals") + xlab("Days")
+    ylab("Number of individuals") + xlab("Days")  + 
+    theme(axis.text = element_text(size = 12),
+          axis.title = element_text(size = 14),
+          legend.text = element_text(size = 12),
+          legend.title = element_text(size = 14))
 
 ```
 
