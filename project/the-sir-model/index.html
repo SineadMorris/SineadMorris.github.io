@@ -177,7 +177,7 @@
     <div class="article-style" itemprop="articleBody">
       <div id="introduction" class="section level2">
 <h2>Introduction</h2>
-<p>In class we went over the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (<span class="math inline">\(\mu\)</span>) gives:</p>
+<p>In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (<span class="math inline">\(\mu\)</span>) gives:</p>
 <p><span class="math display">\[\begin{align*}
 \frac{dS}{dt} &amp;= \mu N -\beta S I - \mu S\\
 \frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\
@@ -200,9 +200,9 @@
 </div>
 <div id="incorporating-vaccination" class="section level2">
 <h2>Incorporating vaccination</h2>
-<p>To incorporate vaccination we need to modify the equations above so that a proportion, <span class="math inline">\(p\)</span> say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered (i.e. immune) class, whereas those that are unvaccinated will go into the susceptible class as before.</p>
+<p>To incorporate vaccination we need to modify the equations above so that a proportion, <span class="math inline">\(p\)</span> say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered class, whereas those that are unvaccinated will go into the susceptible class as before.</p>
 <p>If <span class="math inline">\(p\)</span> is the proportion vaccinated, then <span class="math inline">\(1 - p\)</span> is the proportion left unvaccinated. Therefore the <em>number</em> of new births that are vaccinated is <span class="math inline">\(\mu N p\)</span>, and the number unvaccinated is <span class="math inline">\(\mu N (1 - p)\)</span>.</p>
-<p>Our equations therefore become</p>
+<p>Our equations therefore become:</p>
 <p><span class="math display">\[\begin{align*}
 \frac{dS}{dt} &amp;= \mu N (1 - p) -\beta S I - \mu S\\
 \frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\
@@ -213,9 +213,9 @@
 <img src="/img/Precept1vacc.png" style="width:90.0%" />
 
 </div>
-<p>Here’s an example of the outcome of solving these equations with <span class="math inline">\(p = 0.5\)</span> (and all other parameters as before). Note: now the <em>effective</em> reproduction number is <span class="math inline">\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)</span>.</p>
+<p>Here’s the outcome of solving these equations with <span class="math inline">\(p = 0.5\)</span> (and all other parameters as before). Note: now the <em>effective</em> reproduction number is <span class="math inline">\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)</span>.</p>
 <p><img src="/project/2017-09-21-the-sir-model_files/figure-html/SIRvacc-1.png" width="1152" /></p>
-<p>In the interactive plot below you can explore for yourself what happens to the outcome when you change different model parameters, e.g:</p>
+<p>In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:</p>
 <ul>
 <li>how does changing <span class="math inline">\(R_0\)</span> impact the shape of the epidemic curve?</li>
 <li>what happens when you add in births/ deaths (i.e. change <span class="math inline">\(\mu = 0\)</span> to <span class="math inline">\(\mu \geq 0\)</span>)?</li>

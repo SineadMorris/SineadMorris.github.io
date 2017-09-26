@@ -45,7 +45,7 @@
       <guid>/project/the-sir-model/</guid>
       <description>&lt;div id=&#34;introduction&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In class we went over the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (&lt;span class=&#34;math inline&#34;&gt;\(\mu\)&lt;/span&gt;) gives:&lt;/p&gt;
+&lt;p&gt;In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (&lt;span class=&#34;math inline&#34;&gt;\(\mu\)&lt;/span&gt;) gives:&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
 \frac{dS}{dt} &amp;amp;= \mu N -\beta S I - \mu S\\
 \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\
@@ -68,9 +68,9 @@
 &lt;/div&gt;
 &lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Incorporating vaccination&lt;/h2&gt;
-&lt;p&gt;To incorporate vaccination we need to modify the equations above so that a proportion, &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered (i.e. immune) class, whereas those that are unvaccinated will go into the susceptible class as before.&lt;/p&gt;
+&lt;p&gt;To incorporate vaccination we need to modify the equations above so that a proportion, &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered class, whereas those that are unvaccinated will go into the susceptible class as before.&lt;/p&gt;
 &lt;p&gt;If &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; is the proportion vaccinated, then &lt;span class=&#34;math inline&#34;&gt;\(1 - p\)&lt;/span&gt; is the proportion left unvaccinated. Therefore the &lt;em&gt;number&lt;/em&gt; of new births that are vaccinated is &lt;span class=&#34;math inline&#34;&gt;\(\mu N p\)&lt;/span&gt;, and the number unvaccinated is &lt;span class=&#34;math inline&#34;&gt;\(\mu N (1 - p)\)&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;Our equations therefore become&lt;/p&gt;
+&lt;p&gt;Our equations therefore become:&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
 \frac{dS}{dt} &amp;amp;= \mu N (1 - p) -\beta S I - \mu S\\
 \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\
@@ -81,9 +81,9 @@
 &lt;img src=&#34;/img/Precept1vacc.png&#34; style=&#34;width:90.0%&#34; /&gt;
 
 &lt;/div&gt;
-&lt;p&gt;Here’s an example of the outcome of solving these equations with &lt;span class=&#34;math inline&#34;&gt;\(p = 0.5\)&lt;/span&gt; (and all other parameters as before). Note: now the &lt;em&gt;effective&lt;/em&gt; reproduction number is &lt;span class=&#34;math inline&#34;&gt;\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Here’s the outcome of solving these equations with &lt;span class=&#34;math inline&#34;&gt;\(p = 0.5\)&lt;/span&gt; (and all other parameters as before). Note: now the &lt;em&gt;effective&lt;/em&gt; reproduction number is &lt;span class=&#34;math inline&#34;&gt;\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/project/2017-09-21-the-sir-model_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;In the interactive plot below you can explore for yourself what happens to the outcome when you change different model parameters, e.g:&lt;/p&gt;
+&lt;p&gt;In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;how does changing &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; impact the shape of the epidemic curve?&lt;/li&gt;
 &lt;li&gt;what happens when you add in births/ deaths (i.e. change &lt;span class=&#34;math inline&#34;&gt;\(\mu = 0\)&lt;/span&gt; to &lt;span class=&#34;math inline&#34;&gt;\(\mu \geq 0\)&lt;/span&gt;)?&lt;/li&gt;

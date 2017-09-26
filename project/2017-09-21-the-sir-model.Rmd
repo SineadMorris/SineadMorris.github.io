@@ -20,7 +20,7 @@ header:
 
 ## Introduction
 
-In class we went over the SIR model with births and deaths.
+In class we covered the SIR model with births and deaths.
 Assuming the birth rate is equal to the death rate ($\mu$) gives: 
 
 $$\begin{align*}
@@ -119,12 +119,12 @@ ggplot(SIRmod, aes(x = time, y = value,
 
 ## Incorporating vaccination
 
-To incorporate vaccination we need to modify the equations above so that a proportion, $p$ say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered (i.e. immune) class, whereas those that are unvaccinated will go into the susceptible class as before.
+To incorporate vaccination we need to modify the equations above so that a proportion, $p$ say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered class, whereas those that are unvaccinated will go into the susceptible class as before.
 
 If $p$ is the proportion vaccinated, then $1 - p$ is the proportion left unvaccinated. 
 Therefore the *number* of new births that are vaccinated is $\mu N p$, and the number unvaccinated is $\mu N (1 - p)$.
 
-Our equations therefore become
+Our equations therefore become:
 
 $$\begin{align*}
 \frac{dS}{dt} &= \mu N (1 - p) -\beta S I - \mu S\\
@@ -136,7 +136,7 @@ And our flow diagram now looks something like this:
 
 ![](/img/Precept1vacc.png){ width=90% }
 
-Here's an example of the outcome of solving these equations with $p = 0.5$ (and all other parameters as before). Note: now the *effective* reproduction number is $R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5$.
+Here's the outcome of solving these equations with $p = 0.5$ (and all other parameters as before). Note: now the *effective* reproduction number is $R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5$.
 
 ```{r SIRvacc, echo = FALSE, message = FALSE}
 # i.e., mean infectious period is 7 days here
@@ -200,7 +200,7 @@ ggplot(SIRmod, aes(x = time, y = value,
 ```
 
 
-In the interactive plot below you can explore for yourself what happens to the outcome when you change different model parameters, e.g:
+In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:
 
 * how does changing $R_0$ impact the shape of the epidemic curve?
 * what happens when you add in births/ deaths (i.e. change $\mu = 0$ to $\mu \geq 0$)?
