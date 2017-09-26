@@ -55,7 +55,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu N\)&lt;/span&gt; represents the number of births into the population per day (we assume everyone is born suceptible)&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\beta S I\)&lt;/span&gt; represents the number of susceptible individuals that become infected per day&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu S\)&lt;/span&gt; is the number of susceptibles that die per day.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu S\)&lt;/span&gt; (or &lt;span class=&#34;math inline&#34;&gt;\(\mu I\)&lt;/span&gt;/ &lt;span class=&#34;math inline&#34;&gt;\(\mu R\)&lt;/span&gt;) is the number of susceptible (or infected/ immune) individuals that die per day.&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\gamma I\)&lt;/span&gt; is the number of infected individuals that recover per day.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;From these equations we can create a flow diagram showing the direction of movement of individuals through these compartments:&lt;/p&gt;
