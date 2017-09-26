@@ -122,7 +122,7 @@ ggplot(SIRmod, aes(x = time, y = value,
 To incorporate vaccination we need to modify the equations above so that a proportion, $p$ say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered class, whereas those that are unvaccinated will go into the susceptible class as before.
 
 If $p$ is the proportion vaccinated, then $1 - p$ is the proportion left unvaccinated. 
-Therefore the *number* of new births that are vaccinated is $\mu N p$, and the number unvaccinated is $\mu N (1 - p)$.
+Therefore the *number* of new births that are vaccinated (per unit time) is $\mu N p$, and the number unvaccinated is $\mu N (1 - p)$.
 
 Our equations therefore become:
 
