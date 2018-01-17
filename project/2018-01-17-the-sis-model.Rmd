@@ -47,9 +47,9 @@ For simplicity we will ignore births and death, and also use a proportional mode
 \label{fig:SIS}
 \end{figure}
 
-!["Simple SIS model without births and deaths."](/img/SISsimple)
+![Simple SIS model without births and deaths.\label{fig:SIS}](/img/SISsimple.png)
 
-<figure src="/img/SISsimple.pdf" caption="Simple SIS model without births and deaths."></figure>
+
 
 ```{r params, echo = FALSE}
 library(deSolve)
