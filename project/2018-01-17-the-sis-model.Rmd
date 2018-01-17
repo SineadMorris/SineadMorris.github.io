@@ -40,12 +40,6 @@ For simplicity we will ignore births and death, and also use a proportional mode
 \end{align*}
 
 
-\begin{figure}
-\includegraphics[width = 3in]{/img/SISsimple.pdf}
-\centering
-\caption{Simple SIS model without births and deaths.}
-\label{fig:SIS}
-\end{figure}
 
 ![Simple SIS model without births and deaths.\label{fig:SIS}](/img/SISsimple.png)
 
@@ -126,12 +120,9 @@ To do this, we define $S_h$ and $I_h$ to represent the proportion of humans that
 
 Similar to the simple SIS model, we assume $S_h = 1 - I_h$, and $S_m = 1 - I_m$. We can then modify equation (\ref{eqn:SIS}) to describe the proportion infected in both the human and mosquito populations as described below.
 
-\begin{figure}
-\includegraphics[width = 4in]{/img/SISm.pdf}
-\centering
-\caption{SIS model extended to humans and mosquitos. Note that in contrast to the human population, which recover at rate $\gamma_h$, we assume that mosquitos do not recover from disease, and instead die at rate $\gamma_m$.}
-\label{fig:SISm}
-\end{figure}
+
+
+![SIS model extended to humans and mosquitos. Note that in contrast to the human population, which recover at rate $\gamma_h$, we assume that mosquitos do not recover from disease, and instead die at rate $\gamma_m$.\label{fig:SISm}](/img/SISsimple.png)
 
 #### Humans 
 

@@ -24,7 +24,6 @@
 \frac{dS}{dt} &amp;amp;= - \beta S I + \gamma I\\
 \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I.
 \end{align*}\]&lt;/span&gt;
-
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;/img/SISsimple.png&#34; alt=&#34;Simple SIS model without births and deaths.&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Simple SIS model without births and deaths.&lt;/p&gt;
@@ -54,7 +53,10 @@ Figure 1: Example simulation of the simple SIS model with &lt;span class=&#34;ma
 &lt;p&gt;To extend the simple SIS model above to malaria dynamics, we need to account for both human and mosquito populations in our model equations.&lt;/p&gt;
 &lt;p&gt;To do this, we define &lt;span class=&#34;math inline&#34;&gt;\(S_h\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(I_h\)&lt;/span&gt; to represent the proportion of humans that are susceptible and infected, respectively, and &lt;span class=&#34;math inline&#34;&gt;\(S_m\)&lt;/span&gt;/ &lt;span class=&#34;math inline&#34;&gt;\(I_m\)&lt;/span&gt; to represent the proportion of mosquitos that are susceptible/ infected. A basic flow diagram is shown in Figure .&lt;/p&gt;
 &lt;p&gt;Similar to the simple SIS model, we assume &lt;span class=&#34;math inline&#34;&gt;\(S_h = 1 - I_h\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(S_m = 1 - I_m\)&lt;/span&gt;. We can then modify equation () to describe the proportion infected in both the human and mosquito populations as described below.&lt;/p&gt;
-
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;/img/SISsimple.png&#34; alt=&#34;SIS model extended to humans and mosquitos. Note that in contrast to the human population, which recover at rate \gamma_h, we assume that mosquitos do not recover from disease, and instead die at rate \gamma_m.&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;SIS model extended to humans and mosquitos. Note that in contrast to the human population, which recover at rate &lt;span class=&#34;math inline&#34;&gt;\(\gamma_h\)&lt;/span&gt;, we assume that mosquitos do not recover from disease, and instead die at rate &lt;span class=&#34;math inline&#34;&gt;\(\gamma_m\)&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
 &lt;div id=&#34;humans&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Humans&lt;/h4&gt;
 &lt;p&gt;First, for infected humans, we know that each new infected case can only arise when a susceptible human (&lt;span class=&#34;math inline&#34;&gt;\(S_h = 1 - I_h\)&lt;/span&gt;) comes into contact (i.e. is bitten) by an infected mosquito (&lt;span class=&#34;math inline&#34;&gt;\(I_m\)&lt;/span&gt;). Therefore,&lt;/p&gt;
