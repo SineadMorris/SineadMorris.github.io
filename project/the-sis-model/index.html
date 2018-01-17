@@ -275,12 +275,13 @@ Figure 2: Example simulation of the SIS malaria model with <span class="math inl
 </ol>
 <div id="finding-the-proportion-of-infected-mosquitos" class="section level4">
 <h4>1. Finding the proportion of infected mosquitos</h4>
-<p>Setting <span class="math inline">\(dI_m/dt = 0\)</span> gives</p>
+<p>Setting <span class="math inline">\(dI_m/dt = 0\)</span> and expanding out the brackets gives</p>
 <span class="math display">\[\begin{align*}
 ac (1 - I_m) I_h - \gamma_m I_m &amp; = 0,\\
-\intertext{then expanding out the brackets we get}
-ac I_h - ac I_m I_h - \gamma_m I_m &amp; = 0\\
-\intertext{and isolating all terms containing $I_m$ on one side}
+ac I_h - ac I_m I_h - \gamma_m I_m &amp; = 0.
+\end{align*}\]</span>
+Then isolating all terms containing <span class="math inline">\(I_m\)</span> on one side, we get
+<span class="math display">\[\begin{align*}
  ac I_m I_h + \gamma_m I_m &amp; = ac I_h\\
 I_m (ac I_h + \gamma_m) &amp; = ac I_h\\
 I_m &amp; = \frac{ac I_h}{ac I_h + \gamma_m}.\\
@@ -288,20 +289,19 @@ I_m &amp; = \frac{ac I_h}{ac I_h + \gamma_m}.\\
 </div>
 <div id="considering-the-start-of-the-human-epidemic" class="section level4">
 <h4>2. Considering the start of the human epidemic</h4>
-Setting <span class="math inline">\(dI_h/dt &gt; 0\)</span> gives
+Setting <span class="math inline">\(dI_h/dt &gt; 0\)</span> and using the expression for <span class="math inline">\(I_m\)</span> that we just found gives
 <span class="math display">\[\begin{align*}
-amb (1 - I_h) I_m - \gamma_h I_h &amp; &gt; 0\\
-\intertext{and using the expression for $I_m$ that we just found}
+amb (1 - I_h) I_m - \gamma_h I_h &amp; &gt; 0,\\
 amb (1 - I_h) \frac{ac I_h}{ac I_h + \gamma_m} - \gamma_h I_h &amp; &gt; 0.
 \end{align*}\]</span>
 <p>Now, since we are at the start of the epidemic, we know that <span class="math inline">\(S_h(0) = 1 - I_h(0) \sim 1\)</span> (i.e. basically the entire population is suceptible), and so we can set <span class="math inline">\(1 - I_h\)</span> = 1 in the above equation to simplify things to</p>
 <span class="math display">\[\begin{align*}
-amb \frac{ac I_h}{ac I_h + \gamma_m} - \gamma_h I_h &amp; &gt; 0\\
-\intertext{then dividing by $I_h$ gives}
-amb \frac{ac}{ac I_h + \gamma_m} - \gamma_h &amp; &gt; 0\\
-\intertext{and moving $\gamma_h$ to the other side}
-\frac{ambac}{ac I_h + \gamma_m} &amp; &gt; \gamma_h \\
-\intertext{then finally rearranging the left hand side numerator and diving both sides by $\gamma_h$ gives}
+amb \frac{ac I_h}{ac I_h + \gamma_m} - \gamma_h I_h &amp; &gt; 0,\\
+amb \frac{ac}{ac I_h + \gamma_m} - \gamma_h &amp; &gt; 0,\\
+\frac{ambac}{ac I_h + \gamma_m} &amp; &gt; \gamma_h. \\
+\end{align*}\]</span>
+Finally, rearranging the left hand side numerator and diving both sides by <span class="math inline">\(\gamma_h\)</span> gives
+<span class="math display">\[\begin{align*}
 \frac{ma^2bc}{\gamma_h( ac I_h + \gamma_m)} &amp; &gt; 1.
 \end{align*}\]</span>
 <p>Finally, we can simplify this one stage further by assuming that the initial proportion of infected humans is very small, or even zero, i.e. <span class="math inline">\(I_h(0) \sim 0\)</span>. This means we can set <span class="math inline">\(ac I_h = 0\)</span>, so that</p>

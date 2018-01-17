@@ -255,13 +255,14 @@ So the steps we will take are:
 
 #### 1. Finding the proportion of infected mosquitos
 
-Setting $dI_m/dt = 0$ gives
+Setting $dI_m/dt = 0$ and expanding out the brackets gives
 
 \begin{align*}
 ac (1 - I_m) I_h - \gamma_m I_m & = 0,\\
-\intertext{then expanding out the brackets we get}
-ac I_h - ac I_m I_h - \gamma_m I_m & = 0\\
-\intertext{and isolating all terms containing $I_m$ on one side}
+ac I_h - ac I_m I_h - \gamma_m I_m & = 0.
+\end{align*}
+Then isolating all terms containing $I_m$ on one side, we get
+\begin{align*}
  ac I_m I_h + \gamma_m I_m & = ac I_h\\
 I_m (ac I_h + \gamma_m) & = ac I_h\\
 I_m & = \frac{ac I_h}{ac I_h + \gamma_m}.\\
@@ -270,22 +271,21 @@ I_m & = \frac{ac I_h}{ac I_h + \gamma_m}.\\
 
 #### 2. Considering the start of the human epidemic
 
-Setting $dI_h/dt > 0$ gives
+Setting $dI_h/dt > 0$ and using the expression for $I_m$ that we just found gives
 \begin{align*}
-amb (1 - I_h) I_m - \gamma_h I_h & > 0\\
-\intertext{and using the expression for $I_m$ that we just found}
+amb (1 - I_h) I_m - \gamma_h I_h & > 0,\\
 amb (1 - I_h) \frac{ac I_h}{ac I_h + \gamma_m} - \gamma_h I_h & > 0.
 \end{align*}
 
 Now, since we are at the start of the epidemic, we know that $S_h(0) = 1 - I_h(0) \sim 1$ (i.e. basically the entire population is suceptible), and so we can set $1 - I_h$ = 1 in the above equation to simplify things to
 
 \begin{align*}
-amb \frac{ac I_h}{ac I_h + \gamma_m} - \gamma_h I_h & > 0\\
-\intertext{then dividing by $I_h$ gives}
-amb \frac{ac}{ac I_h + \gamma_m} - \gamma_h & > 0\\
-\intertext{and moving $\gamma_h$ to the other side}
-\frac{ambac}{ac I_h + \gamma_m} & > \gamma_h \\
-\intertext{then finally rearranging the left hand side numerator and diving both sides by $\gamma_h$ gives}
+amb \frac{ac I_h}{ac I_h + \gamma_m} - \gamma_h I_h & > 0,\\
+amb \frac{ac}{ac I_h + \gamma_m} - \gamma_h & > 0,\\
+\frac{ambac}{ac I_h + \gamma_m} & > \gamma_h. \\
+\end{align*}
+Finally, rearranging the left hand side numerator and diving both sides by $\gamma_h$ gives
+\begin{align*}
 \frac{ma^2bc}{\gamma_h( ac I_h + \gamma_m)} & > 1.
 \end{align*}
 
