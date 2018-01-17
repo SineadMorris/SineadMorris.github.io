@@ -47,7 +47,7 @@ For simplicity we will ignore births and death, and also use a proportional mode
 \label{fig:SIS}
 \end{figure}
 
-!["Simple SIS model without births and deaths."](/img/SISsimple.pdf)
+!["Simple SIS model without births and deaths."](/img/SISsimple)
 
 <figure src="/img/SISsimple.pdf" caption="Simple SIS model without births and deaths."></figure>
 
