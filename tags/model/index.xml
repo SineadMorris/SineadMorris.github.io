@@ -25,6 +25,12 @@
 \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I.
 \end{align*}\]&lt;/span&gt;
 
+&lt;div class=&#34;figure&#34;&gt;
+&lt;embed src=&#34;/img/SISsimple.pdf&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;“Simple SIS model without births and deaths.”&lt;/p&gt;
+&lt;/div&gt;
+&lt;figure src=&#34;/img/SISsimple.pdf&#34; caption=&#34;Simple SIS model without births and deaths.&#34;&gt;
+&lt;/figure&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plot&#34;&gt;&lt;/span&gt;
 &lt;img src=&#34;/project/2018-01-17-the-sis-model_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;

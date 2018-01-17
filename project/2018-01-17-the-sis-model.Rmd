@@ -16,6 +16,9 @@ output:
         fig_height: 5
 header: 
     image: "headers/SISsimple.pdf" 
+header-includes:
+- \usepackage{graphicx}
+- \usepackage{caption}
 ---
 
 
@@ -44,7 +47,9 @@ For simplicity we will ignore births and death, and also use a proportional mode
 \label{fig:SIS}
 \end{figure}
 
+!["Simple SIS model without births and deaths."](/img/SISsimple.pdf)
 
+<figure src="/img/SISsimple.pdf" caption="Simple SIS model without births and deaths."></figure>
 
 ```{r params, echo = FALSE}
 library(deSolve)
