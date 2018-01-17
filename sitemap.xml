@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/project/the-sis-model/</loc>
+      <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/2017-11-07-the-measles-paradox/</loc>
       <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     </url>
@@ -144,7 +153,7 @@
     <url>
     
       <loc>/tags/lectures/</loc>
-      <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -154,7 +163,7 @@
     <url>
     
       <loc>/tags/model/</loc>
-      <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -164,7 +173,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -184,7 +193,7 @@
     <url>
     
       <loc>/categories/r/</loc>
-      <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -195,6 +204,16 @@
     
       <loc>/tags/sir/</loc>
       <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/sis/</loc>
+      <lastmod>2018-01-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
