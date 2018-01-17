@@ -19,6 +19,7 @@ header:
 header-includes:
 - \usepackage{graphicx}
 - \usepackage{caption}
+
 ---
 
 
@@ -30,18 +31,16 @@ knitr::opts_chunk$set(echo = TRUE, eval = TRUE, fig.height = 4, fig.width = 7)
 
 ## Background: simple SIS model
 
-Let's start by refreshing the basics of the SIS model. Susceptible individuals ($S$) become infected and move into the infected class ($I$), and then infected individuals who recover move straight back to the susceptible class (so there's no period of immunity like in the SIR model). 
+Let's start by refreshing the basics of the SIS model. Susceptible individuals ($S$) become infected and move into the infected class ($I$), and then infected individuals who recover move straight back to the susceptible class (so there's no period of immunity like in the SIR model). For simplicity we will ignore births and death, and also use a proportional model i.e. $S$ + $I$ = $N$ = 1. The basic flow diagram is shown below. 
 
-For simplicity we will ignore births and death, and also use a proportional model i.e. $S$ + $I$ = $N$ = 1. The basic flow diagram is shown in Figure \ref{fig:SIS}, an example simulation is shown in Figure \ref{fig:plot}, and the corresponding equations are
+![](/img/SISsimple.png)
+
+An example simulation of this model is shown in Figure \@ref(fig:plot), and the corresponding equations are
 
 \begin{align*}
 \frac{dS}{dt} &= - \beta S I + \gamma I\\
 \frac{dI}{dt} &= \beta S I - \gamma I.
 \end{align*}
-
-
-
-![Simple SIS model without births and deaths.\label{fig:SIS}](/img/SISsimple.png)
 
 
 
@@ -116,13 +115,14 @@ In this simple SIS model, the effective transmission rate, $\beta$, can be thoug
 
 To extend the simple SIS model above to malaria dynamics, we need to account for both human and mosquito populations in our model equations.
 
-To do this, we define $S_h$ and $I_h$ to represent the proportion of humans that are susceptible and infected, respectively, and $S_m$/ $I_m$ to represent the proportion of mosquitos that are susceptible/ infected. A basic flow diagram is shown in Figure \ref{fig:SISm}. 
-
-Similar to the simple SIS model, we assume $S_h = 1 - I_h$, and $S_m = 1 - I_m$. We can then modify equation (\ref{eqn:SIS}) to describe the proportion infected in both the human and mosquito populations as described below.
-
+To do this, we define $S_h$ and $I_h$ to represent the proportion of humans that are susceptible and infected, respectively, and $S_m$/ $I_m$ to represent the proportion of mosquitos that are susceptible/ infected. A basic flow diagram is shown below.
 
 
 ![SIS model extended to humans and mosquitos. Note that in contrast to the human population, which recover at rate $\gamma_h$, we assume that mosquitos do not recover from disease, and instead die at rate $\gamma_m$.\label{fig:SISm}](/img/SISsimple.png)
+
+
+Similar to the simple SIS model, we assume $S_h = 1 - I_h$, and $S_m = 1 - I_m$. We can then modify our equation for $dI/dt$ above to describe the proportion infected in both the human and mosquito populations.
+
 
 #### Humans 
 
@@ -184,7 +184,7 @@ Substituting $\beta_h = amb$ and $\beta_m = ac$ into our differential equations 
 \frac{dI_m}{dt} & = ac (1 - I_m) I_h - \gamma_m I_m.
 \end{align*}
 
-An example simulation of these equations is shown in Figure \ref{fig:plotm}. 
+An example simulation of these equations is shown in Figure \@ref(fig:plotm). 
 
 ```{r paramsm, echo = FALSE}
 START.Ih <- 0.01

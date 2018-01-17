@@ -177,16 +177,16 @@
     <div class="article-style" itemprop="articleBody">
       <div id="background-simple-sis-model" class="section level2">
 <h2>Background: simple SIS model</h2>
-<p>Let’s start by refreshing the basics of the SIS model. Susceptible individuals (<span class="math inline">\(S\)</span>) become infected and move into the infected class (<span class="math inline">\(I\)</span>), and then infected individuals who recover move straight back to the susceptible class (so there’s no period of immunity like in the SIR model).</p>
-<p>For simplicity we will ignore births and death, and also use a proportional model i.e. <span class="math inline">\(S\)</span> + <span class="math inline">\(I\)</span> = <span class="math inline">\(N\)</span> = 1. The basic flow diagram is shown in Figure , an example simulation is shown in Figure , and the corresponding equations are</p>
+<p>Let’s start by refreshing the basics of the SIS model. Susceptible individuals (<span class="math inline">\(S\)</span>) become infected and move into the infected class (<span class="math inline">\(I\)</span>), and then infected individuals who recover move straight back to the susceptible class (so there’s no period of immunity like in the SIR model). For simplicity we will ignore births and death, and also use a proportional model i.e. <span class="math inline">\(S\)</span> + <span class="math inline">\(I\)</span> = <span class="math inline">\(N\)</span> = 1. The basic flow diagram is shown below.</p>
+<div class="figure">
+<img src="/img/SISsimple.png" />
+
+</div>
+<p>An example simulation of this model is shown in Figure <a href="#fig:plot">1</a>, and the corresponding equations are</p>
 <span class="math display">\[\begin{align*}
 \frac{dS}{dt} &amp;= - \beta S I + \gamma I\\
 \frac{dI}{dt} &amp;= \beta S I - \gamma I.
 \end{align*}\]</span>
-<div class="figure">
-<img src="/img/SISsimple.png" alt="Simple SIS model without births and deaths." />
-<p class="caption">Simple SIS model without births and deaths.</p>
-</div>
 <div class="figure" style="text-align: center"><span id="fig:plot"></span>
 <img src="/project/2018-01-17-the-sis-model_files/figure-html/plot-1.png" alt="Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$." width="672" />
 <p class="caption">
@@ -210,12 +210,12 @@ Figure 1: Example simulation of the simple SIS model with <span class="math inli
 <div id="incorporating-human-mosquito-interactions" class="section level2">
 <h2>Incorporating human-mosquito interactions</h2>
 <p>To extend the simple SIS model above to malaria dynamics, we need to account for both human and mosquito populations in our model equations.</p>
-<p>To do this, we define <span class="math inline">\(S_h\)</span> and <span class="math inline">\(I_h\)</span> to represent the proportion of humans that are susceptible and infected, respectively, and <span class="math inline">\(S_m\)</span>/ <span class="math inline">\(I_m\)</span> to represent the proportion of mosquitos that are susceptible/ infected. A basic flow diagram is shown in Figure .</p>
-<p>Similar to the simple SIS model, we assume <span class="math inline">\(S_h = 1 - I_h\)</span>, and <span class="math inline">\(S_m = 1 - I_m\)</span>. We can then modify equation () to describe the proportion infected in both the human and mosquito populations as described below.</p>
+<p>To do this, we define <span class="math inline">\(S_h\)</span> and <span class="math inline">\(I_h\)</span> to represent the proportion of humans that are susceptible and infected, respectively, and <span class="math inline">\(S_m\)</span>/ <span class="math inline">\(I_m\)</span> to represent the proportion of mosquitos that are susceptible/ infected. A basic flow diagram is shown below.</p>
 <div class="figure">
 <img src="/img/SISsimple.png" alt="SIS model extended to humans and mosquitos. Note that in contrast to the human population, which recover at rate \gamma_h, we assume that mosquitos do not recover from disease, and instead die at rate \gamma_m." />
 <p class="caption">SIS model extended to humans and mosquitos. Note that in contrast to the human population, which recover at rate <span class="math inline">\(\gamma_h\)</span>, we assume that mosquitos do not recover from disease, and instead die at rate <span class="math inline">\(\gamma_m\)</span>.</p>
 </div>
+<p>Similar to the simple SIS model, we assume <span class="math inline">\(S_h = 1 - I_h\)</span>, and <span class="math inline">\(S_m = 1 - I_m\)</span>. We can then modify our equation for <span class="math inline">\(dI/dt\)</span> above to describe the proportion infected in both the human and mosquito populations.</p>
 <div id="humans" class="section level4">
 <h4>Humans</h4>
 <p>First, for infected humans, we know that each new infected case can only arise when a susceptible human (<span class="math inline">\(S_h = 1 - I_h\)</span>) comes into contact (i.e. is bitten) by an infected mosquito (<span class="math inline">\(I_m\)</span>). Therefore,</p>
@@ -261,7 +261,7 @@ At this stage, notice that we can express the <span class="math inline">\(\# ~bi
 \frac{dI_h}{dt} &amp; = amb (1 - I_h) I_m - \gamma_h I_h\\
 \frac{dI_m}{dt} &amp; = ac (1 - I_m) I_h - \gamma_m I_m.
 \end{align*}\]</span>
-<p>An example simulation of these equations is shown in Figure .</p>
+<p>An example simulation of these equations is shown in Figure <a href="#fig:plotm">2</a>.</p>
 <div class="figure" style="text-align: center"><span id="fig:plotm"></span>
 <img src="/project/2018-01-17-the-sis-model_files/figure-html/plotm-1.png" alt="Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$)." width="672" />
 <p class="caption">
