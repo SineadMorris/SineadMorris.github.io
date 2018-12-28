@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance</title>
+      <link>/publication/mv/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mathematical and statistical modeling of HIV decay dynamics in perinatally-infected infants on ART</title>
       <link>/talk/2018-27-11-epiical/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
@@ -34,7 +43,13 @@
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/the-sis-model/</guid>
-      <description>&lt;div id=&#34;background-simple-sis-model&#34; class=&#34;section level2&#34;&gt;
+      <description>
+
+
+
+
+
+&lt;div id=&#34;background-simple-sis-model&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Background: simple SIS model&lt;/h2&gt;
 &lt;p&gt;Let’s start by refreshing the basics of the SIS model. Susceptible individuals (&lt;span class=&#34;math inline&#34;&gt;\(S\)&lt;/span&gt;) become infected and move into the infected class (&lt;span class=&#34;math inline&#34;&gt;\(I\)&lt;/span&gt;), and then infected individuals who recover move straight back to the susceptible class (so there’s no period of immunity like in the SIR model). For simplicity we will ignore births and death, and also use a proportional model i.e. &lt;span class=&#34;math inline&#34;&gt;\(S\)&lt;/span&gt; + &lt;span class=&#34;math inline&#34;&gt;\(I\)&lt;/span&gt; = &lt;span class=&#34;math inline&#34;&gt;\(N\)&lt;/span&gt; = 1. The basic flow diagram is shown below.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -225,7 +240,10 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/the-sir-model/</guid>
-      <description>&lt;div id=&#34;introduction&#34; class=&#34;section level2&#34;&gt;
+      <description>
+
+
+&lt;div id=&#34;introduction&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (&lt;span class=&#34;math inline&#34;&gt;\(\mu\)&lt;/span&gt;) gives:&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}

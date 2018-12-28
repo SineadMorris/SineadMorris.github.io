@@ -46,17 +46,17 @@
     
   
 
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="">
+  <link rel="alternate" href="/categories/index.xml" type="application/rss+xml" title="">
+  <link rel="feed" href="/categories/index.xml" type="application/rss+xml" title="">
 
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/project/the-sir-model/">
+  <link rel="canonical" href="/categories/">
 
   
 
-  <title>The SIR model | </title>
+  <title>Categories | </title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -151,102 +151,29 @@
 </nav>
 
 
-<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+
+
+<div class="universal-wrapper">
+
+  <h1>Categories</h1>
 
   
-<div class="article-header">
-  <img src="/img/headers/Precept1.png" class="article-banner" itemprop="image">
+
   
-</div>
-
-
-
-  <div class="article-container">
-
-    <div class="pub-title">
-      <h1 itemprop="name">The SIR model</h1>
-      <span class="pub-authors" itemprop="author">&nbsp;</span>
-      <span class="pull-right">
-        
-
-      </span>
-    </div>
-
-    
-
-    <div class="article-style" itemprop="articleBody">
+  
+  <div>
+    <h2><a href="/categories/r/">R</a></h2>
+    <div class="article-style">
       
-
-
-<div id="introduction" class="section level2">
-<h2>Introduction</h2>
-<p>In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (<span class="math inline">\(\mu\)</span>) gives:</p>
-<p><span class="math display">\[\begin{align*}
-\frac{dS}{dt} &amp;= \mu N -\beta S I - \mu S\\
-\frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\
-\frac{dR}{dt} &amp;=  \gamma I - \mu R.
-\end{align*}\]</span></p>
-<p>So what do these terms mean? Suppose the unit of time we are considering is days, then</p>
-<ul>
-<li><span class="math inline">\(\mu N\)</span> represents the number of births into the population per day (we assume everyone is born suceptible)</li>
-<li><span class="math inline">\(\beta S I\)</span> represents the number of susceptible individuals that become infected per day</li>
-<li><span class="math inline">\(\mu S\)</span> (or <span class="math inline">\(\mu I\)</span>/ <span class="math inline">\(\mu R\)</span>) is the number of susceptible (or infected/ immune) individuals that die per day.</li>
-<li><span class="math inline">\(\gamma I\)</span> is the number of infected individuals that recover per day.</li>
-</ul>
-<p>From these equations we can create a flow diagram showing the direction of movement of individuals through these compartments:</p>
-<div class="figure">
-<img src="/img/Precept1.png" />
-
-</div>
-<p>To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (<span class="math inline">\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)</span>; note: this corresponds to an <span class="math inline">\(R_0\)</span> of about 3).</p>
-<p><img src="/project/2017-09-21-the-sir-model_files/figure-html/SIRbasic-1.png" width="1152" /></p>
-</div>
-<div id="incorporating-vaccination" class="section level2">
-<h2>Incorporating vaccination</h2>
-<p>To incorporate vaccination we need to modify the equations above so that a proportion, <span class="math inline">\(p\)</span> say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered class, whereas those that are unvaccinated will go into the susceptible class as before.</p>
-<p>If <span class="math inline">\(p\)</span> is the proportion vaccinated, then <span class="math inline">\(1 - p\)</span> is the proportion left unvaccinated. Therefore the <em>number</em> of new births that are vaccinated (per unit time) is <span class="math inline">\(\mu N p\)</span>, and the number unvaccinated is <span class="math inline">\(\mu N (1 - p)\)</span>.</p>
-<p>Our equations therefore become:</p>
-<p><span class="math display">\[\begin{align*}
-\frac{dS}{dt} &amp;= \mu N (1 - p) -\beta S I - \mu S\\
-\frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\
-\frac{dR}{dt} &amp;=  \gamma I - \mu R + \mu N p.
-\end{align*}\]</span></p>
-<p>And our flow diagram now looks something like this:</p>
-<div class="figure">
-<img src="/img/Precept1vacc.png" style="width:90.0%" />
-
-</div>
-<p>Here’s the outcome of solving these equations with <span class="math inline">\(p = 0.5\)</span> (and all other parameters as before). Note: now the <em>effective</em> reproduction number is <span class="math inline">\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)</span>.</p>
-<p><img src="/project/2017-09-21-the-sir-model_files/figure-html/SIRvacc-1.png" width="1152" /></p>
-<p>In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:</p>
-<ul>
-<li>how does changing <span class="math inline">\(R_0\)</span> impact the shape of the epidemic curve?</li>
-<li>what happens when you add in births/ deaths (i.e. change <span class="math inline">\(\mu = 0\)</span> to <span class="math inline">\(\mu \geq 0\)</span>)?</li>
-<li>what happens when you include vaccination?</li>
-</ul>
-<iframe src="https://sineadmorris.shinyapps.io/sirmodel/" width="900" height="650">
-</iframe>
-</div>
-
     </div>
-
   </div>
-</article>
+  
 
-<div class="container">
-  <nav>
-  <ul class="pager">
-    
+  
 
-    
-    <li class="next"><a href="/project/dolphin-morbillivirus/">Disease modeling short course <span
-      aria-hidden="true">&rarr;</span></a></li>
-    
-  </ul>
-</nav>
 
 </div>
-
 <footer class="site-footer">
   <div class="container">
     <p class="powered-by">
