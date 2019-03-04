@@ -118,7 +118,7 @@ To extend the simple SIS model above to malaria dynamics, we need to account for
 To do this, we define $S_h$ and $I_h$ to represent the proportion of humans that are susceptible and infected, respectively, and $S_m$/ $I_m$ to represent the proportion of mosquitos that are susceptible/ infected. A basic flow diagram is shown below.
 
 
-![SIS model extended to humans and mosquitos. Note that in contrast to the human population, which recover at rate $\gamma_h$, we assume that mosquitos do not recover from disease, and instead die at rate $\gamma_m$.\label{fig:SISm}](/img/SISsimple.png)
+![SIS model extended to humans and mosquitos. Note that in contrast to the human population, which recover at rate $\gamma_h$, we assume that mosquitos do not recover from disease, and instead die at rate $\gamma_m$.\label{fig:SISm}](/img/SISm.png)
 
 
 Similar to the simple SIS model, we assume $S_h = 1 - I_h$, and $S_m = 1 - I_m$. We can then modify our equation for $dI/dt$ above to describe the proportion infected in both the human and mosquito populations.
