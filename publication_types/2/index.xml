@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Sinead Morris</copyright>
-    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tissue-resident memory T cells in mice and humans - towards a quantitative ecology [In press]</title>
+      <link>/publication/trm/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance</title>
