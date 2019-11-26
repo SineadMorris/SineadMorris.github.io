@@ -25,10 +25,10 @@
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/trm/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/SineadMorris/TRMecology&#34; target=&#34;_blank&#34;&gt;The analysis&lt;/a&gt; illustrates how a simple mathematical model can be applied to experimental data of tissue resident memory T cells in nonlymphoid tissues.
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/SineadMorris/TRMecology&#34; target=&#34;_blank&#34;&gt;This analysis&lt;/a&gt; illustrates how a simple mathematical model can be applied to experimental data of tissue resident memory T cells in nonlymphoid tissues.
 The aim is to estimate the clonal half-life of each population and project dynamics beyond experimental timeframes.&lt;/p&gt;
 
-&lt;p&gt;Full details of the model can be found in Morris et al (2019) Journal of Immunology [In press].&lt;/p&gt;
+&lt;p&gt;Full background and model details can be found in &lt;a href=&#34;https://www.jimmunol.org/content/203/10/2561&#34; target=&#34;_blank&#34;&gt;Morris et al (2019) Journal of Immunology&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
