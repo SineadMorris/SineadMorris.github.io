@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>shinySIR: Interactive plotting for models of infectious disease spread</title>
+      <link>/post/shinysir/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/shinysir/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/SineadMorris/shinySIR&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;shinySIR&lt;/code&gt;&lt;/a&gt; is an open-source R packge that provides interactive plotting for mathematical models of infectious disease spread. Users can choose from a variety of common built-in ODE models (such as the SIR, SIRS, and SIS models), or create their own. This latter flexibility allows shinySIR to be applied to simple ODEs from any discipline. The package is a useful teaching tool as students can visualize how changing different parameters can impact model dynamics, with minimal knowledge of coding in R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tissue-resident memory T cells in mice and humans: Towards a quantitative ecology</title>
       <link>/publication/trm/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
@@ -40,7 +50,7 @@ The aim is to estimate the clonal half-life of each population and project dynam
       <guid>/post/ushr/</guid>
       <description>&lt;p&gt;In 2017, HIV/AIDS was responsible for the deaths of one million people globally, including 50,000 children less than one year old. Although mathematical modeling has provided important insights into the dynamics of HIV infection during anti-retroviral treatment (ART), there is still a lack of accessible tools for researchers unfamiliar with modeling techniques to apply them to their own datasets.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/SineadMorris/ushr&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;ushr&lt;/code&gt; is an open-source R package&lt;/a&gt; that models the decline of HIV during ART using a popular mathematical framework. The package can be applied to longitudinal data of viral load measurements, and automates all stages of the model fitting process. By mathematically fitting the data, important biological parameters can be estimated, including the lifespans of short and long-lived HIV-infected cells, and the time to suppress viral load below a defined detection threshold. The package also provides visualization and summary tools for fast assessment of model results.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/SineadMorris/ushr&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;ushr&lt;/code&gt;&lt;/a&gt; is an open-source R package that models the decline of HIV during ART using a popular mathematical framework. The package can be applied to longitudinal data of viral load measurements, and automates all stages of the model fitting process. By mathematically fitting the data, important biological parameters can be estimated, including the lifespans of short and long-lived HIV-infected cells, and the time to suppress viral load below a defined detection threshold. The package also provides visualization and summary tools for fast assessment of model results.&lt;/p&gt;
 
 &lt;p&gt;Overall, we hope &lt;a href=&#34;https://github.com/SineadMorris/ushr&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;ushr&lt;/code&gt;&lt;/a&gt; will increase accessibility to mathematical modeling techniques so that greater insights on HIV infection and treatment dynamics may be gained.&lt;/p&gt;
 </description>
