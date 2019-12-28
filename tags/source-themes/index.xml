@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Sinead Morris</title>
+    <link>/tags/source-themes/</link>
+      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>Tissue-resident memory T cells in mice and humans -- towards a quantitative ecology</title>
+      <link>/publication/trm/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/trm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance</title>
+      <link>/publication/mv/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of multi-level spatial data reveals strong synchrony in seasonal influenza epidemics across Norway, Sweden, and Denmark</title>
+      <link>/publication/flu/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/flu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partially observed epidemics in wildlife hosts -- modelling an outbreak of dolphin morbillivirus in the northwestern Atlantic, June 2013–2014</title>
+      <link>/publication/dmv/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demographic buffering -- titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
+      <link>/publication/buffering/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/buffering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

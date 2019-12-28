@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DL Farber | Sinead Morris</title>
+    <link>/authors/dl-farber/</link>
+      <atom:link href="/authors/dl-farber/index.xml" rel="self" type="application/rss+xml" />
+    <description>DL Farber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>DL Farber</title>
+      <link>/authors/dl-farber/</link>
+    </image>
+    
+    <item>
+      <title>Tissue-resident memory T cells in mice and humans -- towards a quantitative ecology</title>
+      <link>/publication/trm/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/trm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AJ Yates | Sinead Morris</title>
+    <link>/authors/aj-yates/</link>
+      <atom:link href="/authors/aj-yates/index.xml" rel="self" type="application/rss+xml" />
+    <description>AJ Yates</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>AJ Yates</title>
+      <link>/authors/aj-yates/</link>
+    </image>
+    
+    <item>
+      <title>Tissue-resident memory T cells in mice and humans -- towards a quantitative ecology</title>
+      <link>/publication/trm/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/trm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance</title>
+      <link>/publication/mv/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

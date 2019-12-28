@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ON Bjørnstad | Sinead Morris</title>
+    <link>/authors/on-bj%C3%B8rnstad/</link>
+      <atom:link href="/authors/on-bj%C3%B8rnstad/index.xml" rel="self" type="application/rss+xml" />
+    <description>ON Bjørnstad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ON Bjørnstad</title>
+      <link>/authors/on-bj%C3%B8rnstad/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of multi-level spatial data reveals strong synchrony in seasonal influenza epidemics across Norway, Sweden, and Denmark</title>
+      <link>/publication/flu/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/flu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demographic buffering -- titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
+      <link>/publication/buffering/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/buffering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on </title>
+    <title>Publications | Sinead Morris</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Sinead Morris</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
-      <title>Tissue-resident memory T cells in mice and humans: Towards a quantitative ecology</title>
+      <title>Tissue-resident memory T cells in mice and humans -- towards a quantitative ecology</title>
       <link>/publication/trm/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/trm/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance</title>
       <link>/publication/mv/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/mv/</guid>
       <description></description>
     </item>
@@ -34,25 +32,22 @@
       <title>Analysis of multi-level spatial data reveals strong synchrony in seasonal influenza epidemics across Norway, Sweden, and Denmark</title>
       <link>/publication/flu/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/flu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Partially observed epidemics in wildlife hosts: modelling an outbreak of dolphin morbillivirus in the northwestern Atlantic, June 2013–2014</title>
-      <link>/publication/dolphin-morbillivirus/</link>
+      <title>Partially observed epidemics in wildlife hosts -- modelling an outbreak of dolphin morbillivirus in the northwestern Atlantic, June 2013–2014</title>
+      <link>/publication/dmv/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/dolphin-morbillivirus/</guid>
+      <guid>/publication/dmv/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demographic buffering: titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
+      <title>Demographic buffering -- titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
       <link>/publication/buffering/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/buffering/</guid>
       <description></description>
     </item>

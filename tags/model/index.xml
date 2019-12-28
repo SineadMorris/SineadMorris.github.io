@@ -1,35 +1,234 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Model on </title>
+    <title>model | Sinead Morris</title>
     <link>/tags/model/</link>
-    <description>Recent content in Model on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Sinead Morris</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/model/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/model/index.xml" rel="self" type="application/rss+xml" />
+    <description>model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>model</title>
+      <link>/tags/model/</link>
+    </image>
     
     <item>
       <title>SIS model for malaria</title>
-      <link>/project/the-sis-model/</link>
+      <link>/post/the-sis-model/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/the-sis-model/</guid>
-      <description>Background: simple SIS model Let’s start by refreshing the basics of the SIS model. Susceptible individuals (\(S\)) become infected and move into the infected class (\(I\)), and then infected individuals who recover move straight back to the susceptible class (so there’s no period of immunity like in the SIR model). For simplicity we will ignore births and death, and also use a proportional model i.e. \(S\) + \(I\) = \(N\) = 1.</description>
+      <guid>/post/the-sis-model/</guid>
+      <description>
+
+
+
+
+
+&lt;div id=&#34;background-simple-sis-model&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Background: simple SIS model&lt;/h2&gt;
+&lt;p&gt;Let’s start by refreshing the basics of the SIS model. Susceptible individuals (&lt;span class=&#34;math inline&#34;&gt;\(S\)&lt;/span&gt;) become infected and move into the infected class (&lt;span class=&#34;math inline&#34;&gt;\(I\)&lt;/span&gt;), and then infected individuals who recover move straight back to the susceptible class (so there’s no period of immunity like in the SIR model). For simplicity we will ignore births and death, and also use a proportional model i.e. &lt;span class=&#34;math inline&#34;&gt;\(S\)&lt;/span&gt; + &lt;span class=&#34;math inline&#34;&gt;\(I\)&lt;/span&gt; = &lt;span class=&#34;math inline&#34;&gt;\(N\)&lt;/span&gt; = 1. The basic flow diagram is shown below.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;SISsimple.png&#34; /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;An example simulation of this model is shown in Figure &lt;a href=&#34;#fig:plot&#34;&gt;1&lt;/a&gt;, and the corresponding equations are&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dS}{dt} &amp;amp;= - \beta S I + \gamma I\\
+\frac{dI}{dt} &amp;amp;= \beta S I - \gamma I.
+\end{align*}\]&lt;/span&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plot&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/sis/index_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Example simulation of the simple SIS model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(R_0 = 3\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(\beta = R_0\times \gamma\)&lt;/span&gt;.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;If we focus on just the &lt;span class=&#34;math inline&#34;&gt;\(I\)&lt;/span&gt; equation, then we can eliminate &lt;span class=&#34;math inline&#34;&gt;\(S\)&lt;/span&gt; by using the fact that &lt;span class=&#34;math inline&#34;&gt;\(S + I = 1 \Rightarrow S = 1 - I\)&lt;/span&gt;. So&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align}
+\frac{dI}{dt} &amp;amp;= \beta S I - \gamma I \nonumber\\
+      \Rightarrow ~~~     \frac{dI}{dt} &amp;amp; = \beta (1 - I) I - \gamma I\label{eqn:SIS}.
+\end{align}\]&lt;/span&gt;
+&lt;p&gt;This will makes things simpler when we come to calculating &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; for the extended malaria model.&lt;/p&gt;
+&lt;div id=&#34;transmission-rate&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Transmission rate&lt;/h4&gt;
+&lt;p&gt;In this simple SIS model, the effective transmission rate, &lt;span class=&#34;math inline&#34;&gt;\(\beta\)&lt;/span&gt;, can be thought of as the product of the number of contacts per individual (per unit time) and the probability that each of these independent contacts will result in infection i.e.&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\beta &amp;amp;= (\#~contacts~per~individual) \times (prob.~infection)
+\end{align*}\]&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;incorporating-human-mosquito-interactions&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Incorporating human-mosquito interactions&lt;/h2&gt;
+&lt;p&gt;To extend the simple SIS model above to malaria dynamics, we need to account for both human and mosquito populations in our model equations.&lt;/p&gt;
+&lt;p&gt;To do this, we define &lt;span class=&#34;math inline&#34;&gt;\(S_h\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(I_h\)&lt;/span&gt; to represent the proportion of humans that are susceptible and infected, respectively, and &lt;span class=&#34;math inline&#34;&gt;\(S_m\)&lt;/span&gt;/ &lt;span class=&#34;math inline&#34;&gt;\(I_m\)&lt;/span&gt; to represent the proportion of mosquitos that are susceptible/ infected. A basic flow diagram is shown below.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;SISm.png&#34; alt=&#34;Note that in contrast to the human population, which recover at rate \gamma_h, we assume that mosquitos do not recover from disease, and instead die at rate \gamma_m.&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Note that in contrast to the human population, which recover at rate &lt;span class=&#34;math inline&#34;&gt;\(\gamma_h\)&lt;/span&gt;, we assume that mosquitos do not recover from disease, and instead die at rate &lt;span class=&#34;math inline&#34;&gt;\(\gamma_m\)&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Similar to the simple SIS model, we assume &lt;span class=&#34;math inline&#34;&gt;\(S_h = 1 - I_h\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(S_m = 1 - I_m\)&lt;/span&gt;. We can then modify our equation for &lt;span class=&#34;math inline&#34;&gt;\(dI/dt\)&lt;/span&gt; above to describe the proportion infected in both the human and mosquito populations.&lt;/p&gt;
+&lt;div id=&#34;humans&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Humans&lt;/h4&gt;
+&lt;p&gt;First, for infected humans, we know that each new infected case can only arise when a susceptible human (&lt;span class=&#34;math inline&#34;&gt;\(S_h = 1 - I_h\)&lt;/span&gt;) comes into contact (i.e. is bitten) by an infected mosquito (&lt;span class=&#34;math inline&#34;&gt;\(I_m\)&lt;/span&gt;). Therefore,&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dI_h}{dt} &amp;amp; = \beta_h (1 - I_h) I_m - \gamma_h I_h,
+\end{align*}\]&lt;/span&gt;
+&lt;p&gt;where &lt;span class=&#34;math inline&#34;&gt;\(\beta_h\)&lt;/span&gt; is the effective transmission rate of humans being infected by mosquitos. Similar to the simple SIS model above, we can think of &lt;span class=&#34;math inline&#34;&gt;\(\beta_h\)&lt;/span&gt; as the product of the number of mosquito contacts (i.e. bites) per human (per unit time) and the probability that each independent bite will result in infection i.e.&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\beta_h &amp;amp;= (\#~contacts~per~human) \times (prob.~infection~from~mosquito)\\
+&amp;amp; = ~~~(\#~bites~per~human) ~~\times (prob.~infection~from~mosquito).
+\end{align*}\]&lt;/span&gt;
+At this stage, notice that we can express the &lt;span class=&#34;math inline&#34;&gt;\(\# ~bites ~per ~human\)&lt;/span&gt; as
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+(\#~bites~per~human) ~ &amp;amp;=  ~(\# ~bites ~per ~mosquito) ~\times ~(\# ~mosquitos ~per ~human)
+\end{align*}\]&lt;/span&gt;
+&lt;p&gt;(To think about this intuitively, from the perspective of a susceptible human, we would expect the number of times they are bitten to increase if there are (1) more mosquitos around AND (2) if the mosquitos around are biting more frequently.) This means that we can then write&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align}
+\beta_h&amp;amp; = (\#~bites~per~mosquito) \times (\#~mosquitos~per~human) \times (prob.~infection~from~mosquito)\nonumber\\
+&amp;amp; = ~~~~~~a ~~~~~~\times~~~~~~ m ~~~~~~\times ~~~~~~b\label{eqn:bites}.
+\end{align}\]&lt;/span&gt;
+&lt;/div&gt;
+&lt;div id=&#34;mosquitos&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Mosquitos&lt;/h4&gt;
+&lt;p&gt;Similarly, for infected mosquitos, we know that each new infected case can only arise when a susceptible mosquito (&lt;span class=&#34;math inline&#34;&gt;\(S_m = 1 - I_m\)&lt;/span&gt;) comes into contact (i.e. bites) an infected human (&lt;span class=&#34;math inline&#34;&gt;\(I_h\)&lt;/span&gt;). Therefore,&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dI_m}{dt} &amp;amp; = \beta_m (1 - I_m) I_h - \gamma_m I_m,
+\end{align*}\]&lt;/span&gt;
+&lt;p&gt;where &lt;span class=&#34;math inline&#34;&gt;\(\beta_m\)&lt;/span&gt; is the effective transmission rate of mosquitos being infected by humans. Similar to above, we can think of &lt;span class=&#34;math inline&#34;&gt;\(\beta_m\)&lt;/span&gt; as the product of the number of human contacts (i.e. bites) per mosquito (per unit time) and the probability that each independent bite will result in infection i.e.&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\beta_m &amp;amp;= (\#~contacts~per~mosquito) \times (prob.~infection~from~human)\\
+&amp;amp; = ~~~(\#~bites~per~mosquito) ~~~\times (prob.~infection~from~human).
+\end{align*}\]&lt;/span&gt;
+&lt;p&gt;Notice that this expression is slighty simpler than the earlier expression for &lt;span class=&#34;math inline&#34;&gt;\(\beta_h\)&lt;/span&gt;, since we already know the # bites per mosquito (it’s just equal to &lt;span class=&#34;math inline&#34;&gt;\(a\)&lt;/span&gt; as we defined in equation ()!). Therefore,&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align}
+\beta_m &amp;amp; = (\#~bites~per~mosquito) \times (prob.~infection~from~human)\nonumber\\
+&amp;amp; = ~~~~~~a ~~~~~~\times~~~~~~c.
+\end{align}\]&lt;/span&gt;
+&lt;/div&gt;
+&lt;div id=&#34;combining-equations&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Combining equations&lt;/h4&gt;
+&lt;p&gt;Substituting &lt;span class=&#34;math inline&#34;&gt;\(\beta_h = amb\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(\beta_m = ac\)&lt;/span&gt; into our differential equations then gives the extended SIS model for malaria transmission between humans and mosquitos:&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dI_h}{dt} &amp;amp; = amb (1 - I_h) I_m - \gamma_h I_h\\
+\frac{dI_m}{dt} &amp;amp; = ac (1 - I_m) I_h - \gamma_m I_m.
+\end{align*}\]&lt;/span&gt;
+&lt;p&gt;An example simulation of these equations is shown in Figure &lt;a href=&#34;#fig:plotm&#34;&gt;2&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plotm&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/sis/index_files/figure-html/plotm-1.png&#34; alt=&#34;Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$).&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 2: Example simulation of the SIS malaria model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma_h = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(\gamma_m = 3\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(m = 2, a = 4, b = 0.05\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(c = 0.09\)&lt;/span&gt; (so again &lt;span class=&#34;math inline&#34;&gt;\(R_0 \sim 3\)&lt;/span&gt;).
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;finding-r_0&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Finding &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;To find &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; we want to focus on the human population (i.e. we want to know how many secondary human infections are likely to occur). Doing this requires making some simplifying assumptions about the mosquito population.&lt;/p&gt;
+&lt;p&gt;Specifically, for this class, we will assume that the mosquito dynamics are already at equilibrium (i.e. &lt;span class=&#34;math inline&#34;&gt;\(dI_m/dt = 0\)&lt;/span&gt;). As an example, this could represent the case where malaria is endemic in the mosquito population and we want to know what will happen when an epidemic is introduced into a new naive human population.&lt;/p&gt;
+&lt;p&gt;So the steps we will take are:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Set &lt;span class=&#34;math inline&#34;&gt;\(dI_m/dt = 0\)&lt;/span&gt; and solve to find an expression for the proportion of infected mosquitos, &lt;span class=&#34;math inline&#34;&gt;\(I_m\)&lt;/span&gt;, at this endemic point;&lt;/li&gt;
+&lt;li&gt;Look at what happens to the proportion of infected humans at the beginning of the epidemic i.e. set &lt;span class=&#34;math inline&#34;&gt;\(dI_h/dt &amp;gt; 0\)&lt;/span&gt; (this is just like we’ve done previously e.g. with the SIR model).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div id=&#34;finding-the-proportion-of-infected-mosquitos&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;1. Finding the proportion of infected mosquitos&lt;/h4&gt;
+&lt;p&gt;Setting &lt;span class=&#34;math inline&#34;&gt;\(dI_m/dt = 0\)&lt;/span&gt; and expanding out the brackets gives&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+ac (1 - I_m) I_h - \gamma_m I_m &amp;amp; = 0,\\
+ac I_h - ac I_m I_h - \gamma_m I_m &amp;amp; = 0.
+\end{align*}\]&lt;/span&gt;
+Then isolating all terms containing &lt;span class=&#34;math inline&#34;&gt;\(I_m\)&lt;/span&gt; on one side, we get
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+ ac I_m I_h + \gamma_m I_m &amp;amp; = ac I_h\\
+I_m (ac I_h + \gamma_m) &amp;amp; = ac I_h\\
+I_m &amp;amp; = \frac{ac I_h}{ac I_h + \gamma_m}.\\
+\end{align*}\]&lt;/span&gt;
+&lt;/div&gt;
+&lt;div id=&#34;considering-the-start-of-the-human-epidemic&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;2. Considering the start of the human epidemic&lt;/h4&gt;
+Setting &lt;span class=&#34;math inline&#34;&gt;\(dI_h/dt &amp;gt; 0\)&lt;/span&gt; and using the expression for &lt;span class=&#34;math inline&#34;&gt;\(I_m\)&lt;/span&gt; that we just found gives
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+amb (1 - I_h) I_m - \gamma_h I_h &amp;amp; &amp;gt; 0,\\
+amb (1 - I_h) \frac{ac I_h}{ac I_h + \gamma_m} - \gamma_h I_h &amp;amp; &amp;gt; 0.
+\end{align*}\]&lt;/span&gt;
+&lt;p&gt;Now, since we are at the start of the epidemic, we know that &lt;span class=&#34;math inline&#34;&gt;\(S_h(0) = 1 - I_h(0) \sim 1\)&lt;/span&gt; (i.e. basically the entire population is suceptible), and so we can set &lt;span class=&#34;math inline&#34;&gt;\(1 - I_h\)&lt;/span&gt; = 1 in the above equation to simplify things to&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+amb \frac{ac I_h}{ac I_h + \gamma_m} - \gamma_h I_h &amp;amp; &amp;gt; 0,\\
+amb \frac{ac}{ac I_h + \gamma_m} - \gamma_h &amp;amp; &amp;gt; 0,\\
+\frac{ambac}{ac I_h + \gamma_m} &amp;amp; &amp;gt; \gamma_h. \\
+\end{align*}\]&lt;/span&gt;
+Finally, rearranging the left hand side numerator and diving both sides by &lt;span class=&#34;math inline&#34;&gt;\(\gamma_h\)&lt;/span&gt; gives
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{ma^2bc}{\gamma_h( ac I_h + \gamma_m)} &amp;amp; &amp;gt; 1.
+\end{align*}\]&lt;/span&gt;
+&lt;p&gt;Finally, we can simplify this one stage further by assuming that the initial proportion of infected humans is very small, or even zero, i.e. &lt;span class=&#34;math inline&#34;&gt;\(I_h(0) \sim 0\)&lt;/span&gt;. This means we can set &lt;span class=&#34;math inline&#34;&gt;\(ac I_h = 0\)&lt;/span&gt;, so that&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{ma^2bc}{\gamma_h\gamma_m} &amp;amp; &amp;gt; 1.
+\end{align*}\]&lt;/span&gt;
+&lt;p&gt;Therefore our final expression for &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; is&lt;/p&gt;
+&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
+\end{align*}\]&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>The SIR model</title>
-      <link>/project/the-sir-model/</link>
+      <link>/post/the-sir-model/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/the-sir-model/</guid>
-      <description>Introduction In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (\(\mu\)) gives:
-\[\begin{align*} \frac{dS}{dt} &amp;amp;= \mu N -\beta S I - \mu S\\ \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\ \frac{dR}{dt} &amp;amp;= \gamma I - \mu R. \end{align*}\]
-So what do these terms mean? Suppose the unit of time we are considering is days, then</description>
+      <guid>/post/the-sir-model/</guid>
+      <description>
+
+
+&lt;div id=&#34;introduction&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (&lt;span class=&#34;math inline&#34;&gt;\(\mu\)&lt;/span&gt;) gives:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dS}{dt} &amp;amp;= \mu N -\beta S I - \mu S\\
+\frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &amp;amp;=  \gamma I - \mu R.
+\end{align*}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So what do these terms mean? Suppose the unit of time we are considering is days, then&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu N\)&lt;/span&gt; represents the number of births into the population per day (we assume everyone is born suceptible)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\beta S I\)&lt;/span&gt; represents the number of susceptible individuals that become infected per day&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu S\)&lt;/span&gt; (or &lt;span class=&#34;math inline&#34;&gt;\(\mu I\)&lt;/span&gt;/ &lt;span class=&#34;math inline&#34;&gt;\(\mu R\)&lt;/span&gt;) is the number of susceptible (or infected/ immune) individuals that die per day.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\gamma I\)&lt;/span&gt; is the number of infected individuals that recover per day.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From these equations we can create a flow diagram showing the direction of movement of individuals through these compartments:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Precept1.png&#34; /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (&lt;span class=&#34;math inline&#34;&gt;\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)&lt;/span&gt;; note: this corresponds to an &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; of about 3).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Incorporating vaccination&lt;/h2&gt;
+&lt;p&gt;To incorporate vaccination we need to modify the equations above so that a proportion, &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered class, whereas those that are unvaccinated will go into the susceptible class as before.&lt;/p&gt;
+&lt;p&gt;If &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; is the proportion vaccinated, then &lt;span class=&#34;math inline&#34;&gt;\(1 - p\)&lt;/span&gt; is the proportion left unvaccinated. Therefore the &lt;em&gt;number&lt;/em&gt; of new births that are vaccinated (per unit time) is &lt;span class=&#34;math inline&#34;&gt;\(\mu N p\)&lt;/span&gt;, and the number unvaccinated is &lt;span class=&#34;math inline&#34;&gt;\(\mu N (1 - p)\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Our equations therefore become:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dS}{dt} &amp;amp;= \mu N (1 - p) -\beta S I - \mu S\\
+\frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &amp;amp;=  \gamma I - \mu R + \mu N p.
+\end{align*}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And our flow diagram now looks something like this:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Precept1vacc.png&#34; style=&#34;width:90.0%&#34; /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;Here’s the outcome of solving these equations with &lt;span class=&#34;math inline&#34;&gt;\(p = 0.5\)&lt;/span&gt; (and all other parameters as before). Note: now the &lt;em&gt;effective&lt;/em&gt; reproduction number is &lt;span class=&#34;math inline&#34;&gt;\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;how does changing &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; impact the shape of the epidemic curve?&lt;/li&gt;
+&lt;li&gt;what happens when you add in births/ deaths (i.e. change &lt;span class=&#34;math inline&#34;&gt;\(\mu = 0\)&lt;/span&gt; to &lt;span class=&#34;math inline&#34;&gt;\(\mu \geq 0\)&lt;/span&gt;)?&lt;/li&gt;
+&lt;li&gt;what happens when you include vaccination?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://sineadmorris.shinyapps.io/sirmodel/&#34; width=&#34;900&#34; height=&#34;650&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

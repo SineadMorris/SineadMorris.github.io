@@ -1,58 +1,218 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Sinead Morris</title>
     <link>/</link>
-    <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Sinead Morris</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sinead Morris</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sinead Morris</title>
+      <link>/</link>
+    </image>
     
     <item>
-      <title>shinySIR: Interactive plotting for models of infectious disease spread</title>
-      <link>/post/shinysir/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/shinysir/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/SineadMorris/shinySIR&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;shinySIR&lt;/code&gt;&lt;/a&gt; is an open-source R packge that provides interactive plotting for mathematical models of infectious disease spread. Users can choose from a variety of common built-in ODE models (such as the SIR, SIRS, and SIS models), or create their own. This latter flexibility allows shinySIR to be applied to simple ODEs from any discipline. The package is a useful teaching tool as students can visualize how changing different parameters can impact model dynamics, with minimal knowledge of coding in R.&lt;/p&gt;
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&#39;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Tissue-resident memory T cells in mice and humans: Towards a quantitative ecology</title>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tissue-resident memory T cells in mice and humans -- towards a quantitative ecology</title>
       <link>/publication/trm/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/trm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Analysis of tissue-resident memory T cell population dynamics</title>
-      <link>/post/trm/</link>
+      <title>Modeling tissue-resident memory T cells</title>
+      <link>/project/trm/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/trm/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/SineadMorris/TRMecology&#34; target=&#34;_blank&#34;&gt;This analysis&lt;/a&gt; illustrates how a simple mathematical model can be applied to experimental data of tissue resident memory T cells in nonlymphoid tissues.
-The aim is to estimate the clonal half-life of each population and project dynamics beyond experimental timeframes.&lt;/p&gt;
-
-&lt;p&gt;Full background and model details can be found in &lt;a href=&#34;https://www.jimmunol.org/content/203/10/2561&#34; target=&#34;_blank&#34;&gt;Morris et al (2019) Journal of Immunology&lt;/a&gt;.&lt;/p&gt;
+      <guid>/project/trm/</guid>
+      <description>&lt;p&gt;Illustrates how a simple mathematical model can be applied to experimental data of tissue-resident memory T cells in nonlymphoid tissues. The aim is to estimate the clonal half-life of each population and project dynamics beyond experimental timeframes.&lt;/p&gt;
+&lt;p&gt;Full background and model details can be found in &lt;a href=&#34;https://www.jimmunol.org/content/203/10/2561&#34;&gt;Morris et al (2019) Journal of Immunology&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>ushr: Understanding suppression of HIV in R</title>
-      <link>/post/ushr/</link>
+      <title>shinySIR</title>
+      <link>/project/shinysir/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/shinysir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ushr</title>
+      <link>/project/ushr/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ushr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
       
-      <guid>/post/ushr/</guid>
-      <description>&lt;p&gt;In 2017, HIV/AIDS was responsible for the deaths of one million people globally, including 50,000 children less than one year old. Although mathematical modeling has provided important insights into the dynamics of HIV infection during anti-retroviral treatment (ART), there is still a lack of accessible tools for researchers unfamiliar with modeling techniques to apply them to their own datasets.&lt;/p&gt;
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/SineadMorris/ushr&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;ushr&lt;/code&gt;&lt;/a&gt; is an open-source R package that models the decline of HIV during ART using a popular mathematical framework. The package can be applied to longitudinal data of viral load measurements, and automates all stages of the model fitting process. By mathematically fitting the data, important biological parameters can be estimated, including the lifespans of short and long-lived HIV-infected cells, and the time to suppress viral load below a defined detection threshold. The package also provides visualization and summary tools for fast assessment of model results.&lt;/p&gt;
-
-&lt;p&gt;Overall, we hope &lt;a href=&#34;https://github.com/SineadMorris/ushr&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;ushr&lt;/code&gt;&lt;/a&gt; will increase accessibility to mathematical modeling techniques so that greater insights on HIV infection and treatment dynamics may be gained.&lt;/p&gt;
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&#39;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://spectrum.chat/academic&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -60,35 +220,49 @@ The aim is to estimate the clonal half-life of each population and project dynam
       <title>Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance</title>
       <link>/publication/mv/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/mv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathematical and statistical modeling of HIV decay dynamics in perinatally-infected infants on ART</title>
-      <link>/talk/2018-27-11-epiical/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2018-27-11-epiical/</guid>
+      <link>/talk/epiical/</link>
+      <pubDate>Thu, 15 Nov 2018 10:00:00 +0000</pubDate>
+      <guid>/talk/epiical/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Analysis of multi-level spatial data reveals strong synchrony in seasonal influenza epidemics across Norway, Sweden, and Denmark</title>
       <link>/publication/flu/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/flu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIS model for malaria</title>
-      <link>/project/the-sis-model/</link>
+      <link>/post/the-sis-model/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/the-sis-model/</guid>
+      <guid>/post/the-sis-model/</guid>
       <description>
 
 
@@ -99,7 +273,7 @@ The aim is to estimate the clonal half-life of each population and project dynam
 &lt;h2&gt;Background: simple SIS model&lt;/h2&gt;
 &lt;p&gt;Let’s start by refreshing the basics of the SIS model. Susceptible individuals (&lt;span class=&#34;math inline&#34;&gt;\(S\)&lt;/span&gt;) become infected and move into the infected class (&lt;span class=&#34;math inline&#34;&gt;\(I\)&lt;/span&gt;), and then infected individuals who recover move straight back to the susceptible class (so there’s no period of immunity like in the SIR model). For simplicity we will ignore births and death, and also use a proportional model i.e. &lt;span class=&#34;math inline&#34;&gt;\(S\)&lt;/span&gt; + &lt;span class=&#34;math inline&#34;&gt;\(I\)&lt;/span&gt; = &lt;span class=&#34;math inline&#34;&gt;\(N\)&lt;/span&gt; = 1. The basic flow diagram is shown below.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/SISsimple.png&#34; /&gt;
+&lt;img src=&#34;SISsimple.png&#34; /&gt;
 
 &lt;/div&gt;
 &lt;p&gt;An example simulation of this model is shown in Figure &lt;a href=&#34;#fig:plot&#34;&gt;1&lt;/a&gt;, and the corresponding equations are&lt;/p&gt;
@@ -108,7 +282,7 @@ The aim is to estimate the clonal half-life of each population and project dynam
 \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I.
 \end{align*}\]&lt;/span&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plot&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/project/2018-01-17-the-sis-model_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/sis/index_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Example simulation of the simple SIS model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(R_0 = 3\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(\beta = R_0\times \gamma\)&lt;/span&gt;.
 &lt;/p&gt;
@@ -132,7 +306,7 @@ Figure 1: Example simulation of the simple SIS model with &lt;span class=&#34;ma
 &lt;p&gt;To extend the simple SIS model above to malaria dynamics, we need to account for both human and mosquito populations in our model equations.&lt;/p&gt;
 &lt;p&gt;To do this, we define &lt;span class=&#34;math inline&#34;&gt;\(S_h\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(I_h\)&lt;/span&gt; to represent the proportion of humans that are susceptible and infected, respectively, and &lt;span class=&#34;math inline&#34;&gt;\(S_m\)&lt;/span&gt;/ &lt;span class=&#34;math inline&#34;&gt;\(I_m\)&lt;/span&gt; to represent the proportion of mosquitos that are susceptible/ infected. A basic flow diagram is shown below.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/SISm.png&#34; alt=&#34;Note that in contrast to the human population, which recover at rate \gamma_h, we assume that mosquitos do not recover from disease, and instead die at rate \gamma_m.&#34; /&gt;
+&lt;img src=&#34;SISm.png&#34; alt=&#34;Note that in contrast to the human population, which recover at rate \gamma_h, we assume that mosquitos do not recover from disease, and instead die at rate \gamma_m.&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Note that in contrast to the human population, which recover at rate &lt;span class=&#34;math inline&#34;&gt;\(\gamma_h\)&lt;/span&gt;, we assume that mosquitos do not recover from disease, and instead die at rate &lt;span class=&#34;math inline&#34;&gt;\(\gamma_m\)&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Similar to the simple SIS model, we assume &lt;span class=&#34;math inline&#34;&gt;\(S_h = 1 - I_h\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(S_m = 1 - I_m\)&lt;/span&gt;. We can then modify our equation for &lt;span class=&#34;math inline&#34;&gt;\(dI/dt\)&lt;/span&gt; above to describe the proportion infected in both the human and mosquito populations.&lt;/p&gt;
@@ -183,7 +357,7 @@ At this stage, notice that we can express the &lt;span class=&#34;math inline&#3
 \end{align*}\]&lt;/span&gt;
 &lt;p&gt;An example simulation of these equations is shown in Figure &lt;a href=&#34;#fig:plotm&#34;&gt;2&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plotm&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/project/2018-01-17-the-sis-model_files/figure-html/plotm-1.png&#34; alt=&#34;Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$).&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/sis/index_files/figure-html/plotm-1.png&#34; alt=&#34;Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$).&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 2: Example simulation of the SIS malaria model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma_h = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(\gamma_m = 3\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(m = 2, a = 4, b = 0.05\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(c = 0.09\)&lt;/span&gt; (so again &lt;span class=&#34;math inline&#34;&gt;\(R_0 \sim 3\)&lt;/span&gt;).
 &lt;/p&gt;
@@ -244,48 +418,31 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
     </item>
     
     <item>
-      <title>Understanding the measles paradox: modeling host-parasite predatory feedbacks</title>
-      <link>/talk/2017-11-07-the-measles-paradox/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017-11-07-the-measles-paradox/</guid>
-      <description>&lt;iframe id=&#34;iframepdf&#34; src=&#34;/img/Epidemics_web.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Understanding the measles paradox: modeling predatory feedbacks between the virus and host immune system</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/example-talk/</guid>
-      <description></description>
+      <title>Understanding the measles paradox - modeling host-parasite predatory feedbacks</title>
+      <link>/talk/epidemics/</link>
+      <pubDate>Fri, 01 Dec 2017 10:00:00 +0000</pubDate>
+      <guid>/talk/epidemics/</guid>
+      <description>&lt;iframe id=&#34;iframepdf&#34; src=&#34;Epidemics_web.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
       <title>Disease modeling short course</title>
-      <link>/project/dolphin-morbillivirus/</link>
+      <link>/post/dolphin-morbillivirus/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/dolphin-morbillivirus/</guid>
+      <guid>/post/dolphin-morbillivirus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event&lt;/strong&gt;: Summer bootcamp for infectious disease modeling&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: The Institute of Statistical Mathematics, Tokyo&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Event URL&lt;/strong&gt;: &lt;a href=&#34;https://sites.google.com/site/modelinfection/home/shortcourse4&#34; target=&#34;_blank&#34;&gt;https://sites.google.com/site/modelinfection/home/shortcourse4&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;Event URL&lt;/strong&gt;: &lt;a href=&#34;https://sites.google.com/site/modelinfection/home/shortcourse4&#34;&gt;https://sites.google.com/site/modelinfection/home/shortcourse4&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Lecture&lt;/strong&gt;: The purpose of my guest lecture was to introduce students to ways in which the SIR model can be applied to real disease outbreaks. I focussed on a past project that developed a statistical SIR framework to model the spatiotemporal dynamics of dolphin morbillivirus. The slides from this talk are below.&lt;/p&gt;
-
-&lt;iframe id=&#34;iframepdf&#34; src=&#34;/img/DMVweb.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;
+&lt;iframe id=&#34;iframepdf&#34; src=&#34;DMVweb.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>The SIR model</title>
-      <link>/project/the-sir-model/</link>
+      <link>/post/the-sir-model/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/the-sir-model/</guid>
+      <guid>/post/the-sir-model/</guid>
       <description>
 
 
@@ -306,11 +463,11 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
 &lt;/ul&gt;
 &lt;p&gt;From these equations we can create a flow diagram showing the direction of movement of individuals through these compartments:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/Precept1.png&#34; /&gt;
+&lt;img src=&#34;Precept1.png&#34; /&gt;
 
 &lt;/div&gt;
 &lt;p&gt;To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (&lt;span class=&#34;math inline&#34;&gt;\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)&lt;/span&gt;; note: this corresponds to an &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; of about 3).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/project/2017-09-21-the-sir-model_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Incorporating vaccination&lt;/h2&gt;
@@ -324,11 +481,11 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
 \end{align*}\]&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;And our flow diagram now looks something like this:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/Precept1vacc.png&#34; style=&#34;width:90.0%&#34; /&gt;
+&lt;img src=&#34;Precept1vacc.png&#34; style=&#34;width:90.0%&#34; /&gt;
 
 &lt;/div&gt;
 &lt;p&gt;Here’s the outcome of solving these equations with &lt;span class=&#34;math inline&#34;&gt;\(p = 0.5\)&lt;/span&gt; (and all other parameters as before). Note: now the &lt;em&gt;effective&lt;/em&gt; reproduction number is &lt;span class=&#34;math inline&#34;&gt;\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/project/2017-09-21-the-sir-model_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;how does changing &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; impact the shape of the epidemic curve?&lt;/li&gt;
@@ -343,28 +500,24 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
     
     <item>
       <title>Spatial synchrony of seasonal influenza epidemics in Norway</title>
-      <link>/talk/2017-09-24-spatial-synchorny-of-seasonal-influenza-in-norway/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017-09-24-spatial-synchorny-of-seasonal-influenza-in-norway/</guid>
-      <description>&lt;iframe id=&#34;iframepdf&#34; src=&#34;/img/MISMSweb.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;
-</description>
+      <link>/talk/misms/</link>
+      <pubDate>Mon, 07 Nov 2016 10:00:00 +0000</pubDate>
+      <guid>/talk/misms/</guid>
+      <description>&lt;iframe id=&#34;iframepdf&#34; src=&#34;MISMSweb.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
-      <title>Partially observed epidemics in wildlife hosts: modelling an outbreak of dolphin morbillivirus in the northwestern Atlantic, June 2013–2014</title>
-      <link>/publication/dolphin-morbillivirus/</link>
+      <title>Partially observed epidemics in wildlife hosts -- modelling an outbreak of dolphin morbillivirus in the northwestern Atlantic, June 2013–2014</title>
+      <link>/publication/dmv/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/dolphin-morbillivirus/</guid>
+      <guid>/publication/dmv/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demographic buffering: titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
+      <title>Demographic buffering -- titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
       <link>/publication/buffering/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/buffering/</guid>
       <description></description>
     </item>

@@ -1,51 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on </title>
+    <title>Recent &amp; Upcoming Talks | Sinead Morris</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Sinead Morris</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 15 Nov 2018 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
     
     <item>
       <title>Mathematical and statistical modeling of HIV decay dynamics in perinatally-infected infants on ART</title>
-      <link>/talk/2018-27-11-epiical/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2018-27-11-epiical/</guid>
+      <link>/talk/epiical/</link>
+      <pubDate>Thu, 15 Nov 2018 10:00:00 +0000</pubDate>
+      <guid>/talk/epiical/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding the measles paradox: modeling host-parasite predatory feedbacks</title>
-      <link>/talk/2017-11-07-the-measles-paradox/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017-11-07-the-measles-paradox/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>Understanding the measles paradox: modeling predatory feedbacks between the virus and host immune system</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/example-talk/</guid>
-      <description></description>
+      <title>Understanding the measles paradox - modeling host-parasite predatory feedbacks</title>
+      <link>/talk/epidemics/</link>
+      <pubDate>Fri, 01 Dec 2017 10:00:00 +0000</pubDate>
+      <guid>/talk/epidemics/</guid>
+      <description>&lt;iframe id=&#34;iframepdf&#34; src=&#34;Epidemics_web.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
       <title>Spatial synchrony of seasonal influenza epidemics in Norway</title>
-      <link>/talk/2017-09-24-spatial-synchorny-of-seasonal-influenza-in-norway/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017-09-24-spatial-synchorny-of-seasonal-influenza-in-norway/</guid>
-      <description> </description>
+      <link>/talk/misms/</link>
+      <pubDate>Mon, 07 Nov 2016 10:00:00 +0000</pubDate>
+      <guid>/talk/misms/</guid>
+      <description>&lt;iframe id=&#34;iframepdf&#34; src=&#34;MISMSweb.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
   </channel>

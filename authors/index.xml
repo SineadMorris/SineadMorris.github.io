@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Sinead Morris</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>AJ Yates</title>
+      <link>/authors/aj-yates/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/aj-yates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DL Farber</title>
+      <link>/authors/dl-farber/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/dl-farber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE Morris</title>
+      <link>/authors/se-morris/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/se-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AN Nelson</title>
+      <link>/authors/an-nelson/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/an-nelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BT Grenfell</title>
+      <link>/authors/bt-grenfell/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/bt-grenfell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DE Griffin</title>
+      <link>/authors/de-griffin/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/de-griffin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MJ Mina</title>
+      <link>/authors/mj-mina/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/mj-mina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RD de Vries</title>
+      <link>/authors/rd-de-vries/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/rd-de-vries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RD Kouyos</title>
+      <link>/authors/rd-kouyos/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/rd-kouyos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL de Swart</title>
+      <link>/authors/rl-de-swart/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/rl-de-swart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHW Lin</title>
+      <link>/authors/whw-lin/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/whw-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wesolowski</title>
+      <link>/authors/a-wesolowski/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/a-wesolowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Freiesleben de Blasio</title>
+      <link>/authors/b-freiesleben-de-blasio/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/b-freiesleben-de-blasio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Viboud</title>
+      <link>/authors/c-viboud/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/c-viboud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ON Bjørnstad</title>
+      <link>/authors/on-bj%C3%B8rnstad/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/on-bj%C3%B8rnstad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA Fauquier</title>
+      <link>/authors/da-fauquier/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/da-fauquier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Gulland</title>
+      <link>/authors/f-gulland/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/f-gulland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JL Zelner</title>
+      <link>/authors/jl-zelner/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/jl-zelner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PE Rosel</title>
+      <link>/authors/pe-rosel/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/pe-rosel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TK Rowles</title>
+      <link>/authors/tk-rowles/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/tk-rowles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CJE Metcalf</title>
+      <link>/authors/cje-metcalf/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/cje-metcalf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VE Pitzer</title>
+      <link>/authors/ve-pitzer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/ve-pitzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I’m a Postdoctoral Research Scientist at Columbia University. I work at the intersection of mathematical modeling, immunology, and infectious diseases.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

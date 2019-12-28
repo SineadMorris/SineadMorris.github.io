@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Sinead Morris</title>
+    <link>/tags/other/</link>
+      <atom:link href="/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Other</title>
+      <link>/tags/other/</link>
+    </image>
+    
+    <item>
+      <title>Modeling tissue-resident memory T cells</title>
+      <link>/project/trm/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/trm/</guid>
+      <description>&lt;p&gt;Illustrates how a simple mathematical model can be applied to experimental data of tissue-resident memory T cells in nonlymphoid tissues. The aim is to estimate the clonal half-life of each population and project dynamics beyond experimental timeframes.&lt;/p&gt;
+&lt;p&gt;Full background and model details can be found in &lt;a href=&#34;https://www.jimmunol.org/content/203/10/2561&#34;&gt;Morris et al (2019) Journal of Immunology&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

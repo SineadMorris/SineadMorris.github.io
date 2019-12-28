@@ -1,48 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on </title>
+    <title>Projects | Sinead Morris</title>
     <link>/project/</link>
-    <description>Recent content in Projects on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Sinead Morris</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
     
     <item>
-      <title>SIS model for malaria</title>
-      <link>/project/the-sis-model/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/the-sis-model/</guid>
-      <description>Background: simple SIS model Let’s start by refreshing the basics of the SIS model. Susceptible individuals (\(S\)) become infected and move into the infected class (\(I\)), and then infected individuals who recover move straight back to the susceptible class (so there’s no period of immunity like in the SIR model). For simplicity we will ignore births and death, and also use a proportional model i.e. \(S\) + \(I\) = \(N\) = 1.</description>
+      <title>Modeling tissue-resident memory T cells</title>
+      <link>/project/trm/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/trm/</guid>
+      <description>&lt;p&gt;Illustrates how a simple mathematical model can be applied to experimental data of tissue-resident memory T cells in nonlymphoid tissues. The aim is to estimate the clonal half-life of each population and project dynamics beyond experimental timeframes.&lt;/p&gt;
+&lt;p&gt;Full background and model details can be found in &lt;a href=&#34;https://www.jimmunol.org/content/203/10/2561&#34;&gt;Morris et al (2019) Journal of Immunology&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Disease modeling short course</title>
-      <link>/project/dolphin-morbillivirus/</link>
-      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/dolphin-morbillivirus/</guid>
-      <description>Event: Summer bootcamp for infectious disease modeling
-Location: The Institute of Statistical Mathematics, Tokyo
-Event URL: https://sites.google.com/site/modelinfection/home/shortcourse4
-Lecture: The purpose of my guest lecture was to introduce students to ways in which the SIR model can be applied to real disease outbreaks. I focussed on a past project that developed a statistical SIR framework to model the spatiotemporal dynamics of dolphin morbillivirus. The slides from this talk are below.
- </description>
+      <title>shinySIR</title>
+      <link>/project/shinysir/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/shinysir/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>The SIR model</title>
-      <link>/project/the-sir-model/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/the-sir-model/</guid>
-      <description>Introduction In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (\(\mu\)) gives:
-\[\begin{align*} \frac{dS}{dt} &amp;amp;= \mu N -\beta S I - \mu S\\ \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\ \frac{dR}{dt} &amp;amp;= \gamma I - \mu R. \end{align*}\]
-So what do these terms mean? Suppose the unit of time we are considering is days, then</description>
+      <title>ushr</title>
+      <link>/project/ushr/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ushr/</guid>
+      <description></description>
     </item>
     
   </channel>

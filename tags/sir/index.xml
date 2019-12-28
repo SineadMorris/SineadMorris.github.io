@@ -1,26 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sir on </title>
+    <title>SIR | Sinead Morris</title>
     <link>/tags/sir/</link>
-    <description>Recent content in Sir on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Sinead Morris</copyright>
-    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/sir/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/sir/index.xml" rel="self" type="application/rss+xml" />
+    <description>SIR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>SIR</title>
+      <link>/tags/sir/</link>
+    </image>
     
     <item>
       <title>The SIR model</title>
-      <link>/project/the-sir-model/</link>
+      <link>/post/the-sir-model/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/the-sir-model/</guid>
-      <description>Introduction In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (\(\mu\)) gives:
-\[\begin{align*} \frac{dS}{dt} &amp;amp;= \mu N -\beta S I - \mu S\\ \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\ \frac{dR}{dt} &amp;amp;= \gamma I - \mu R. \end{align*}\]
-So what do these terms mean? Suppose the unit of time we are considering is days, then</description>
+      <guid>/post/the-sir-model/</guid>
+      <description>
+
+
+&lt;div id=&#34;introduction&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (&lt;span class=&#34;math inline&#34;&gt;\(\mu\)&lt;/span&gt;) gives:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dS}{dt} &amp;amp;= \mu N -\beta S I - \mu S\\
+\frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &amp;amp;=  \gamma I - \mu R.
+\end{align*}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So what do these terms mean? Suppose the unit of time we are considering is days, then&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu N\)&lt;/span&gt; represents the number of births into the population per day (we assume everyone is born suceptible)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\beta S I\)&lt;/span&gt; represents the number of susceptible individuals that become infected per day&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu S\)&lt;/span&gt; (or &lt;span class=&#34;math inline&#34;&gt;\(\mu I\)&lt;/span&gt;/ &lt;span class=&#34;math inline&#34;&gt;\(\mu R\)&lt;/span&gt;) is the number of susceptible (or infected/ immune) individuals that die per day.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\gamma I\)&lt;/span&gt; is the number of infected individuals that recover per day.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From these equations we can create a flow diagram showing the direction of movement of individuals through these compartments:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Precept1.png&#34; /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (&lt;span class=&#34;math inline&#34;&gt;\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)&lt;/span&gt;; note: this corresponds to an &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; of about 3).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Incorporating vaccination&lt;/h2&gt;
+&lt;p&gt;To incorporate vaccination we need to modify the equations above so that a proportion, &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; say, of the new births into the population are vaccinated (and thus immune to infection). Those that are vaccinated will avoid the susceptible class and go straight to the recovered class, whereas those that are unvaccinated will go into the susceptible class as before.&lt;/p&gt;
+&lt;p&gt;If &lt;span class=&#34;math inline&#34;&gt;\(p\)&lt;/span&gt; is the proportion vaccinated, then &lt;span class=&#34;math inline&#34;&gt;\(1 - p\)&lt;/span&gt; is the proportion left unvaccinated. Therefore the &lt;em&gt;number&lt;/em&gt; of new births that are vaccinated (per unit time) is &lt;span class=&#34;math inline&#34;&gt;\(\mu N p\)&lt;/span&gt;, and the number unvaccinated is &lt;span class=&#34;math inline&#34;&gt;\(\mu N (1 - p)\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Our equations therefore become:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
+\frac{dS}{dt} &amp;amp;= \mu N (1 - p) -\beta S I - \mu S\\
+\frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\
+\frac{dR}{dt} &amp;amp;=  \gamma I - \mu R + \mu N p.
+\end{align*}\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And our flow diagram now looks something like this:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Precept1vacc.png&#34; style=&#34;width:90.0%&#34; /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;Here’s the outcome of solving these equations with &lt;span class=&#34;math inline&#34;&gt;\(p = 0.5\)&lt;/span&gt; (and all other parameters as before). Note: now the &lt;em&gt;effective&lt;/em&gt; reproduction number is &lt;span class=&#34;math inline&#34;&gt;\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;how does changing &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; impact the shape of the epidemic curve?&lt;/li&gt;
+&lt;li&gt;what happens when you add in births/ deaths (i.e. change &lt;span class=&#34;math inline&#34;&gt;\(\mu = 0\)&lt;/span&gt; to &lt;span class=&#34;math inline&#34;&gt;\(\mu \geq 0\)&lt;/span&gt;)?&lt;/li&gt;
+&lt;li&gt;what happens when you include vaccination?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://sineadmorris.shinyapps.io/sirmodel/&#34; width=&#34;900&#34; height=&#34;650&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>
