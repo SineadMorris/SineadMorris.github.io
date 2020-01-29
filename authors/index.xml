@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,24 @@
     <item>
       <title>AJ Yates</title>
       <link>/authors/aj-yates/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/aj-yates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Dziokek-Garrett</title>
+      <link>/authors/l-dziokek-garrett/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/l-dziokek-garrett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE Morris</title>
+      <link>/authors/se-morris/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/se-morris/</guid>
       <description></description>
     </item>
     
@@ -25,14 +41,6 @@
       <link>/authors/dl-farber/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/dl-farber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SE Morris</title>
-      <link>/authors/se-morris/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/se-morris/</guid>
       <description></description>
     </item>
     

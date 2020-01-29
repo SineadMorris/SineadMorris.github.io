@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Sinead Morris</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>L Dziokek-Garrett | Sinead Morris</title>
+    <link>/authors/l-dziokek-garrett/</link>
+      <atom:link href="/authors/l-dziokek-garrett/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Dziokek-Garrett</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <title>L Dziokek-Garrett</title>
+      <link>/authors/l-dziokek-garrett/</link>
     </image>
     
     <item>
-      <title>2</title>
-      <link>/publication_types/2/</link>
+      <title>ushr -- understanding suppression of HIV in R</title>
+      <link>/publication/bmc/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication_types/2/</guid>
+      <guid>/publication/bmc/</guid>
       <description></description>
     </item>
     
