@@ -5,7 +5,7 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>ushr: Understanding suppression of HIV in R</title>
-      <link>/publication/bmc/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/bmc/</guid>
+      <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy (in press)</title>
+      <link>/publication/jaids/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jaids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ushr: Understanding suppression of HIV in R</title>
-      <link>/publication/jaids/</link>
+      <link>/publication/bmc/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jaids/</guid>
+      <guid>/publication/bmc/</guid>
       <description></description>
     </item>
     

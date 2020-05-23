@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Schröter | Sinead Morris</title>
+    <link>/authors/j-schroter/</link>
+      <atom:link href="/authors/j-schroter/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Schröter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J Schröter</title>
+      <link>/authors/j-schroter/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy (in press)</title>
+      <link>/publication/jaids/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jaids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

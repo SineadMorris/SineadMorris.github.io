@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>**SE Morris**</title>
       <link>/authors/se-morris/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/se-morris/</guid>
       <description></description>
     </item>
@@ -23,16 +23,88 @@
     <item>
       <title>AJ Yates</title>
       <link>/authors/aj-yates/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/aj-yates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJN Anelone</title>
+      <link>/authors/ajn-anelone/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ajn-anelone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CT Tiemessen</title>
+      <link>/authors/ct-tiemessen/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ct-tiemessen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EJ Abrams</title>
+      <link>/authors/ej-abrams/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ej-abrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Schröter</title>
+      <link>/authors/j-schroter/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/j-schroter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L Dziobek-Garrett</title>
       <link>/authors/l-dziobek-garrett/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/l-dziobek-garrett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Kuhn</title>
+      <link>/authors/l-kuhn/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/l-kuhn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Paximadis</title>
+      <link>/authors/m-paximadis/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m-paximadis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Strehlau</title>
+      <link>/authors/r-strehlau/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r-strehlau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RJ de Boer</title>
+      <link>/authors/rj-de-boer/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/rj-de-boer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Shiau</title>
+      <link>/authors/s-shiau/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-shiau/</guid>
       <description></description>
     </item>
     
