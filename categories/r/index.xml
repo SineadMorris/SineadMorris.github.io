@@ -172,19 +172,6 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
     </item>
     
     <item>
-      <title>Disease modeling short course</title>
-      <link>/post/dolphin-morbillivirus/</link>
-      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/post/dolphin-morbillivirus/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Event&lt;/strong&gt;: Summer bootcamp for infectious disease modeling&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: The Institute of Statistical Mathematics, Tokyo&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Event URL&lt;/strong&gt;: &lt;a href=&#34;https://sites.google.com/site/modelinfection/home/shortcourse4&#34;&gt;https://sites.google.com/site/modelinfection/home/shortcourse4&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lecture&lt;/strong&gt;: The purpose of my guest lecture was to introduce students to ways in which the SIR model can be applied to real disease outbreaks. I focussed on a past project that developed a statistical SIR framework to model the spatiotemporal dynamics of dolphin morbillivirus. The slides from this talk are below.&lt;/p&gt;
-&lt;iframe id=&#34;iframepdf&#34; src=&#34;DMVweb.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The SIR model</title>
       <link>/post/the-sir-model/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
