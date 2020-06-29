@@ -2,8 +2,8 @@
   "name": "Sinead Morris",
   "short_name": "Sinead Morris",
   "lang": "en-us",
-  "theme_color": "rgb(221, 140, 149)",
-  "background_color": "rgb(221, 140, 149)",
+  "theme_color": "rgb(212, 129, 137)",
+  "background_color": "rgb(212, 129, 137)",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
