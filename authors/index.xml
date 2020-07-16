@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,72 @@
     <item>
       <title>**SE Morris**</title>
       <link>/authors/se-morris/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/authors/se-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AL Graham</title>
+      <link>/authors/al-graham/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/al-graham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BT Grenfell</title>
+      <link>/authors/bt-grenfell/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/bt-grenfell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CE Wagner*</title>
+      <link>/authors/ce-wagner/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ce-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CJE Metcalf</title>
+      <link>/authors/cje-metcalf/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cje-metcalf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Saad-Roy*</title>
+      <link>/authors/cm-saad-roy/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cm-saad-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Farrar</title>
+      <link>/authors/j-farrar/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/j-farrar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RE Baker</title>
+      <link>/authors/re-baker/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/re-baker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SA Levin</title>
+      <link>/authors/sa-levin/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sa-levin/</guid>
       <description></description>
     </item>
     
@@ -121,14 +185,6 @@
       <link>/authors/an-nelson/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/authors/an-nelson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BT Grenfell</title>
-      <link>/authors/bt-grenfell/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/bt-grenfell/</guid>
       <description></description>
     </item>
     
@@ -249,14 +305,6 @@
       <link>/authors/tk-rowles/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       <guid>/authors/tk-rowles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CJE Metcalf</title>
-      <link>/authors/cje-metcalf/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/cje-metcalf/</guid>
       <description></description>
     </item>
     
