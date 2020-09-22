@@ -47,7 +47,7 @@
 \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I.
 \end{align*}\]&lt;/span&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plot&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/sis/index_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/SIS/index_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Example simulation of the simple SIS model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(R_0 = 3\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(\beta = R_0\times \gamma\)&lt;/span&gt;.
 &lt;/p&gt;
@@ -122,7 +122,7 @@ At this stage, notice that we can express the &lt;span class=&#34;math inline&#3
 \end{align*}\]&lt;/span&gt;
 &lt;p&gt;An example simulation of these equations is shown in Figure &lt;a href=&#34;#fig:plotm&#34;&gt;2&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plotm&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/sis/index_files/figure-html/plotm-1.png&#34; alt=&#34;Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$).&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/SIS/index_files/figure-html/plotm-1.png&#34; alt=&#34;Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$).&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 2: Example simulation of the SIS malaria model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma_h = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(\gamma_m = 3\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(m = 2, a = 4, b = 0.05\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(c = 0.09\)&lt;/span&gt; (so again &lt;span class=&#34;math inline&#34;&gt;\(R_0 \sim 3\)&lt;/span&gt;).
 &lt;/p&gt;
@@ -224,6 +224,10 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
 
 &lt;/div&gt;
 &lt;p&gt;To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (&lt;span class=&#34;math inline&#34;&gt;\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)&lt;/span&gt;; note: this corresponds to an &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; of about 3).&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;## Warning: `tbl_df()` is deprecated as of dplyr 1.0.0.
+## Please use `tibble::as_tibble()` instead.
+## This warning is displayed once every 8 hours.
+## Call `lifecycle::last_warnings()` to see where this warning was generated.&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;

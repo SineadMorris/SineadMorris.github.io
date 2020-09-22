@@ -738,6 +738,10 @@ So what do these terms mean? Suppose the unit of time we are considering is days
 
 </div>
 <p>To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (<span class="math inline">\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)</span>; note: this corresponds to an <span class="math inline">\(R_0\)</span> of about 3).</p>
+<pre><code>## Warning: `tbl_df()` is deprecated as of dplyr 1.0.0.
+## Please use `tibble::as_tibble()` instead.
+## This warning is displayed once every 8 hours.
+## Call `lifecycle::last_warnings()` to see where this warning was generated.</code></pre>
 <p><img src="/post/SIR/index_files/figure-html/SIRbasic-1.png" width="1152" /></p>
 </div>
 <div id="incorporating-vaccination" class="section level2">

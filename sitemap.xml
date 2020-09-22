@@ -19,87 +19,107 @@
   
   <url>
     <loc>/authors/se-morris/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/al-graham/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/bt-grenfell/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ce-wagner/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/cje-metcalf/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/cm-saad-roy/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/covid/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/j-farrar/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mj-mina/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/other/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/re-baker/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/sa-levin/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/covid/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -193,12 +213,12 @@
   </url>
   
   <url>
-    <loc>/tags/talks/</loc>
+    <loc>/categories/talks/</loc>
     <lastmod>2020-05-20T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/talks/</loc>
+    <loc>/tags/talks/</loc>
     <lastmod>2020-05-20T10:00:00+00:00</lastmod>
   </url>
   
@@ -219,16 +239,6 @@
   
   <url>
     <loc>/project/trm/</loc>
-    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/other/</loc>
-    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -264,11 +274,6 @@
   
   <url>
     <loc>/authors/de-griffin/</loc>
-    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mj-mina/</loc>
     <lastmod>2018-12-28T00:00:00+00:00</lastmod>
   </url>
   
