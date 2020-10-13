@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Dogra* | Sinead Morris</title>
+    <link>/authors/p-dogra/</link>
+      <atom:link href="/authors/p-dogra/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Dogra*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>P Dogra*</title>
+      <link>/authors/p-dogra/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of respiratory and systemic immune responses in COVID-19 reveals mechanisms of disease pathogenesis</title>
+      <link>/publication/covid_immunology/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/covid_immunology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
