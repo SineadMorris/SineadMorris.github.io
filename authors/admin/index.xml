@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sinead Morris</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/authors/admin/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Sinead Morris</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Sinead Morris</title>
-      <link>/authors/admin/</link>
+      <link>https://sineadmorris.github.io/authors/admin/</link>
     </image>
     
   </channel>

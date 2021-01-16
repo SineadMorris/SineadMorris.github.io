@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EJ Abrams | Sinead Morris</title>
-    <link>/authors/ej-abrams/</link>
-      <atom:link href="/authors/ej-abrams/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/authors/ej-abrams/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/ej-abrams/index.xml" rel="self" type="application/rss+xml" />
     <description>EJ Abrams</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>EJ Abrams</title>
-      <link>/authors/ej-abrams/</link>
+      <link>https://sineadmorris.github.io/authors/ej-abrams/</link>
     </image>
     
     <item>
       <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy</title>
-      <link>/publication/jaids/</link>
+      <link>https://sineadmorris.github.io/publication/jaids/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jaids/</guid>
+      <guid>https://sineadmorris.github.io/publication/jaids/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J Farrar | Sinead Morris</title>
-    <link>/authors/j-farrar/</link>
-      <atom:link href="/authors/j-farrar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/authors/j-farrar/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/j-farrar/index.xml" rel="self" type="application/rss+xml" />
     <description>J Farrar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>J Farrar</title>
-      <link>/authors/j-farrar/</link>
+      <link>https://sineadmorris.github.io/authors/j-farrar/</link>
     </image>
     
     <item>
       <title>Immune life history, vaccination, and the dynamics of SARS-CoV-2 over the next 5 years</title>
-      <link>/publication/covid/</link>
+      <link>https://sineadmorris.github.io/publication/covid/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/covid/</guid>
+      <guid>https://sineadmorris.github.io/publication/covid/</guid>
       <description></description>
     </item>
     

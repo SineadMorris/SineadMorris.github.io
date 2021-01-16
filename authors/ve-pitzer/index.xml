@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VE Pitzer | Sinead Morris</title>
-    <link>/authors/ve-pitzer/</link>
-      <atom:link href="/authors/ve-pitzer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/authors/ve-pitzer/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/ve-pitzer/index.xml" rel="self" type="application/rss+xml" />
     <description>VE Pitzer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>VE Pitzer</title>
-      <link>/authors/ve-pitzer/</link>
+      <link>https://sineadmorris.github.io/authors/ve-pitzer/</link>
     </image>
     
     <item>
       <title>Demographic buffering -- titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
-      <link>/publication/buffering/</link>
+      <link>https://sineadmorris.github.io/publication/buffering/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/buffering/</guid>
+      <guid>https://sineadmorris.github.io/publication/buffering/</guid>
       <description></description>
     </item>
     

@@ -2,95 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Sinead Morris</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/tags/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://sineadmorris.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Other</title>
-      <link>/tags/other/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/other/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>outreach</title>
-      <link>/tags/outreach/</link>
-      <pubDate>Wed, 20 May 2020 10:00:00 +0000</pubDate>
-      <guid>/tags/outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>/tags/talks/</link>
-      <pubDate>Wed, 20 May 2020 10:00:00 +0000</pubDate>
-      <guid>/tags/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R packages</title>
-      <link>/tags/r-packages/</link>
-      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/r-packages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lectures</title>
-      <link>/tags/lectures/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/lectures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>model</title>
-      <link>/tags/model/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SIS</title>
-      <link>/tags/sis/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/sis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classes</title>
-      <link>/tags/classes/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/classes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SIR</title>
-      <link>/tags/sir/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/sir/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
