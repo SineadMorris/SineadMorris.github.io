@@ -5,12 +5,20 @@
     <link>https://sineadmorris.github.io/authors/cm-saad-roy/</link>
       <atom:link href="https://sineadmorris.github.io/authors/cm-saad-roy/index.xml" rel="self" type="application/rss+xml" />
     <description>CM Saad-Roy*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>CM Saad-Roy*</title>
       <link>https://sineadmorris.github.io/authors/cm-saad-roy/</link>
     </image>
+    
+    <item>
+      <title>Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes</title>
+      <link>https://sineadmorris.github.io/publication/covid_vaccine/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/covid_vaccine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Immune life history, vaccination, and the dynamics of SARS-CoV-2 over the next 5 years</title>
