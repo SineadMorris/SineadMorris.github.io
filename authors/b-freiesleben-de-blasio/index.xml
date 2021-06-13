@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B Freiesleben de Blasio | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/b-freiesleben-de-blasio/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/b-freiesleben-de-blasio/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/b-freiesleben-de-blasio/</link>
+      <atom:link href="/authors/b-freiesleben-de-blasio/index.xml" rel="self" type="application/rss+xml" />
     <description>B Freiesleben de Blasio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>B Freiesleben de Blasio</title>
-      <link>https://sineadmorris.github.io/authors/b-freiesleben-de-blasio/</link>
+      <link>/authors/b-freiesleben-de-blasio/</link>
     </image>
     
     <item>
       <title>Analysis of multi-level spatial data reveals strong synchrony in seasonal influenza epidemics across Norway, Sweden, and Denmark</title>
-      <link>https://sineadmorris.github.io/publication/flu/</link>
+      <link>/publication/flu/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/flu/</guid>
+      <guid>/publication/flu/</guid>
       <description></description>
     </item>
     

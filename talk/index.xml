@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/talk/</link>
-      <atom:link href="https://sineadmorris.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 20 May 2020 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sineadmorris.github.io/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
       <title>Math, Models, and Social Mixing</title>
-      <link>https://sineadmorris.github.io/talk/d4p/</link>
+      <link>/talk/d4p/</link>
       <pubDate>Wed, 20 May 2020 10:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/talk/d4p/</guid>
+      <guid>/talk/d4p/</guid>
       <description>&lt;p&gt;From the RockEDU &lt;a href=&#34;https://rockedu.rockefeller.edu/d4p/may-20-using-models-and-math-to-determine-when-to-lift-the-rules-of-social-distancing/&#34;&gt;event page&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;This week on Data for the People, postdocs Chloe Pasin and Sinead Morris will talk about how scientists are applying hypothetical modeling and math to predict what can happen when social distancing rules are lifted at different time points, and using different strategies. More specifically, they will present a case study from The Lancet published on March 25, 2020 that applied a specific model to predict what would happen in Wuhan, China under different scenarios of social mixing (i.e. when and how the population stops social distancing).&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;The talk recording is available &lt;a href=&#34;https://www.youtube.com/watch?v=dYt_IwsLZZ4&#34;&gt;here&lt;/a&gt;, on the RockEDU Science Outreach youtube channel.&lt;/p&gt;
@@ -25,25 +25,25 @@
     
     <item>
       <title>Mathematical and statistical modeling of HIV decay dynamics in perinatally-infected infants on ART</title>
-      <link>https://sineadmorris.github.io/talk/epiical/</link>
+      <link>/talk/epiical/</link>
       <pubDate>Thu, 15 Nov 2018 10:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/talk/epiical/</guid>
+      <guid>/talk/epiical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the measles paradox - modeling host-parasite predatory feedbacks</title>
-      <link>https://sineadmorris.github.io/talk/epidemics/</link>
+      <link>/talk/epidemics/</link>
       <pubDate>Fri, 01 Dec 2017 10:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/talk/epidemics/</guid>
+      <guid>/talk/epidemics/</guid>
       <description>&lt;iframe id=&#34;iframepdf&#34; src=&#34;Epidemics_web.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
       <title>Spatial synchrony of seasonal influenza epidemics in Norway</title>
-      <link>https://sineadmorris.github.io/talk/misms/</link>
+      <link>/talk/misms/</link>
       <pubDate>Mon, 07 Nov 2016 10:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/talk/misms/</guid>
+      <guid>/talk/misms/</guid>
       <description>&lt;iframe id=&#34;iframepdf&#34; src=&#34;MISMSweb.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     

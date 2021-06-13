@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SIS | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/tags/sis/</link>
-      <atom:link href="https://sineadmorris.github.io/tags/sis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/sis/</link>
+      <atom:link href="/tags/sis/index.xml" rel="self" type="application/rss+xml" />
     <description>SIS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>SIS</title>
-      <link>https://sineadmorris.github.io/tags/sis/</link>
+      <link>/tags/sis/</link>
     </image>
     
     <item>
       <title>SIS model for malaria</title>
-      <link>https://sineadmorris.github.io/post/the-sis-model/</link>
+      <link>/post/the-sis-model/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/post/the-sis-model/</guid>
+      <guid>/post/the-sis-model/</guid>
       <description>
 
 
@@ -36,7 +36,7 @@
 \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I.
 \end{align*}\]&lt;/span&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plot&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://sineadmorris.github.io/post/SIS/index_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/SIS/index_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Example simulation of the simple SIS model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(R_0 = 3\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(\beta = R_0\times \gamma\)&lt;/span&gt;.
 &lt;/p&gt;
@@ -111,7 +111,7 @@ At this stage, notice that we can express the &lt;span class=&#34;math inline&#3
 \end{align*}\]&lt;/span&gt;
 &lt;p&gt;An example simulation of these equations is shown in Figure &lt;a href=&#34;#fig:plotm&#34;&gt;2&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plotm&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://sineadmorris.github.io/post/SIS/index_files/figure-html/plotm-1.png&#34; alt=&#34;Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$).&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/SIS/index_files/figure-html/plotm-1.png&#34; alt=&#34;Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$).&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 2: Example simulation of the SIS malaria model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma_h = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(\gamma_m = 3\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(m = 2, a = 4, b = 0.05\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(c = 0.09\)&lt;/span&gt; (so again &lt;span class=&#34;math inline&#34;&gt;\(R_0 \sim 3\)&lt;/span&gt;).
 &lt;/p&gt;

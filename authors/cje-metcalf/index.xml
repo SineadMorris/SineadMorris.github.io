@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CJE Metcalf | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/cje-metcalf/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/cje-metcalf/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/cje-metcalf/</link>
+      <atom:link href="/authors/cje-metcalf/index.xml" rel="self" type="application/rss+xml" />
     <description>CJE Metcalf</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>CJE Metcalf</title>
-      <link>https://sineadmorris.github.io/authors/cje-metcalf/</link>
+      <link>/authors/cje-metcalf/</link>
     </image>
     
     <item>
+      <title>Vaccine nationalism and the dynamics and control of SARS-CoV-2</title>
+      <link>/publication/vaccine_nationalism/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/vaccine_nationalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes</title>
-      <link>https://sineadmorris.github.io/publication/covid_vaccine/</link>
+      <link>/publication/covid_vaccine/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/covid_vaccine/</guid>
+      <guid>/publication/covid_vaccine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immune life history, vaccination, and the dynamics of SARS-CoV-2 over the next 5 years</title>
-      <link>https://sineadmorris.github.io/publication/covid/</link>
+      <link>/publication/covid/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/covid/</guid>
+      <guid>/publication/covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demographic buffering -- titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
-      <link>https://sineadmorris.github.io/publication/buffering/</link>
+      <link>/publication/buffering/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/buffering/</guid>
+      <guid>/publication/buffering/</guid>
       <description></description>
     </item>
     

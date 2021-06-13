@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C Viboud | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/c-viboud/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/c-viboud/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/c-viboud/</link>
+      <atom:link href="/authors/c-viboud/index.xml" rel="self" type="application/rss+xml" />
     <description>C Viboud</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>C Viboud</title>
-      <link>https://sineadmorris.github.io/authors/c-viboud/</link>
+      <link>/authors/c-viboud/</link>
     </image>
     
     <item>
       <title>Analysis of multi-level spatial data reveals strong synchrony in seasonal influenza epidemics across Norway, Sweden, and Denmark</title>
-      <link>https://sineadmorris.github.io/publication/flu/</link>
+      <link>/publication/flu/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/flu/</guid>
+      <guid>/publication/flu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demographic buffering -- titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
-      <link>https://sineadmorris.github.io/publication/buffering/</link>
+      <link>/publication/buffering/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/buffering/</guid>
+      <guid>/publication/buffering/</guid>
       <description></description>
     </item>
     

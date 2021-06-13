@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PA Sims | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/pa-sims/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/pa-sims/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/pa-sims/</link>
+      <atom:link href="/authors/pa-sims/index.xml" rel="self" type="application/rss+xml" />
     <description>PA Sims</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>PA Sims</title>
-      <link>https://sineadmorris.github.io/authors/pa-sims/</link>
+      <link>/authors/pa-sims/</link>
     </image>
     
     <item>
       <title>Longitudinal profiling of respiratory and systemic immune responses reveals myeloid cell-driven lung inflammation in severe COVID-19</title>
-      <link>https://sineadmorris.github.io/publication/covid_immunology/</link>
+      <link>/publication/covid_immunology/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/covid_immunology/</guid>
+      <guid>/publication/covid_immunology/</guid>
       <description></description>
     </item>
     

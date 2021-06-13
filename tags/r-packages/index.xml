@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R packages | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/tags/r-packages/</link>
-      <atom:link href="https://sineadmorris.github.io/tags/r-packages/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/r-packages/</link>
+      <atom:link href="/tags/r-packages/index.xml" rel="self" type="application/rss+xml" />
     <description>R packages</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>R packages</title>
-      <link>https://sineadmorris.github.io/tags/r-packages/</link>
+      <link>/tags/r-packages/</link>
     </image>
     
     <item>
       <title>shinySIR</title>
-      <link>https://sineadmorris.github.io/project/shinysir/</link>
+      <link>/project/shinysir/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/project/shinysir/</guid>
+      <guid>/project/shinysir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ushr</title>
-      <link>https://sineadmorris.github.io/project/ushr/</link>
+      <link>/project/ushr/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/project/ushr/</guid>
+      <guid>/project/ushr/</guid>
       <description></description>
     </item>
     

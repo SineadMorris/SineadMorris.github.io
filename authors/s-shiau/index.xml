@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S Shiau | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/s-shiau/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/s-shiau/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/s-shiau/</link>
+      <atom:link href="/authors/s-shiau/index.xml" rel="self" type="application/rss+xml" />
     <description>S Shiau</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>S Shiau</title>
-      <link>https://sineadmorris.github.io/authors/s-shiau/</link>
+      <link>/authors/s-shiau/</link>
     </image>
     
     <item>
       <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy</title>
-      <link>https://sineadmorris.github.io/publication/jaids/</link>
+      <link>/publication/jaids/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/jaids/</guid>
+      <guid>/publication/jaids/</guid>
       <description></description>
     </item>
     

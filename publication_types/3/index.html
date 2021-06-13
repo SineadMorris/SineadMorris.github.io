@@ -39,10 +39,13 @@
   
   
   
-  <meta name="theme-color" content="rgb(251, 191, 183)">
+  <meta name="theme-color" content="rgb(217, 141, 149)">
   
 
   
+  
+  
+  <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -167,9 +170,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -185,7 +188,7 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
@@ -199,11 +202,47 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106967206-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-106967206-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/publication_types/3/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/publication_types/3/index.xml" type="application/rss+xml" title="Sinead Morris">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -222,13 +261,13 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="og:site_name" content="Sinead Morris">
   <meta property="og:url" content="/publication_types/3/">
-  <meta property="og:title" content="3 | Academic">
+  <meta property="og:title" content="3 | Sinead Morris">
   <meta property="og:description" content="Postdoctoral Research Scientist"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-04-07T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2021-06-05T00:00:00&#43;00:00">
   
 
   
@@ -245,7 +284,7 @@
 
 
 
-  <title>3 | Academic</title>
+  <title>3 | Sinead Morris</title>
 
 </head>
 
@@ -290,7 +329,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Sinead Morris</a>
     </div>
     
 
@@ -303,7 +342,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Sinead Morris</a>
     </div>
     
 
@@ -396,7 +435,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#projects"><span>Software</span></a>
         </li>
 
         
@@ -425,7 +464,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/#posts"><span>Teaching</span></a>
         </li>
 
         
@@ -445,9 +484,16 @@
         
         
         
+          
+          
+          
+            
+          
+          
+        
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -545,10 +591,10 @@
   
   
   <div>
-    <h2><a href="/publication/preprint/">An example preprint / working paper</a></h2>
+    <h2><a href="/publication/vaccine_nationalism/">Vaccine nationalism and the dynamics and control of SARS-CoV-2</a></h2>
     <div class="article-style">
       
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+      Vaccines provide powerful tools to mitigate the enormous public health and economic costs that the ongoing SARS-CoV-2 pandemic continues to exert globally, yet vaccine distribution remains unequal between countries. To examine the potential …
       
     </div>
   </div>
@@ -678,7 +724,7 @@
   
 
   <p class="powered-by">
-    
+    © 2019 Sinead Morris &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

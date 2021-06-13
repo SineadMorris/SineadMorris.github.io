@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DL Farber | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/dl-farber/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/dl-farber/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/dl-farber/</link>
+      <atom:link href="/authors/dl-farber/index.xml" rel="self" type="application/rss+xml" />
     <description>DL Farber</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>DL Farber</title>
-      <link>https://sineadmorris.github.io/authors/dl-farber/</link>
+      <link>/authors/dl-farber/</link>
     </image>
     
     <item>
       <title>Longitudinal profiling of respiratory and systemic immune responses reveals myeloid cell-driven lung inflammation in severe COVID-19</title>
-      <link>https://sineadmorris.github.io/publication/covid_immunology/</link>
+      <link>/publication/covid_immunology/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/covid_immunology/</guid>
+      <guid>/publication/covid_immunology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tissue-resident memory T cells in mice and humans: Towards a quantitative ecology</title>
-      <link>https://sineadmorris.github.io/publication/trm/</link>
+      <link>/publication/trm/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/trm/</guid>
+      <guid>/publication/trm/</guid>
       <description></description>
     </item>
     

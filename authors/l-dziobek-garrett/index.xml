@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L Dziobek-Garrett | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/l-dziobek-garrett/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/l-dziobek-garrett/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/l-dziobek-garrett/</link>
+      <atom:link href="/authors/l-dziobek-garrett/index.xml" rel="self" type="application/rss+xml" />
     <description>L Dziobek-Garrett</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>L Dziobek-Garrett</title>
-      <link>https://sineadmorris.github.io/authors/l-dziobek-garrett/</link>
+      <link>/authors/l-dziobek-garrett/</link>
     </image>
     
     <item>
       <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy</title>
-      <link>https://sineadmorris.github.io/publication/jaids/</link>
+      <link>/publication/jaids/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/jaids/</guid>
+      <guid>/publication/jaids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ushr: Understanding suppression of HIV in R</title>
-      <link>https://sineadmorris.github.io/publication/bmc/</link>
+      <link>/publication/bmc/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/bmc/</guid>
+      <guid>/publication/bmc/</guid>
       <description></description>
     </item>
     

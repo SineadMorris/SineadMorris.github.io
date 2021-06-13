@@ -2,15 +2,520 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://sineadmorris.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>**SE Morris**</title>
+      <link>/authors/se-morris/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/se-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AL Graham</title>
+      <link>/authors/al-graham/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/al-graham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BT Grenfell</title>
+      <link>/authors/bt-grenfell/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/bt-grenfell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CE Wagner*</title>
+      <link>/authors/ce-wagner/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ce-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CJE Metcalf</title>
+      <link>/authors/cje-metcalf/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/cje-metcalf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Saad-Roy*</title>
+      <link>/authors/cm-saad-roy/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/cm-saad-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EC Holmes</title>
+      <link>/authors/ec-holmes/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ec-holmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EJ Emanuel</title>
+      <link>/authors/ej-emanuel/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ej-emanuel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Farrar</title>
+      <link>/authors/j-farrar/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/j-farrar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MJ Mina</title>
+      <link>/authors/mj-mina/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/mj-mina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OG Pybus</title>
+      <link>/authors/og-pybus/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/og-pybus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RE Baker</title>
+      <link>/authors/re-baker/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/re-baker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SA Levin</title>
+      <link>/authors/sa-levin/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sa-levin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ku</title>
+      <link>/authors/a-ku/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/a-ku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Saqi</title>
+      <link>/authors/a-saqi/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/a-saqi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJ Yates</title>
+      <link>/authors/aj-yates/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/aj-yates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Pasin</title>
+      <link>/authors/c-pasin/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/c-pasin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DL Farber</title>
+      <link>/authors/dl-farber/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/dl-farber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Idzikowski</title>
+      <link>/authors/e-idzikowski/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/e-idzikowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Krupska</title>
+      <link>/authors/i-krupska/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/i-krupska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Davis-Porada</title>
+      <link>/authors/j-davis-porada/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/j-davis-porada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Zhou</title>
+      <link>/authors/j-zhou/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/j-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JI Gray*</title>
+      <link>/authors/ji-gray/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/ji-gray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Baldwin</title>
+      <link>/authors/m-baldwin/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/m-baldwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Chait</title>
+      <link>/authors/m-chait/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/m-chait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Steinle</title>
+      <link>/authors/m-steinle/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/m-steinle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MML Poon</title>
+      <link>/authors/mml-poon/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/mml-poon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Dogra*</title>
+      <link>/authors/p-dogra/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/p-dogra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PA Sims</title>
+      <link>/authors/pa-sims/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/pa-sims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PA Szabo*</title>
+      <link>/authors/pa-szabo/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/pa-szabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Matsumoto</title>
+      <link>/authors/r-matsumoto/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/r-matsumoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Mackay</title>
+      <link>/authors/s-mackay/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s-mackay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SB Wells*</title>
+      <link>/authors/sb-wells/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sb-wells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SP Weisberg</title>
+      <link>/authors/sp-weisberg/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/sp-weisberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TJ Connors</title>
+      <link>/authors/tj-connors/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/tj-connors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XV Guo</title>
+      <link>/authors/xv-guo/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/xv-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJN Anelone</title>
+      <link>/authors/ajn-anelone/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ajn-anelone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CT Tiemessen</title>
+      <link>/authors/ct-tiemessen/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ct-tiemessen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EJ Abrams</title>
+      <link>/authors/ej-abrams/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ej-abrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Schröter</title>
+      <link>/authors/j-schroter/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/j-schroter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Dziobek-Garrett</title>
+      <link>/authors/l-dziobek-garrett/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/l-dziobek-garrett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Kuhn</title>
+      <link>/authors/l-kuhn/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/l-kuhn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Paximadis</title>
+      <link>/authors/m-paximadis/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m-paximadis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Strehlau</title>
+      <link>/authors/r-strehlau/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r-strehlau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RJ de Boer</title>
+      <link>/authors/rj-de-boer/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/rj-de-boer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Shiau</title>
+      <link>/authors/s-shiau/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s-shiau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AN Nelson</title>
+      <link>/authors/an-nelson/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/an-nelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DE Griffin</title>
+      <link>/authors/de-griffin/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/de-griffin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RD de Vries</title>
+      <link>/authors/rd-de-vries/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/rd-de-vries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RD Kouyos</title>
+      <link>/authors/rd-kouyos/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/rd-kouyos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL de Swart</title>
+      <link>/authors/rl-de-swart/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/rl-de-swart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHW Lin</title>
+      <link>/authors/whw-lin/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/whw-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wesolowski</title>
+      <link>/authors/a-wesolowski/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/a-wesolowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Freiesleben de Blasio</title>
+      <link>/authors/b-freiesleben-de-blasio/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/b-freiesleben-de-blasio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Viboud</title>
+      <link>/authors/c-viboud/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/c-viboud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ON Bjørnstad</title>
+      <link>/authors/on-bj%C3%B8rnstad/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/on-bj%C3%B8rnstad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA Fauquier</title>
+      <link>/authors/da-fauquier/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/da-fauquier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Gulland</title>
+      <link>/authors/f-gulland/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/f-gulland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JL Zelner</title>
+      <link>/authors/jl-zelner/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/jl-zelner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PE Rosel</title>
+      <link>/authors/pe-rosel/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/pe-rosel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TK Rowles</title>
+      <link>/authors/tk-rowles/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/tk-rowles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VE Pitzer</title>
+      <link>/authors/ve-pitzer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/ve-pitzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I’m a Postdoctoral Research Scientist at Columbia University. I work at the intersection of mathematical modeling, immunology, and infectious diseases.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

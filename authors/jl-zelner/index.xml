@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JL Zelner | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/jl-zelner/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/jl-zelner/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/jl-zelner/</link>
+      <atom:link href="/authors/jl-zelner/index.xml" rel="self" type="application/rss+xml" />
     <description>JL Zelner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>JL Zelner</title>
-      <link>https://sineadmorris.github.io/authors/jl-zelner/</link>
+      <link>/authors/jl-zelner/</link>
     </image>
     
     <item>
       <title>Partially observed epidemics in wildlife hosts: modelling an outbreak of dolphin morbillivirus in the northwestern Atlantic, June 2013–2014</title>
-      <link>https://sineadmorris.github.io/publication/dmv/</link>
+      <link>/publication/dmv/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/dmv/</guid>
+      <guid>/publication/dmv/</guid>
       <description></description>
     </item>
     

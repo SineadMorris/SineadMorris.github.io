@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Paximadis | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/authors/m-paximadis/</link>
-      <atom:link href="https://sineadmorris.github.io/authors/m-paximadis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/m-paximadis/</link>
+      <atom:link href="/authors/m-paximadis/index.xml" rel="self" type="application/rss+xml" />
     <description>M Paximadis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>M Paximadis</title>
-      <link>https://sineadmorris.github.io/authors/m-paximadis/</link>
+      <link>/authors/m-paximadis/</link>
     </image>
     
     <item>
       <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy</title>
-      <link>https://sineadmorris.github.io/publication/jaids/</link>
+      <link>/publication/jaids/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/jaids/</guid>
+      <guid>/publication/jaids/</guid>
       <description></description>
     </item>
     

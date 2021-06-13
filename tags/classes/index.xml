@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classes | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/tags/classes/</link>
-      <atom:link href="https://sineadmorris.github.io/tags/classes/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/classes/</link>
+      <atom:link href="/tags/classes/index.xml" rel="self" type="application/rss+xml" />
     <description>Classes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Classes</title>
-      <link>https://sineadmorris.github.io/tags/classes/</link>
+      <link>/tags/classes/</link>
     </image>
     
     <item>
       <title>The SIR model</title>
-      <link>https://sineadmorris.github.io/post/the-sir-model/</link>
+      <link>/post/the-sir-model/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/post/the-sir-model/</guid>
+      <guid>/post/the-sir-model/</guid>
       <description>
 
 
@@ -30,7 +30,7 @@
 \end{align*}\]&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;So what do these terms mean? Suppose the unit of time we are considering is days, then&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu N\)&lt;/span&gt; represents the number of births into the population per day (we assume everyone is born suceptible)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu N\)&lt;/span&gt; represents the number of births into the population per day (we assume everyone is born susceptible)&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\beta S I\)&lt;/span&gt; represents the number of susceptible individuals that become infected per day&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\mu S\)&lt;/span&gt; (or &lt;span class=&#34;math inline&#34;&gt;\(\mu I\)&lt;/span&gt;/ &lt;span class=&#34;math inline&#34;&gt;\(\mu R\)&lt;/span&gt;) is the number of susceptible (or infected/ immune) individuals that die per day.&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;math inline&#34;&gt;\(\gamma I\)&lt;/span&gt; is the number of infected individuals that recover per day.&lt;/li&gt;
@@ -45,7 +45,7 @@
 ## Please use `tibble::as_tibble()` instead.
 ## This warning is displayed once every 8 hours.
 ## Call `lifecycle::last_warnings()` to see where this warning was generated.&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;https://sineadmorris.github.io/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Incorporating vaccination&lt;/h2&gt;
@@ -63,7 +63,7 @@
 
 &lt;/div&gt;
 &lt;p&gt;Here’s the outcome of solving these equations with &lt;span class=&#34;math inline&#34;&gt;\(p = 0.5\)&lt;/span&gt; (and all other parameters as before). Note: now the &lt;em&gt;effective&lt;/em&gt; reproduction number is &lt;span class=&#34;math inline&#34;&gt;\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://sineadmorris.github.io/post/SIR/index_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;how does changing &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; impact the shape of the epidemic curve?&lt;/li&gt;
