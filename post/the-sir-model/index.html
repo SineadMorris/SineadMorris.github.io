@@ -28,9 +28,8 @@
   
     
   
-  <meta name="description" content="Introduction In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (\(\mu\)) gives:
-\[\begin{align*} \frac{dS}{dt} &amp;= \mu N -\beta S I - \mu S\\ \frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\ \frac{dR}{dt} &amp;= \gamma I - \mu R. \end{align*}\]
-So what do these terms mean? Suppose the unit of time we are considering is days, then">
+  <meta name="description" content="Introduction In class we covered the SIR model with births and deaths. As a quick refresher: susceptible individuals (\(S\)) become infected and move into the infected class (\(I\)), and then infected individuals who recover move into the recovored, or immune, class (\(R\)). Assuming the birth rate is equal to the death rate (\(\mu\)) gives:
+\[\begin{align*} \frac{dS}{dt} &amp;= \mu N -\beta S I - \mu S\\ \frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\ \frac{dR}{dt} &amp;= \gamma I - \mu R.">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/the-sir-model/">
@@ -262,10 +261,9 @@ So what do these terms mean? Suppose the unit of time we are considering is days
   
   <meta property="og:site_name" content="Sinead Morris">
   <meta property="og:url" content="/post/the-sir-model/">
-  <meta property="og:title" content="The SIR model | Sinead Morris">
-  <meta property="og:description" content="Introduction In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (\(\mu\)) gives:
-\[\begin{align*} \frac{dS}{dt} &amp;= \mu N -\beta S I - \mu S\\ \frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\ \frac{dR}{dt} &amp;= \gamma I - \mu R. \end{align*}\]
-So what do these terms mean? Suppose the unit of time we are considering is days, then"><meta property="og:image" content="/post/the-sir-model/featured.png">
+  <meta property="og:title" content="Understanding the SIR model | Sinead Morris">
+  <meta property="og:description" content="Introduction In class we covered the SIR model with births and deaths. As a quick refresher: susceptible individuals (\(S\)) become infected and move into the infected class (\(I\)), and then infected individuals who recover move into the recovored, or immune, class (\(R\)). Assuming the birth rate is equal to the death rate (\(\mu\)) gives:
+\[\begin{align*} \frac{dS}{dt} &amp;= \mu N -\beta S I - \mu S\\ \frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\ \frac{dR}{dt} &amp;= \gamma I - \mu R."><meta property="og:image" content="/post/the-sir-model/featured.png">
   <meta property="twitter:image" content="/post/the-sir-model/featured.png"><meta property="og:locale" content="en-us">
   
     
@@ -299,7 +297,7 @@ So what do these terms mean? Suppose the unit of time we are considering is days
     "@type": "WebPage",
     "@id": "/post/the-sir-model/"
   },
-  "headline": "The SIR model",
+  "headline": "Understanding the SIR model",
   
   "image": [
     "/post/the-sir-model/featured.png"
@@ -321,7 +319,7 @@ So what do these terms mean? Suppose the unit of time we are considering is days
       "url": "/img/icon-512.png"
     }
   },
-  "description": "Introduction In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (\\(\\mu\\)) gives:\n\\[\\begin{align*} \\frac{dS}{dt} \u0026amp;= \\mu N -\\beta S I - \\mu S\\\\ \\frac{dI}{dt} \u0026amp;= \\beta S I - \\gamma I - \\mu I\\\\ \\frac{dR}{dt} \u0026amp;= \\gamma I - \\mu R. \\end{align*}\\]\nSo what do these terms mean? Suppose the unit of time we are considering is days, then"
+  "description": "Introduction In class we covered the SIR model with births and deaths. As a quick refresher: susceptible individuals (\\(S\\)) become infected and move into the infected class (\\(I\\)), and then infected individuals who recover move into the recovored, or immune, class (\\(R\\)). Assuming the birth rate is equal to the death rate (\\(\\mu\\)) gives:\n\\[\\begin{align*} \\frac{dS}{dt} \u0026amp;= \\mu N -\\beta S I - \\mu S\\\\ \\frac{dI}{dt} \u0026amp;= \\beta S I - \\gamma I - \\mu I\\\\ \\frac{dR}{dt} \u0026amp;= \\gamma I - \\mu R."
 }
 </script>
 
@@ -339,7 +337,7 @@ So what do these terms mean? Suppose the unit of time we are considering is days
 
 
 
-  <title>The SIR model | Sinead Morris</title>
+  <title>Understanding the SIR model | Sinead Morris</title>
 
 </head>
 
@@ -640,7 +638,7 @@ So what do these terms mean? Suppose the unit of time we are considering is days
 
 
 <div class="article-container pt-3">
-  <h1>The SIR model</h1>
+  <h1>Understanding the SIR model</h1>
 
   
 
@@ -719,7 +717,7 @@ So what do these terms mean? Suppose the unit of time we are considering is days
 
 <div id="introduction" class="section level2">
 <h2>Introduction</h2>
-<p>In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (<span class="math inline">\(\mu\)</span>) gives:</p>
+<p>In class we covered the SIR model with births and deaths. As a quick refresher: susceptible individuals (<span class="math inline">\(S\)</span>) become infected and move into the infected class (<span class="math inline">\(I\)</span>), and then infected individuals who recover move into the recovored, or immune, class (<span class="math inline">\(R\)</span>). Assuming the birth rate is equal to the death rate (<span class="math inline">\(\mu\)</span>) gives:</p>
 <p><span class="math display">\[\begin{align*}
 \frac{dS}{dt} &amp;= \mu N -\beta S I - \mu S\\
 \frac{dI}{dt} &amp;= \beta S I - \gamma I - \mu I\\
@@ -738,10 +736,6 @@ So what do these terms mean? Suppose the unit of time we are considering is days
 
 </div>
 <p>To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (<span class="math inline">\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)</span>; note: this corresponds to an <span class="math inline">\(R_0\)</span> of about 3).</p>
-<pre><code>## Warning: `tbl_df()` is deprecated as of dplyr 1.0.0.
-## Please use `tibble::as_tibble()` instead.
-## This warning is displayed once every 8 hours.
-## Call `lifecycle::last_warnings()` to see where this warning was generated.</code></pre>
 <p><img src="/post/SIR/index_files/figure-html/SIRbasic-1.png" width="1152" /></p>
 </div>
 <div id="incorporating-vaccination" class="section level2">
@@ -769,6 +763,7 @@ So what do these terms mean? Suppose the unit of time we are considering is days
 </ul>
 <iframe src="https://sineadmorris.shinyapps.io/sirmodel/" width="900" height="650">
 </iframe>
+<p>To create your own interactive plots in R, like the one above, check out my R package <a href="https://github.com/SineadMorris/shinySIR"><code>shinySIR</code></a></p>
 </div>
 
     </div>

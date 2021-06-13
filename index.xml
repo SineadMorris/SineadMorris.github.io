@@ -533,7 +533,7 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
     </item>
     
     <item>
-      <title>The SIR model</title>
+      <title>Understanding the SIR model</title>
       <link>/post/the-sir-model/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       <guid>/post/the-sir-model/</guid>
@@ -542,7 +542,7 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
 
 &lt;div id=&#34;introduction&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In class we covered the SIR model with births and deaths. Assuming the birth rate is equal to the death rate (&lt;span class=&#34;math inline&#34;&gt;\(\mu\)&lt;/span&gt;) gives:&lt;/p&gt;
+&lt;p&gt;In class we covered the SIR model with births and deaths. As a quick refresher: susceptible individuals (&lt;span class=&#34;math inline&#34;&gt;\(S\)&lt;/span&gt;) become infected and move into the infected class (&lt;span class=&#34;math inline&#34;&gt;\(I\)&lt;/span&gt;), and then infected individuals who recover move into the recovored, or immune, class (&lt;span class=&#34;math inline&#34;&gt;\(R\)&lt;/span&gt;). Assuming the birth rate is equal to the death rate (&lt;span class=&#34;math inline&#34;&gt;\(\mu\)&lt;/span&gt;) gives:&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[\begin{align*}
 \frac{dS}{dt} &amp;amp;= \mu N -\beta S I - \mu S\\
 \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I - \mu I\\
@@ -561,10 +561,6 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
 
 &lt;/div&gt;
 &lt;p&gt;To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (&lt;span class=&#34;math inline&#34;&gt;\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)&lt;/span&gt;; note: this corresponds to an &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; of about 3).&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;## Warning: `tbl_df()` is deprecated as of dplyr 1.0.0.
-## Please use `tibble::as_tibble()` instead.
-## This warning is displayed once every 8 hours.
-## Call `lifecycle::last_warnings()` to see where this warning was generated.&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;
@@ -592,6 +588,7 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
 &lt;/ul&gt;
 &lt;iframe src=&#34;https://sineadmorris.shinyapps.io/sirmodel/&#34; width=&#34;900&#34; height=&#34;650&#34;&gt;
 &lt;/iframe&gt;
+&lt;p&gt;To create your own interactive plots in R, like the one above, check out my R package &lt;a href=&#34;https://github.com/SineadMorris/shinySIR&#34;&gt;&lt;code&gt;shinySIR&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
