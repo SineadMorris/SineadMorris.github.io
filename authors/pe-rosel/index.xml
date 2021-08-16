@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PE Rosel | Sinead Morris</title>
-    <link>/authors/pe-rosel/</link>
-      <atom:link href="/authors/pe-rosel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/authors/pe-rosel/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/pe-rosel/index.xml" rel="self" type="application/rss+xml" />
     <description>PE Rosel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>PE Rosel</title>
-      <link>/authors/pe-rosel/</link>
+      <link>https://sineadmorris.github.io/authors/pe-rosel/</link>
     </image>
     
     <item>
       <title>Partially observed epidemics in wildlife hosts: modelling an outbreak of dolphin morbillivirus in the northwestern Atlantic, June 2013–2014</title>
-      <link>/publication/dmv/</link>
+      <link>https://sineadmorris.github.io/publication/dmv/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/dmv/</guid>
+      <guid>https://sineadmorris.github.io/publication/dmv/</guid>
       <description></description>
     </item>
     

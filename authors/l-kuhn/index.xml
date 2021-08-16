@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L Kuhn | Sinead Morris</title>
-    <link>/authors/l-kuhn/</link>
-      <atom:link href="/authors/l-kuhn/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/authors/l-kuhn/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/l-kuhn/index.xml" rel="self" type="application/rss+xml" />
     <description>L Kuhn</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>L Kuhn</title>
-      <link>/authors/l-kuhn/</link>
+      <link>https://sineadmorris.github.io/authors/l-kuhn/</link>
     </image>
     
     <item>
       <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy</title>
-      <link>/publication/jaids/</link>
+      <link>https://sineadmorris.github.io/publication/jaids/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jaids/</guid>
+      <guid>https://sineadmorris.github.io/publication/jaids/</guid>
       <description></description>
     </item>
     

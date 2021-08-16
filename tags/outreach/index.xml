@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>outreach | Sinead Morris</title>
-    <link>/tags/outreach/</link>
-      <atom:link href="/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/tags/outreach/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
     <description>outreach</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 20 May 2020 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>outreach</title>
-      <link>/tags/outreach/</link>
+      <link>https://sineadmorris.github.io/tags/outreach/</link>
     </image>
     
     <item>
       <title>Math, Models, and Social Mixing</title>
-      <link>/post/d4p/</link>
+      <link>https://sineadmorris.github.io/post/d4p/</link>
       <pubDate>Wed, 20 May 2020 10:00:00 +0000</pubDate>
-      <guid>/post/d4p/</guid>
+      <guid>https://sineadmorris.github.io/post/d4p/</guid>
       <description>&lt;p&gt;From the &lt;a href=&#34;https://rockedu.rockefeller.edu/d4p/may-20-using-models-and-math-to-determine-when-to-lift-the-rules-of-social-distancing/&#34;&gt;RockEDU event page&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;This week on Data for the People, postdocs Chloe Pasin and Sinead Morris will talk about how scientists are applying hypothetical modeling and math to predict what can happen when social distancing rules are lifted at different time points, and using different strategies. More specifically, they will present a case study from The Lancet published on March 25, 2020 that applied a specific model to predict what would happen in Wuhan, China under different scenarios of social mixing (i.e. when and how the population stops social distancing).&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://www.youtube.com/watch?v=dYt_IwsLZZ4&#34;&gt;talk recording&lt;/a&gt; is available on the RockEDU Science Outreach youtube channel.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Math, Models, and Social Mixing</title>
-      <link>/talk/d4p/</link>
+      <link>https://sineadmorris.github.io/talk/d4p/</link>
       <pubDate>Wed, 20 May 2020 10:00:00 +0000</pubDate>
-      <guid>/talk/d4p/</guid>
+      <guid>https://sineadmorris.github.io/talk/d4p/</guid>
       <description>&lt;p&gt;From the RockEDU &lt;a href=&#34;https://rockedu.rockefeller.edu/d4p/may-20-using-models-and-math-to-determine-when-to-lift-the-rules-of-social-distancing/&#34;&gt;event page&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;This week on Data for the People, postdocs Chloe Pasin and Sinead Morris will talk about how scientists are applying hypothetical modeling and math to predict what can happen when social distancing rules are lifted at different time points, and using different strategies. More specifically, they will present a case study from The Lancet published on March 25, 2020 that applied a specific model to predict what would happen in Wuhan, China under different scenarios of social mixing (i.e. when and how the population stops social distancing).&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;The talk recording is available &lt;a href=&#34;https://www.youtube.com/watch?v=dYt_IwsLZZ4&#34;&gt;here&lt;/a&gt;, on the RockEDU Science Outreach youtube channel.&lt;/p&gt;

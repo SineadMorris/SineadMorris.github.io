@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Sinead Morris</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/publication_types/3/</link>
+      <atom:link href="https://sineadmorris.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>3</title>
-      <link>/publication_types/3/</link>
+      <link>https://sineadmorris.github.io/publication_types/3/</link>
     </image>
     
     <item>
       <title>Vaccine nationalism and the dynamics and control of SARS-CoV-2</title>
-      <link>/publication/vaccine_nationalism/</link>
+      <link>https://sineadmorris.github.io/publication/vaccine_nationalism/</link>
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/vaccine_nationalism/</guid>
+      <guid>https://sineadmorris.github.io/publication/vaccine_nationalism/</guid>
       <description></description>
     </item>
     

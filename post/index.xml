@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Sinead Morris</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/post/</link>
+      <atom:link href="https://sineadmorris.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 20 May 2020 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://sineadmorris.github.io/post/</link>
     </image>
     
     <item>
       <title>Math, Models, and Social Mixing</title>
-      <link>/post/d4p/</link>
+      <link>https://sineadmorris.github.io/post/d4p/</link>
       <pubDate>Wed, 20 May 2020 10:00:00 +0000</pubDate>
-      <guid>/post/d4p/</guid>
+      <guid>https://sineadmorris.github.io/post/d4p/</guid>
       <description>&lt;p&gt;From the &lt;a href=&#34;https://rockedu.rockefeller.edu/d4p/may-20-using-models-and-math-to-determine-when-to-lift-the-rules-of-social-distancing/&#34;&gt;RockEDU event page&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;This week on Data for the People, postdocs Chloe Pasin and Sinead Morris will talk about how scientists are applying hypothetical modeling and math to predict what can happen when social distancing rules are lifted at different time points, and using different strategies. More specifically, they will present a case study from The Lancet published on March 25, 2020 that applied a specific model to predict what would happen in Wuhan, China under different scenarios of social mixing (i.e. when and how the population stops social distancing).&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://www.youtube.com/watch?v=dYt_IwsLZZ4&#34;&gt;talk recording&lt;/a&gt; is available on the RockEDU Science Outreach youtube channel.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>SIS model for malaria</title>
-      <link>/post/the-sis-model/</link>
+      <link>https://sineadmorris.github.io/post/the-sis-model/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/post/the-sis-model/</guid>
+      <guid>https://sineadmorris.github.io/post/the-sis-model/</guid>
       <description>
 
 
@@ -47,7 +47,7 @@
 \frac{dI}{dt} &amp;amp;= \beta S I - \gamma I.
 \end{align*}\]&lt;/span&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plot&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/SIS/index_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://sineadmorris.github.io/post/SIS/index_files/figure-html/plot-1.png&#34; alt=&#34;Example simulation of the simple SIS model with $\gamma = 7$ day$^{-1}$, $R_0 = 3$ and $\beta = R_0\times \gamma$.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Example simulation of the simple SIS model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(R_0 = 3\)&lt;/span&gt; and &lt;span class=&#34;math inline&#34;&gt;\(\beta = R_0\times \gamma\)&lt;/span&gt;.
 &lt;/p&gt;
@@ -122,7 +122,7 @@ At this stage, notice that we can express the &lt;span class=&#34;math inline&#3
 \end{align*}\]&lt;/span&gt;
 &lt;p&gt;An example simulation of these equations is shown in Figure &lt;a href=&#34;#fig:plotm&#34;&gt;2&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:plotm&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/SIS/index_files/figure-html/plotm-1.png&#34; alt=&#34;Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$).&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://sineadmorris.github.io/post/SIS/index_files/figure-html/plotm-1.png&#34; alt=&#34;Example simulation of the SIS malaria model with $\gamma_h = 7$ day$^{-1}$, $\gamma_m = 3$ day$^{-1}$, $m = 2, a = 4, b = 0.05$, and $c = 0.09$ (so again $R_0 \sim 3$).&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 2: Example simulation of the SIS malaria model with &lt;span class=&#34;math inline&#34;&gt;\(\gamma_h = 7\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(\gamma_m = 3\)&lt;/span&gt; day&lt;span class=&#34;math inline&#34;&gt;\(^{-1}\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(m = 2, a = 4, b = 0.05\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(c = 0.09\)&lt;/span&gt; (so again &lt;span class=&#34;math inline&#34;&gt;\(R_0 \sim 3\)&lt;/span&gt;).
 &lt;/p&gt;
@@ -184,9 +184,9 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
     
     <item>
       <title>Disease modeling short course</title>
-      <link>/post/dolphin-morbillivirus/</link>
+      <link>https://sineadmorris.github.io/post/dolphin-morbillivirus/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/post/dolphin-morbillivirus/</guid>
+      <guid>https://sineadmorris.github.io/post/dolphin-morbillivirus/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event&lt;/strong&gt;: Summer bootcamp for infectious disease modeling&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: The Institute of Statistical Mathematics, Tokyo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Event URL&lt;/strong&gt;: &lt;a href=&#34;https://sites.google.com/site/modelinfection/home/shortcourse4&#34;&gt;https://sites.google.com/site/modelinfection/home/shortcourse4&lt;/a&gt;&lt;/p&gt;
@@ -197,9 +197,9 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
     
     <item>
       <title>Understanding the SIR model</title>
-      <link>/post/the-sir-model/</link>
+      <link>https://sineadmorris.github.io/post/the-sir-model/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/post/the-sir-model/</guid>
+      <guid>https://sineadmorris.github.io/post/the-sir-model/</guid>
       <description>
 
 
@@ -224,7 +224,7 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
 
 &lt;/div&gt;
 &lt;p&gt;To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (&lt;span class=&#34;math inline&#34;&gt;\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)&lt;/span&gt;; note: this corresponds to an &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; of about 3).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sineadmorris.github.io/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Incorporating vaccination&lt;/h2&gt;
@@ -242,7 +242,7 @@ R_0 = \frac{ma^2bc}{\gamma_h\gamma_m}.
 
 &lt;/div&gt;
 &lt;p&gt;Here’s the outcome of solving these equations with &lt;span class=&#34;math inline&#34;&gt;\(p = 0.5\)&lt;/span&gt; (and all other parameters as before). Note: now the &lt;em&gt;effective&lt;/em&gt; reproduction number is &lt;span class=&#34;math inline&#34;&gt;\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sineadmorris.github.io/post/SIR/index_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;how does changing &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; impact the shape of the epidemic curve?&lt;/li&gt;

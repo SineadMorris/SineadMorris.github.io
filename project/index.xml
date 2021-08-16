@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Sinead Morris</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/project/</link>
+      <atom:link href="https://sineadmorris.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://sineadmorris.github.io/project/</link>
     </image>
     
     <item>
       <title>Vaccine nationalism</title>
-      <link>/project/vaccine-nationalism/</link>
+      <link>https://sineadmorris.github.io/project/vaccine-nationalism/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/project/vaccine-nationalism/</guid>
+      <guid>https://sineadmorris.github.io/project/vaccine-nationalism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SARS-CoV-2 dynamics</title>
-      <link>/project/covid/</link>
+      <link>https://sineadmorris.github.io/project/covid/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/covid/</guid>
+      <guid>https://sineadmorris.github.io/project/covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SARS-CoV-2 vaccination</title>
-      <link>/project/covid_vacc/</link>
+      <link>https://sineadmorris.github.io/project/covid_vacc/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/covid_vacc/</guid>
+      <guid>https://sineadmorris.github.io/project/covid_vacc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling tissue-resident memory T cells</title>
-      <link>/project/trm/</link>
+      <link>https://sineadmorris.github.io/project/trm/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/trm/</guid>
+      <guid>https://sineadmorris.github.io/project/trm/</guid>
       <description>&lt;p&gt;Illustrates how a simple mathematical model can be applied to experimental data of tissue-resident memory T cells in nonlymphoid tissues. The aim is to estimate the clonal half-life of each population and project dynamics beyond experimental timeframes.&lt;/p&gt;
 &lt;p&gt;Full background and model details can be found in &lt;a href=&#34;https://www.jimmunol.org/content/203/10/2561&#34;&gt;Morris et al (2019) Journal of Immunology&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -48,17 +48,17 @@
     
     <item>
       <title>shinySIR</title>
-      <link>/project/shinysir/</link>
+      <link>https://sineadmorris.github.io/project/shinysir/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/shinysir/</guid>
+      <guid>https://sineadmorris.github.io/project/shinysir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ushr</title>
-      <link>/project/ushr/</link>
+      <link>https://sineadmorris.github.io/project/ushr/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/ushr/</guid>
+      <guid>https://sineadmorris.github.io/project/ushr/</guid>
       <description></description>
     </item>
     

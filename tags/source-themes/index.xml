@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes | Sinead Morris</title>
-    <link>/tags/source-themes/</link>
-      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/tags/source-themes/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <link>https://sineadmorris.github.io/tags/source-themes/</link>
     </image>
     
     <item>
       <title>Vaccine nationalism and the dynamics and control of SARS-CoV-2</title>
-      <link>/publication/vaccine_nationalism/</link>
+      <link>https://sineadmorris.github.io/publication/vaccine_nationalism/</link>
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/vaccine_nationalism/</guid>
+      <guid>https://sineadmorris.github.io/publication/vaccine_nationalism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal profiling of respiratory and systemic immune responses reveals myeloid cell-driven lung inflammation in severe COVID-19</title>
-      <link>/publication/covid_immunology/</link>
+      <link>https://sineadmorris.github.io/publication/covid_immunology/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/covid_immunology/</guid>
+      <guid>https://sineadmorris.github.io/publication/covid_immunology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes</title>
-      <link>/publication/covid_vaccine/</link>
+      <link>https://sineadmorris.github.io/publication/covid_vaccine/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/covid_vaccine/</guid>
+      <guid>https://sineadmorris.github.io/publication/covid_vaccine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immune life history, vaccination, and the dynamics of SARS-CoV-2 over the next 5 years</title>
-      <link>/publication/covid/</link>
+      <link>https://sineadmorris.github.io/publication/covid/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/covid/</guid>
+      <guid>https://sineadmorris.github.io/publication/covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy</title>
-      <link>/publication/jaids/</link>
+      <link>https://sineadmorris.github.io/publication/jaids/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jaids/</guid>
+      <guid>https://sineadmorris.github.io/publication/jaids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ushr: Understanding suppression of HIV in R</title>
-      <link>/publication/bmc/</link>
+      <link>https://sineadmorris.github.io/publication/bmc/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/bmc/</guid>
+      <guid>https://sineadmorris.github.io/publication/bmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tissue-resident memory T cells in mice and humans: Towards a quantitative ecology</title>
-      <link>/publication/trm/</link>
+      <link>https://sineadmorris.github.io/publication/trm/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/trm/</guid>
+      <guid>https://sineadmorris.github.io/publication/trm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance</title>
-      <link>/publication/mv/</link>
+      <link>https://sineadmorris.github.io/publication/mv/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mv/</guid>
+      <guid>https://sineadmorris.github.io/publication/mv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of multi-level spatial data reveals strong synchrony in seasonal influenza epidemics across Norway, Sweden, and Denmark</title>
-      <link>/publication/flu/</link>
+      <link>https://sineadmorris.github.io/publication/flu/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/flu/</guid>
+      <guid>https://sineadmorris.github.io/publication/flu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partially observed epidemics in wildlife hosts: modelling an outbreak of dolphin morbillivirus in the northwestern Atlantic, June 2013–2014</title>
-      <link>/publication/dmv/</link>
+      <link>https://sineadmorris.github.io/publication/dmv/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/dmv/</guid>
+      <guid>https://sineadmorris.github.io/publication/dmv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demographic buffering -- titrating the effects of birth rate and imperfect immunity on epidemic dynamics</title>
-      <link>/publication/buffering/</link>
+      <link>https://sineadmorris.github.io/publication/buffering/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/buffering/</guid>
+      <guid>https://sineadmorris.github.io/publication/buffering/</guid>
       <description></description>
     </item>
     

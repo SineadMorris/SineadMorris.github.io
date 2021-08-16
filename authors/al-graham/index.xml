@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AL Graham | Sinead Morris</title>
-    <link>/authors/al-graham/</link>
-      <atom:link href="/authors/al-graham/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/authors/al-graham/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/al-graham/index.xml" rel="self" type="application/rss+xml" />
     <description>AL Graham</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>AL Graham</title>
-      <link>/authors/al-graham/</link>
+      <link>https://sineadmorris.github.io/authors/al-graham/</link>
     </image>
     
     <item>
       <title>Vaccine nationalism and the dynamics and control of SARS-CoV-2</title>
-      <link>/publication/vaccine_nationalism/</link>
+      <link>https://sineadmorris.github.io/publication/vaccine_nationalism/</link>
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/vaccine_nationalism/</guid>
+      <guid>https://sineadmorris.github.io/publication/vaccine_nationalism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes</title>
-      <link>/publication/covid_vaccine/</link>
+      <link>https://sineadmorris.github.io/publication/covid_vaccine/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/covid_vaccine/</guid>
+      <guid>https://sineadmorris.github.io/publication/covid_vaccine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immune life history, vaccination, and the dynamics of SARS-CoV-2 over the next 5 years</title>
-      <link>/publication/covid/</link>
+      <link>https://sineadmorris.github.io/publication/covid/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/covid/</guid>
+      <guid>https://sineadmorris.github.io/publication/covid/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classes | Sinead Morris</title>
-    <link>/tags/classes/</link>
-      <atom:link href="/tags/classes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sineadmorris.github.io/tags/classes/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/classes/index.xml" rel="self" type="application/rss+xml" />
     <description>Classes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Classes</title>
-      <link>/tags/classes/</link>
+      <link>https://sineadmorris.github.io/tags/classes/</link>
     </image>
     
     <item>
       <title>Understanding the SIR model</title>
-      <link>/post/the-sir-model/</link>
+      <link>https://sineadmorris.github.io/post/the-sir-model/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/post/the-sir-model/</guid>
+      <guid>https://sineadmorris.github.io/post/the-sir-model/</guid>
       <description>
 
 
@@ -41,7 +41,7 @@
 
 &lt;/div&gt;
 &lt;p&gt;To find the number of susceptible, infected, and recovered individuals over time, we have to solve these equations using numerical integration methods. In this class we will use R to do this. Here’s an example of what the outcome of solving these equations looks like for a given set of parameters (&lt;span class=&#34;math inline&#34;&gt;\(\beta = 4 \times 10^{-5}, \mu = 7 \times 10^{-4}, \gamma = 1/7\)&lt;/span&gt;; note: this corresponds to an &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; of about 3).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sineadmorris.github.io/post/SIR/index_files/figure-html/SIRbasic-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;incorporating-vaccination&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Incorporating vaccination&lt;/h2&gt;
@@ -59,7 +59,7 @@
 
 &lt;/div&gt;
 &lt;p&gt;Here’s the outcome of solving these equations with &lt;span class=&#34;math inline&#34;&gt;\(p = 0.5\)&lt;/span&gt; (and all other parameters as before). Note: now the &lt;em&gt;effective&lt;/em&gt; reproduction number is &lt;span class=&#34;math inline&#34;&gt;\(R_0 \times (1 - p) \sim 3 \times 0.5 = 1.5\)&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/SIR/index_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sineadmorris.github.io/post/SIR/index_files/figure-html/SIRvacc-1.png&#34; width=&#34;1152&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In the interactive plot below you can explore what happens to the outcome as you change different model parameters, e.g:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;how does changing &lt;span class=&#34;math inline&#34;&gt;\(R_0\)&lt;/span&gt; impact the shape of the epidemic curve?&lt;/li&gt;
