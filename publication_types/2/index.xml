@@ -5,12 +5,20 @@
     <link>https://sineadmorris.github.io/publication_types/2/</link>
       <atom:link href="https://sineadmorris.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://sineadmorris.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Vaccine nationalism and the dynamics and control of SARS-CoV-2</title>
+      <link>https://sineadmorris.github.io/publication/vaccine_nationalism/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/vaccine_nationalism/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Longitudinal profiling of respiratory and systemic immune responses reveals myeloid cell-driven lung inflammation in severe COVID-19</title>
