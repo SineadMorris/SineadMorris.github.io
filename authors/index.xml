@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/authors/</link>
       <atom:link href="https://sineadmorris.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,56 @@
     <item>
       <title>**SE Morris**</title>
       <link>https://sineadmorris.github.io/authors/se-morris/</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/se-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJ Yates</title>
+      <link>https://sineadmorris.github.io/authors/aj-yates/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/aj-yates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CT Tiemessen</title>
+      <link>https://sineadmorris.github.io/authors/ct-tiemessen/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ct-tiemessen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EJ Abrams</title>
+      <link>https://sineadmorris.github.io/authors/ej-abrams/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ej-abrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Kuhn</title>
+      <link>https://sineadmorris.github.io/authors/l-kuhn/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/l-kuhn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Strehlau</title>
+      <link>https://sineadmorris.github.io/authors/r-strehlau/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/r-strehlau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Shiau</title>
+      <link>https://sineadmorris.github.io/authors/s-shiau/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-shiau/</guid>
       <description></description>
     </item>
     
@@ -37,7 +85,7 @@
     </item>
     
     <item>
-      <title>CE Wagner</title>
+      <title>CE Wagner*</title>
       <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/ce-wagner/</guid>
@@ -53,7 +101,7 @@
     </item>
     
     <item>
-      <title>CM Saad-Roy</title>
+      <title>CM Saad-Roy*</title>
       <link>https://sineadmorris.github.io/authors/cm-saad-roy/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/cm-saad-roy/</guid>
@@ -129,14 +177,6 @@
       <link>https://sineadmorris.github.io/authors/a-saqi/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/a-saqi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AJ Yates</title>
-      <link>https://sineadmorris.github.io/authors/aj-yates/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/aj-yates/</guid>
       <description></description>
     </item>
     
@@ -309,22 +349,6 @@
     </item>
     
     <item>
-      <title>CT Tiemessen</title>
-      <link>https://sineadmorris.github.io/authors/ct-tiemessen/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/ct-tiemessen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EJ Abrams</title>
-      <link>https://sineadmorris.github.io/authors/ej-abrams/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/ej-abrams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>J Schröter</title>
       <link>https://sineadmorris.github.io/authors/j-schroter/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
@@ -341,14 +365,6 @@
     </item>
     
     <item>
-      <title>L Kuhn</title>
-      <link>https://sineadmorris.github.io/authors/l-kuhn/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/l-kuhn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M Paximadis</title>
       <link>https://sineadmorris.github.io/authors/m-paximadis/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
@@ -357,26 +373,10 @@
     </item>
     
     <item>
-      <title>R Strehlau</title>
-      <link>https://sineadmorris.github.io/authors/r-strehlau/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/r-strehlau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>RJ de Boer</title>
       <link>https://sineadmorris.github.io/authors/rj-de-boer/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/rj-de-boer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Shiau</title>
-      <link>https://sineadmorris.github.io/authors/s-shiau/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/s-shiau/</guid>
       <description></description>
     </item>
     

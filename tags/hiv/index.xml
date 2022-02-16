@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HIV | Academic</title>
-    <link>/tags/hiv/</link>
-      <atom:link href="/tags/hiv/index.xml" rel="self" type="application/rss+xml" />
+    <title>HIV | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/hiv/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/hiv/index.xml" rel="self" type="application/rss+xml" />
     <description>HIV</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>HIV</title>
-      <link>/tags/hiv/</link>
+      <link>https://sineadmorris.github.io/tags/hiv/</link>
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/ushr/</link>
-      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/ushr/</guid>
+      <title>Healthy dynamics of CD4 T cells may drive HIV resurgence in perinatally-infected infants on antiretroviral therapy</title>
+      <link>https://sineadmorris.github.io/publication/hiv_resurgence/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/hiv_resurgence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy</title>
+      <link>https://sineadmorris.github.io/publication/jaids/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/jaids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ushr: Understanding suppression of HIV in R</title>
+      <link>https://sineadmorris.github.io/publication/bmc/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/bmc/</guid>
       <description></description>
     </item>
     
