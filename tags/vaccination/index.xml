@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vaccination | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/vaccination/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/vaccination/index.xml" rel="self" type="application/rss+xml" />
+    <description>vaccination</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>vaccination</title>
+      <link>https://sineadmorris.github.io/tags/vaccination/</link>
+    </image>
+    
+    <item>
+      <title>Vaccine nationalism and the dynamics and control of SARS-CoV-2</title>
+      <link>https://sineadmorris.github.io/publication/vaccine_nationalism/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/vaccine_nationalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes</title>
+      <link>https://sineadmorris.github.io/publication/covid_vaccine/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/covid_vaccine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

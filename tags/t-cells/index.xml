@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T cells | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/t-cells/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/t-cells/index.xml" rel="self" type="application/rss+xml" />
+    <description>T cells</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>T cells</title>
+      <link>https://sineadmorris.github.io/tags/t-cells/</link>
+    </image>
+    
+    <item>
+      <title>Tissue-resident memory T cells in mice and humans: Towards a quantitative ecology</title>
+      <link>https://sineadmorris.github.io/publication/trm/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/trm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

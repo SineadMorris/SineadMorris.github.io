@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DMV | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/dmv/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/dmv/index.xml" rel="self" type="application/rss+xml" />
+    <description>DMV</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>DMV</title>
+      <link>https://sineadmorris.github.io/tags/dmv/</link>
+    </image>
+    
+    <item>
+      <title>Partially observed epidemics in wildlife hosts: modelling an outbreak of dolphin morbillivirus in the northwestern Atlantic, June 2013–2014</title>
+      <link>https://sineadmorris.github.io/publication/dmv/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/dmv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

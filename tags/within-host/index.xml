@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>within-host | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/within-host/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/within-host/index.xml" rel="self" type="application/rss+xml" />
+    <description>within-host</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>within-host</title>
+      <link>https://sineadmorris.github.io/tags/within-host/</link>
+    </image>
+    
+    <item>
+      <title>Healthy dynamics of CD4 T cells may drive HIV resurgence in perinatally-infected infants on antiretroviral therapy</title>
+      <link>https://sineadmorris.github.io/publication/hiv_resurgence/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/hiv_resurgence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal profiling of respiratory and systemic immune responses reveals myeloid cell-driven lung inflammation in severe COVID-19</title>
+      <link>https://sineadmorris.github.io/publication/covid_immunology/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/covid_immunology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the dynamics of HIV decline in perinatally-infected neonates on antiretroviral therapy</title>
+      <link>https://sineadmorris.github.io/publication/jaids/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/jaids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ushr: Understanding suppression of HIV in R</title>
+      <link>https://sineadmorris.github.io/publication/bmc/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/bmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue-resident memory T cells in mice and humans: Towards a quantitative ecology</title>
+      <link>https://sineadmorris.github.io/publication/trm/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/trm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance</title>
+      <link>https://sineadmorris.github.io/publication/mv/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/mv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

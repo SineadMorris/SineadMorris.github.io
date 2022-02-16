@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>measles | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/measles/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/measles/index.xml" rel="self" type="application/rss+xml" />
+    <description>measles</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>measles</title>
+      <link>https://sineadmorris.github.io/tags/measles/</link>
+    </image>
+    
+    <item>
+      <title>Modeling the measles paradox reveals the importance of cellular immunity in regulating viral clearance</title>
+      <link>https://sineadmorris.github.io/publication/mv/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/mv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
