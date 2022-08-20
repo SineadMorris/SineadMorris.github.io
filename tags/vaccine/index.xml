@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>influenza | Sinead Morris</title>
-    <link>https://sineadmorris.github.io/tags/influenza/</link>
-      <atom:link href="https://sineadmorris.github.io/tags/influenza/index.xml" rel="self" type="application/rss+xml" />
-    <description>influenza</description>
+    <title>vaccine | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/vaccine/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/vaccine/index.xml" rel="self" type="application/rss+xml" />
+    <description>vaccine</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 23 Feb 2022 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>influenza</title>
-      <link>https://sineadmorris.github.io/tags/influenza/</link>
+      <title>vaccine</title>
+      <link>https://sineadmorris.github.io/tags/vaccine/</link>
     </image>
     
     <item>
@@ -19,14 +19,6 @@
       <guid>https://sineadmorris.github.io/talk/acip/</guid>
       <description>&lt;p&gt;Presenting work to the Advisory Committee on Immunization Practices (ACIP) that modeled the potential impact of recommending high-dose, adjuvanted and recombinant vaccines to adults aged 65 and over on seasonal influenza burden in the United States.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Analysis of multi-level spatial data reveals strong synchrony in seasonal influenza epidemics across Norway, Sweden, and Denmark</title>
-      <link>https://sineadmorris.github.io/publication/flu/</link>
-      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/flu/</guid>
-      <description></description>
     </item>
     
   </channel>
