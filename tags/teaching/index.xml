@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/teaching/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 17 Aug 2022 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>teaching</title>
+      <link>https://sineadmorris.github.io/tags/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Intro to Infectious Disease Modeling (in R)</title>
+      <link>https://sineadmorris.github.io/post/intro/</link>
+      <pubDate>Wed, 17 Aug 2022 10:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/post/intro/</guid>
+      <description>&lt;p&gt;A seminar introducing infectious disease modeling, with a particular focus on compartmental models and how to code them in R. Lecture slides and code are available on &lt;a href=&#34;https://github.com/SineadMorris/trainings&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

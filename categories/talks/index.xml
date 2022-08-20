@@ -5,12 +5,21 @@
     <link>https://sineadmorris.github.io/categories/talks/</link>
       <atom:link href="https://sineadmorris.github.io/categories/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 20 May 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 17 Aug 2022 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>talks</title>
       <link>https://sineadmorris.github.io/categories/talks/</link>
     </image>
+    
+    <item>
+      <title>Intro to Infectious Disease Modeling (in R)</title>
+      <link>https://sineadmorris.github.io/post/intro/</link>
+      <pubDate>Wed, 17 Aug 2022 10:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/post/intro/</guid>
+      <description>&lt;p&gt;A seminar introducing infectious disease modeling, with a particular focus on compartmental models and how to code them in R. Lecture slides and code are available on &lt;a href=&#34;https://github.com/SineadMorris/trainings&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Math, Models, and Social Mixing</title>
