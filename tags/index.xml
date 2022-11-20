@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/tags/</link>
       <atom:link href="https://sineadmorris.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 17 Aug 2022 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 25 Oct 2022 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>talks</title>
       <link>https://sineadmorris.github.io/tags/talks/</link>
-      <pubDate>Wed, 17 Aug 2022 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 10:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/talks/</guid>
       <description></description>
     </item>
@@ -23,8 +23,40 @@
     <item>
       <title>teaching</title>
       <link>https://sineadmorris.github.io/tags/teaching/</link>
-      <pubDate>Wed, 17 Aug 2022 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 10:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>partial immunity</title>
+      <link>https://sineadmorris.github.io/tags/partial-immunity/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/partial-immunity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2</title>
+      <link>https://sineadmorris.github.io/tags/sars-cov-2/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/sars-cov-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>influenza</title>
+      <link>https://sineadmorris.github.io/tags/influenza/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/influenza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vaccination</title>
+      <link>https://sineadmorris.github.io/tags/vaccination/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/vaccination/</guid>
       <description></description>
     </item>
     
@@ -45,14 +77,6 @@
     </item>
     
     <item>
-      <title>influenza</title>
-      <link>https://sineadmorris.github.io/tags/influenza/</link>
-      <pubDate>Wed, 23 Feb 2022 10:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/influenza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>policy</title>
       <link>https://sineadmorris.github.io/tags/policy/</link>
       <pubDate>Wed, 23 Feb 2022 10:00:00 +0000</pubDate>
@@ -65,30 +89,6 @@
       <link>https://sineadmorris.github.io/tags/vaccine/</link>
       <pubDate>Wed, 23 Feb 2022 10:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/vaccine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>partial immunity</title>
-      <link>https://sineadmorris.github.io/tags/partial-immunity/</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/partial-immunity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SARS-CoV-2</title>
-      <link>https://sineadmorris.github.io/tags/sars-cov-2/</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/sars-cov-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vaccination</title>
-      <link>https://sineadmorris.github.io/tags/vaccination/</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/vaccination/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Reed | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/authors/c-reed/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/c-reed/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Reed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>C Reed</title>
+      <link>https://sineadmorris.github.io/authors/c-reed/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the potential impact of higher-dose and adjuvanted seasonal influenza vaccines in adults age 65 and older on influenza burden in the United States (submitted)</title>
+      <link>https://sineadmorris.github.io/publication/hdav/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/hdav/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

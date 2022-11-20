@@ -5,12 +5,20 @@
     <link>https://sineadmorris.github.io/authors/bt-grenfell/</link>
       <atom:link href="https://sineadmorris.github.io/authors/bt-grenfell/index.xml" rel="self" type="application/rss+xml" />
     <description>BT Grenfell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>BT Grenfell</title>
       <link>https://sineadmorris.github.io/authors/bt-grenfell/</link>
     </image>
+    
+    <item>
+      <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease (submitted)</title>
+      <link>https://sineadmorris.github.io/publication/chronic_covid/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/chronic_covid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vaccine nationalism and the dynamics and control of SARS-CoV-2</title>
