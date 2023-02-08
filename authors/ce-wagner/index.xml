@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CE Wagner* | Sinead Morris</title>
+    <title>CE Wagner | Sinead Morris</title>
     <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
       <atom:link href="https://sineadmorris.github.io/authors/ce-wagner/index.xml" rel="self" type="application/rss+xml" />
-    <description>CE Wagner*</description>
+    <description>CE Wagner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>CE Wagner*</title>
+      <title>CE Wagner</title>
       <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
     </image>
     
     <item>
-      <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease (submitted)</title>
+      <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease</title>
       <link>https://sineadmorris.github.io/publication/chronic_covid/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/publication/chronic_covid/</guid>
