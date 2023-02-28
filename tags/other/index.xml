@@ -5,36 +5,12 @@
     <link>https://sineadmorris.github.io/tags/other/</link>
       <atom:link href="https://sineadmorris.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Other</title>
       <link>https://sineadmorris.github.io/tags/other/</link>
     </image>
-    
-    <item>
-      <title>Vaccine nationalism</title>
-      <link>https://sineadmorris.github.io/project/vaccine-nationalism/</link>
-      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/project/vaccine-nationalism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SARS-CoV-2 dynamics</title>
-      <link>https://sineadmorris.github.io/project/covid/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/project/covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SARS-CoV-2 vaccination</title>
-      <link>https://sineadmorris.github.io/project/covid_vacc/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/project/covid_vacc/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Modeling tissue-resident memory T cells</title>
