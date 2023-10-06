@@ -5,12 +5,28 @@
     <link>https://sineadmorris.github.io/tags/shiny-apps/</link>
       <atom:link href="https://sineadmorris.github.io/tags/shiny-apps/index.xml" rel="self" type="application/rss+xml" />
     <description>Shiny Apps</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Shiny Apps</title>
       <link>https://sineadmorris.github.io/tags/shiny-apps/</link>
     </image>
+    
+    <item>
+      <title>Long COVID</title>
+      <link>https://sineadmorris.github.io/project/covid_chronic/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/project/covid_chronic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 severity-blocking immunity</title>
+      <link>https://sineadmorris.github.io/project/covid_severe/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/project/covid_severe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vaccine nationalism</title>

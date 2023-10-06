@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/authors/</link>
       <atom:link href="https://sineadmorris.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,96 @@
     <item>
       <title>**SE Morris**</title>
       <link>https://sineadmorris.github.io/authors/se-morris/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/se-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AL Graham</title>
+      <link>https://sineadmorris.github.io/authors/al-graham/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/al-graham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BT Grenfell</title>
+      <link>https://sineadmorris.github.io/authors/bt-grenfell/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/bt-grenfell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CE Wagner</title>
+      <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ce-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CJE Metcalf</title>
+      <link>https://sineadmorris.github.io/authors/cje-metcalf/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/cje-metcalf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Saad-Roy</title>
+      <link>https://sineadmorris.github.io/authors/cm-saad-roy/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/cm-saad-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Farrar</title>
+      <link>https://sineadmorris.github.io/authors/j-farrar/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/j-farrar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RE Baker</title>
+      <link>https://sineadmorris.github.io/authors/re-baker/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/re-baker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SA Levin</title>
+      <link>https://sineadmorris.github.io/authors/sa-levin/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/sa-levin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BL Lewis</title>
+      <link>https://sineadmorris.github.io/authors/bl-lewis/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/bl-lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Boots</title>
+      <link>https://sineadmorris.github.io/authors/m-boots/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-boots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MV Marathe</title>
+      <link>https://sineadmorris.github.io/authors/mv-marathe/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/mv-marathe/</guid>
       <description></description>
     </item>
     
@@ -49,70 +137,6 @@
       <link>https://sineadmorris.github.io/authors/m-biggerstaff/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/m-biggerstaff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AL Graham</title>
-      <link>https://sineadmorris.github.io/authors/al-graham/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/al-graham/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BT Grenfell</title>
-      <link>https://sineadmorris.github.io/authors/bt-grenfell/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/bt-grenfell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CE Wagner*</title>
-      <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/ce-wagner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CJE Metcalf</title>
-      <link>https://sineadmorris.github.io/authors/cje-metcalf/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/cje-metcalf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CM Saad-Roy*</title>
-      <link>https://sineadmorris.github.io/authors/cm-saad-roy/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/cm-saad-roy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J Farrar</title>
-      <link>https://sineadmorris.github.io/authors/j-farrar/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/j-farrar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RE Baker</title>
-      <link>https://sineadmorris.github.io/authors/re-baker/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/re-baker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SA Levin</title>
-      <link>https://sineadmorris.github.io/authors/sa-levin/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/sa-levin/</guid>
       <description></description>
     </item>
     
@@ -545,7 +569,7 @@
       <link>https://sineadmorris.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&#39;m an Analytics and Modeling Fellow in the Influenza Division at CDC, working at the intersection of mathematical modeling and public health. I previously modeled within-host dynamics of influenza and HIV as a postdoc at Columbia University, NY.&lt;/p&gt;
+      <description>&lt;p&gt;I&#39;m a modeling consultant supporting the Influenza Division at CDC, working at the intersection of mathematical modeling and public health.&lt;/p&gt;
 </description>
     </item>
     

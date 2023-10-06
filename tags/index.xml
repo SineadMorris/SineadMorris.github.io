@@ -5,12 +5,36 @@
     <link>https://sineadmorris.github.io/tags/</link>
       <atom:link href="https://sineadmorris.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://sineadmorris.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>partial immunity</title>
+      <link>https://sineadmorris.github.io/tags/partial-immunity/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/partial-immunity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2</title>
+      <link>https://sineadmorris.github.io/tags/sars-cov-2/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/sars-cov-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny Apps</title>
+      <link>https://sineadmorris.github.io/tags/shiny-apps/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/shiny-apps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>influenza</title>
@@ -45,22 +69,6 @@
     </item>
     
     <item>
-      <title>partial immunity</title>
-      <link>https://sineadmorris.github.io/tags/partial-immunity/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/partial-immunity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SARS-CoV-2</title>
-      <link>https://sineadmorris.github.io/tags/sars-cov-2/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/sars-cov-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>HIV</title>
       <link>https://sineadmorris.github.io/tags/hiv/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
@@ -89,14 +97,6 @@
       <link>https://sineadmorris.github.io/tags/vaccine/</link>
       <pubDate>Wed, 23 Feb 2022 10:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/vaccine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shiny Apps</title>
-      <link>https://sineadmorris.github.io/tags/shiny-apps/</link>
-      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/shiny-apps/</guid>
       <description></description>
     </item>
     

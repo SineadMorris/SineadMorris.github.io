@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/authors/se-morris/</link>
       <atom:link href="https://sineadmorris.github.io/authors/se-morris/index.xml" rel="self" type="application/rss+xml" />
     <description>**SE Morris**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>**SE Morris**</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Evaluating potential impacts of a preferential vaccine recommendation for adults aged 65 years and older on US influenza burden</title>
-      <link>https://sineadmorris.github.io/publication/hdav/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/hdav/</guid>
+      <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease</title>
+      <link>https://sineadmorris.github.io/publication/chronic_covid/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/chronic_covid/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease</title>
-      <link>https://sineadmorris.github.io/publication/chronic_covid/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/chronic_covid/</guid>
+      <title>Impact of waning immunity against SARS-CoV-2 severity exacerbated by vaccine hesitancy</title>
+      <link>https://sineadmorris.github.io/publication/covid_severity/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/covid_severity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating potential impacts of a preferential vaccine recommendation for adults aged 65 years and older on US influenza burden</title>
+      <link>https://sineadmorris.github.io/publication/hdav/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/hdav/</guid>
       <description></description>
     </item>
     

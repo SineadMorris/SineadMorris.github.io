@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="An example of linking directly to an external project website using `external_link`.">
+  <meta name="description" content="Companion shiny app to Saad-Roy et al. 2023 *J. R. Soc. Interface*">
 
   
-  <link rel="alternate" hreflang="en-us" href="/project/external-project/">
+  <link rel="alternate" hreflang="en-us" href="https://sineadmorris.github.io/project/covid_chronic/">
 
   
 
@@ -39,7 +39,7 @@
   
   
   
-  <meta name="theme-color" content="rgb(251, 191, 183)">
+  <meta name="theme-color" content="rgb(217, 141, 149)">
   
 
   
@@ -188,7 +188,7 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
@@ -202,6 +202,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106967206-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-106967206-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -211,7 +247,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/project/external-project/">
+  <link rel="canonical" href="https://sineadmorris.github.io/project/covid_chronic/">
 
   
   
@@ -222,16 +258,16 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Academic">
-  <meta property="og:url" content="/project/external-project/">
-  <meta property="og:title" content="External Project | Academic">
-  <meta property="og:description" content="An example of linking directly to an external project website using `external_link`."><meta property="og:image" content="/project/external-project/featured.jpg">
-  <meta property="twitter:image" content="/project/external-project/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:site_name" content="Sinead Morris">
+  <meta property="og:url" content="https://sineadmorris.github.io/project/covid_chronic/">
+  <meta property="og:title" content="Long COVID | Sinead Morris">
+  <meta property="og:description" content="Companion shiny app to Saad-Roy et al. 2023 *J. R. Soc. Interface*"><meta property="og:image" content="https://sineadmorris.github.io/project/covid_chronic/featured.png">
+  <meta property="twitter:image" content="https://sineadmorris.github.io/project/covid_chronic/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2023-08-30T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2016-04-27T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-08-30T00:00:00&#43;00:00">
   
 
   
@@ -255,16 +291,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/project/external-project/"
+    "@id": "https://sineadmorris.github.io/project/covid_chronic/"
   },
-  "headline": "External Project",
+  "headline": "Long COVID",
   
   "image": [
-    "/project/external-project/featured.jpg"
+    "https://sineadmorris.github.io/project/covid_chronic/featured.png"
   ],
   
-  "datePublished": "2016-04-27T00:00:00Z",
-  "dateModified": "2016-04-27T00:00:00Z",
+  "datePublished": "2023-08-30T00:00:00Z",
+  "dateModified": "2023-08-30T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -273,13 +309,13 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Academic",
+    "name": "Sinead Morris",
     "logo": {
       "@type": "ImageObject",
-      "url": "/img/icon-512.png"
+      "url": "https://sineadmorris.github.io/img/icon-512.png"
     }
   },
-  "description": "An example of linking directly to an external project website using `external_link`."
+  "description": "Companion shiny app to Saad-Roy et al. 2023 *J. R. Soc. Interface*"
 }
 </script>
 
@@ -297,7 +333,7 @@
 
 
 
-  <title>External Project | Academic</title>
+  <title>Long COVID | Sinead Morris</title>
 
 </head>
 
@@ -342,7 +378,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Sinead Morris</a>
     </div>
     
 
@@ -355,7 +391,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Sinead Morris</a>
     </div>
     
 
@@ -477,35 +513,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/#posts"><span>Teaching</span></a>
         </li>
 
@@ -535,7 +542,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -598,7 +605,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>External Project</h1>
+  <h1>Long COVID</h1>
 
   
 
@@ -616,7 +623,7 @@
     
       
     
-    Apr 27, 2016
+    Aug 30, 2023
   </span>
   
 
@@ -649,7 +656,7 @@
 
 <div class="btn-links mb-3">
   
-  <a class="btn btn-outline-primary my-1" href="http://example.org" target="_blank" rel="noopener">Go to Project Site</a>
+  <a class="btn btn-outline-primary my-1" href="https://grenfelllab.shinyapps.io/chronicCOVID/" target="_blank" rel="noopener">Go to Project Site</a>
   
   
 
@@ -686,10 +693,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 405px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 484px;">
   <div style="position: relative">
-    <img src="/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
-    <span class="article-header-caption">Photo by Toa Heftiba on Unsplash</span>
+    <img src="/project/covid_chronic/featured_hua190b12043c8f5ae12da62f6b972d49f_347833_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    
   </div>
 </div>
 
@@ -709,95 +716,11 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/demo/">Demo</a>
+  <a class="badge badge-light" href="/tags/shiny-apps/">Shiny Apps</a>
   
 </div>
 
 
-
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=/project/external-project/&amp;text=External%20Project" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=/project/external-project/&amp;t=External%20Project" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=External%20Project&amp;body=/project/external-project/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/project/external-project/&amp;title=External%20Project" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://web.whatsapp.com/send?text=External%20Project%20/project/external-project/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=/project/external-project/&amp;title=External%20Project" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
-    
-  </ul>
-</div>
 
 
 
@@ -830,9 +753,9 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/">Sinead E. Morris</a></h5>
-      <h6 class="card-subtitle">Postdoctoral Research Scientist</h6>
-      <p class="card-text">I work at the intersection of mathematical modeling, immunology, and infectious diseases.</p>
+      <h5 class="card-title"><a href="https://sineadmorris.github.io/">Sinead E. Morris</a></h5>
+      <h6 class="card-subtitle">Influenza Modeling Consultant</h6>
+      <p class="card-text">I work at the intersection of mathematical modeling, epidemiology, and infectious diseases.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -915,6 +838,21 @@
 
 
   
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/project/covid_severe/">SARS-CoV-2 severity-blocking immunity</a></li>
+      
+      <li><a href="/project/vaccine-nationalism/">Vaccine nationalism</a></li>
+      
+      <li><a href="/project/covid/">SARS-CoV-2 dynamics</a></li>
+      
+      <li><a href="/project/covid_vacc/">SARS-CoV-2 vaccination</a></li>
+      
+    </ul>
+  </div>
   
 
 
@@ -1046,19 +984,9 @@
   <div class="container">
     <footer class="site-footer">
   
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
-  
 
   <p class="powered-by">
-    
+    © 2019 Sinead Morris &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
