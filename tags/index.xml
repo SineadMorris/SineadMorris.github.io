@@ -5,12 +5,36 @@
     <link>https://sineadmorris.github.io/tags/</link>
       <atom:link href="https://sineadmorris.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://sineadmorris.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>antivirals</title>
+      <link>https://sineadmorris.github.io/tags/antivirals/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/antivirals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>influenza</title>
+      <link>https://sineadmorris.github.io/tags/influenza/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/influenza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nursing homes</title>
+      <link>https://sineadmorris.github.io/tags/nursing-homes/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/nursing-homes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>partial immunity</title>
@@ -33,14 +57,6 @@
       <link>https://sineadmorris.github.io/tags/shiny-apps/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/shiny-apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>influenza</title>
-      <link>https://sineadmorris.github.io/tags/influenza/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/influenza/</guid>
       <description></description>
     </item>
     

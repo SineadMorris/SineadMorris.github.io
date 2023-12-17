@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/authors/</link>
       <atom:link href="https://sineadmorris.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,72 @@
     <item>
       <title>**SE Morris**</title>
       <link>https://sineadmorris.github.io/authors/se-morris/</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/se-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Zipfel*</title>
+      <link>https://sineadmorris.github.io/authors/cm-zipfel/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/cm-zipfel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Peer</title>
+      <link>https://sineadmorris.github.io/authors/k-peer/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/k-peer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBiggerstaff</title>
+      <link>https://sineadmorris.github.io/authors/mbiggerstaff/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/mbiggerstaff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Paul</title>
+      <link>https://sineadmorris.github.io/authors/p-paul/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/p-paul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RB Slayton</title>
+      <link>https://sineadmorris.github.io/authors/rb-slayton/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rb-slayton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Brenner</title>
+      <link>https://sineadmorris.github.io/authors/s-brenner/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-brenner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Garg</title>
+      <link>https://sineadmorris.github.io/authors/s-garg/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-garg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZJ Madewell</title>
+      <link>https://sineadmorris.github.io/authors/zj-madewell/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/zj-madewell/</guid>
       <description></description>
     </item>
     
@@ -37,7 +101,7 @@
     </item>
     
     <item>
-      <title>CE Wagner</title>
+      <title>CE Wagner*</title>
       <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/ce-wagner/</guid>
@@ -53,7 +117,7 @@
     </item>
     
     <item>
-      <title>CM Saad-Roy</title>
+      <title>CM Saad-Roy*</title>
       <link>https://sineadmorris.github.io/authors/cm-saad-roy/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/cm-saad-roy/</guid>

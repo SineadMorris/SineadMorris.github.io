@@ -5,12 +5,20 @@
     <link>https://sineadmorris.github.io/publication_types/2/</link>
       <atom:link href="https://sineadmorris.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://sineadmorris.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Modeling the impacts of antiviral prophylaxis strategies in mitigating seasonal influenza outbreaks in nursing homes</title>
+      <link>https://sineadmorris.github.io/publication/nursing-home-antivirals/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/nursing-home-antivirals/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease</title>
