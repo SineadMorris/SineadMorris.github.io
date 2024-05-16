@@ -5,12 +5,36 @@
     <link>https://sineadmorris.github.io/authors/m-biggerstaff/</link>
       <atom:link href="https://sineadmorris.github.io/authors/m-biggerstaff/index.xml" rel="self" type="application/rss+xml" />
     <description>M Biggerstaff</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>M Biggerstaff</title>
       <link>https://sineadmorris.github.io/authors/m-biggerstaff/</link>
     </image>
+    
+    <item>
+      <title>Detection of novel influenza viruses through community and healthcare testing: Implications for surveillance efforts in the United States</title>
+      <link>https://sineadmorris.github.io/publication/novel-virus-detection/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/novel-virus-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influenza virus shedding and symptoms: Dynamics and implications from a multi-season household transmission study</title>
+      <link>https://sineadmorris.github.io/publication/shedding-and-symptoms/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/shedding-and-symptoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of asymptomatic infections in influenza transmission: what do we really know</title>
+      <link>https://sineadmorris.github.io/publication/asymptomatic-review/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/asymptomatic-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating potential impacts of a preferential vaccine recommendation for adults aged 65 years and older on US influenza burden</title>

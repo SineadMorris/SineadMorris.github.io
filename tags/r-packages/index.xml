@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R packages | Sinead Morris</title>
+    <title>R Packages | Sinead Morris</title>
     <link>https://sineadmorris.github.io/tags/r-packages/</link>
       <atom:link href="https://sineadmorris.github.io/tags/r-packages/index.xml" rel="self" type="application/rss+xml" />
-    <description>R packages</description>
+    <description>R Packages</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>R packages</title>
+      <title>R Packages</title>
       <link>https://sineadmorris.github.io/tags/r-packages/</link>
     </image>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isolation | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/isolation/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/isolation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isolation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>Isolation</title>
+      <link>https://sineadmorris.github.io/tags/isolation/</link>
+    </image>
+    
+    <item>
+      <title>Influenza virus shedding and symptoms: Dynamics and implications from a multi-season household transmission study</title>
+      <link>https://sineadmorris.github.io/publication/shedding-and-symptoms/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/shedding-and-symptoms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
