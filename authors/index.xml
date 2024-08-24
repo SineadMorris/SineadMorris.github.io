@@ -5,12 +5,973 @@
     <link>https://sineadmorris.github.io/authors/</link>
       <atom:link href="https://sineadmorris.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://sineadmorris.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>**SE Morris**</title>
+      <link>https://sineadmorris.github.io/authors/se-morris/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/se-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AM Mellis</title>
+      <link>https://sineadmorris.github.io/authors/am-mellis/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/am-mellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Reed</title>
+      <link>https://sineadmorris.github.io/authors/c-reed/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/c-reed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CG Grijalva</title>
+      <link>https://sineadmorris.github.io/authors/cg-grijalva/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/cg-grijalva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EA Belongia</title>
+      <link>https://sineadmorris.github.io/authors/ea-belongia/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ea-belongia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HK Talbot</title>
+      <link>https://sineadmorris.github.io/authors/hk-talbot/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/hk-talbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HQ Nguyen</title>
+      <link>https://sineadmorris.github.io/authors/hq-nguyen/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/hq-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JD Chappell</title>
+      <link>https://sineadmorris.github.io/authors/jd-chappell/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/jd-chappell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JE Biddle</title>
+      <link>https://sineadmorris.github.io/authors/je-biddle/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/je-biddle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JK Meece</title>
+      <link>https://sineadmorris.github.io/authors/jk-meece/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/jk-meece/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KE Hanson</title>
+      <link>https://sineadmorris.github.io/authors/ke-hanson/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ke-hanson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Biggerstaff</title>
+      <link>https://sineadmorris.github.io/authors/m-biggerstaff/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-biggerstaff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MA Rolfes</title>
+      <link>https://sineadmorris.github.io/authors/ma-rolfes/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ma-rolfes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NB Halasa</title>
+      <link>https://sineadmorris.github.io/authors/nb-halasa/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/nb-halasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Zhu</title>
+      <link>https://sineadmorris.github.io/authors/y-zhu/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/y-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Asturias</title>
+      <link>https://sineadmorris.github.io/authors/e-asturias/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/e-asturias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Sano</title>
+      <link>https://sineadmorris.github.io/authors/e-sano/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/e-sano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Lutrick</title>
+      <link>https://sineadmorris.github.io/authors/k-lutrick/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/k-lutrick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KD Ellingson</title>
+      <link>https://sineadmorris.github.io/authors/kd-ellingson/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/kd-ellingson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LYH Chan</title>
+      <link>https://sineadmorris.github.io/authors/lyh-chan/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/lyh-chan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS Stockwell</title>
+      <link>https://sineadmorris.github.io/authors/ms-stockwell/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ms-stockwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NM Bowman</title>
+      <link>https://sineadmorris.github.io/authors/nm-bowman/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/nm-bowman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RK Borchering</title>
+      <link>https://sineadmorris.github.io/authors/rk-borchering/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rk-borchering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RVTN-Sentinel Study Group</title>
+      <link>https://sineadmorris.github.io/authors/rvtn-sentinel-study-group/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rvtn-sentinel-study-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Rao</title>
+      <link>https://sineadmorris.github.io/authors/s-rao/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-rao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE Smith-Jeffcoat</title>
+      <link>https://sineadmorris.github.io/authors/se-smith-jeffcoat/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/se-smith-jeffcoat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SH McLaren,</title>
+      <link>https://sineadmorris.github.io/authors/sh-mclaren/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/sh-mclaren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Maldonado</title>
+      <link>https://sineadmorris.github.io/authors/y-maldonado/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/y-maldonado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJ Yates</title>
+      <link>https://sineadmorris.github.io/authors/aj-yates/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/aj-yates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Seddon</title>
+      <link>https://sineadmorris.github.io/authors/b-seddon/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/b-seddon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C van Dorp</title>
+      <link>https://sineadmorris.github.io/authors/c-van-dorp/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/c-van-dorp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Williams</title>
+      <link>https://sineadmorris.github.io/authors/c-williams/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/c-williams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Nowicka</title>
+      <link>https://sineadmorris.github.io/authors/m-nowicka/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-nowicka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Sharjeel</title>
+      <link>https://sineadmorris.github.io/authors/m-sharjeel/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-sharjeel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ME Bullock</title>
+      <link>https://sineadmorris.github.io/authors/me-bullock/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/me-bullock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Hogan</title>
+      <link>https://sineadmorris.github.io/authors/t-hogan/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/t-hogan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AL Graham</title>
+      <link>https://sineadmorris.github.io/authors/al-graham/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/al-graham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BL Lewis</title>
+      <link>https://sineadmorris.github.io/authors/bl-lewis/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/bl-lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BT Grenfell</title>
+      <link>https://sineadmorris.github.io/authors/bt-grenfell/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/bt-grenfell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CE Wagner*</title>
+      <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ce-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CJE Metcalf</title>
+      <link>https://sineadmorris.github.io/authors/cje-metcalf/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/cje-metcalf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Saad-Roy*</title>
+      <link>https://sineadmorris.github.io/authors/cm-saad-roy/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/cm-saad-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Farrar</title>
+      <link>https://sineadmorris.github.io/authors/j-farrar/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/j-farrar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Boots</title>
+      <link>https://sineadmorris.github.io/authors/m-boots/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-boots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MV Marathe</title>
+      <link>https://sineadmorris.github.io/authors/mv-marathe/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/mv-marathe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RE Baker</title>
+      <link>https://sineadmorris.github.io/authors/re-baker/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/re-baker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SA Levin</title>
+      <link>https://sineadmorris.github.io/authors/sa-levin/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/sa-levin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AD Iuliano</title>
+      <link>https://sineadmorris.github.io/authors/ad-iuliano/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ad-iuliano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AP Budd</title>
+      <link>https://sineadmorris.github.io/authors/ap-budd/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ap-budd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Brammer</title>
+      <link>https://sineadmorris.github.io/authors/l-brammer/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/l-brammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Gilmer</title>
+      <link>https://sineadmorris.github.io/authors/m-gilmer/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-gilmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Threlkel</title>
+      <link>https://sineadmorris.github.io/authors/r-threlkel/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/r-threlkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AM Samuels</title>
+      <link>https://sineadmorris.github.io/authors/am-samuels/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/am-samuels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MP Montgomery</title>
+      <link>https://sineadmorris.github.io/authors/mp-montgomery/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/mp-montgomery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SJ Olsen</title>
+      <link>https://sineadmorris.github.io/authors/sj-olsen/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/sj-olsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W Kittikraisak</title>
+      <link>https://sineadmorris.github.io/authors/w-kittikraisak/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/w-kittikraisak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WW Davis</title>
+      <link>https://sineadmorris.github.io/authors/ww-davis/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ww-davis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Zipfel*</title>
+      <link>https://sineadmorris.github.io/authors/cm-zipfel/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/cm-zipfel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Peer</title>
+      <link>https://sineadmorris.github.io/authors/k-peer/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/k-peer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBiggerstaff</title>
+      <link>https://sineadmorris.github.io/authors/mbiggerstaff/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/mbiggerstaff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Paul</title>
+      <link>https://sineadmorris.github.io/authors/p-paul/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/p-paul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RB Slayton</title>
+      <link>https://sineadmorris.github.io/authors/rb-slayton/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rb-slayton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Brenner</title>
+      <link>https://sineadmorris.github.io/authors/s-brenner/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-brenner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Garg</title>
+      <link>https://sineadmorris.github.io/authors/s-garg/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-garg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZJ Madewell</title>
+      <link>https://sineadmorris.github.io/authors/zj-madewell/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/zj-madewell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Ferdinands</title>
+      <link>https://sineadmorris.github.io/authors/j-ferdinands/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/j-ferdinands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LA Grohskopf</title>
+      <link>https://sineadmorris.github.io/authors/la-grohskopf/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/la-grohskopf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CT Tiemessen</title>
+      <link>https://sineadmorris.github.io/authors/ct-tiemessen/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ct-tiemessen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EJ Abrams</title>
+      <link>https://sineadmorris.github.io/authors/ej-abrams/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ej-abrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Kuhn</title>
+      <link>https://sineadmorris.github.io/authors/l-kuhn/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/l-kuhn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Strehlau</title>
+      <link>https://sineadmorris.github.io/authors/r-strehlau/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/r-strehlau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Shiau</title>
+      <link>https://sineadmorris.github.io/authors/s-shiau/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-shiau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EC Holmes</title>
+      <link>https://sineadmorris.github.io/authors/ec-holmes/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ec-holmes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EJ Emanuel</title>
+      <link>https://sineadmorris.github.io/authors/ej-emanuel/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ej-emanuel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MJ Mina</title>
+      <link>https://sineadmorris.github.io/authors/mj-mina/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/mj-mina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OG Pybus</title>
+      <link>https://sineadmorris.github.io/authors/og-pybus/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/og-pybus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ku</title>
+      <link>https://sineadmorris.github.io/authors/a-ku/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/a-ku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Saqi</title>
+      <link>https://sineadmorris.github.io/authors/a-saqi/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/a-saqi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Pasin</title>
+      <link>https://sineadmorris.github.io/authors/c-pasin/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/c-pasin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DL Farber</title>
+      <link>https://sineadmorris.github.io/authors/dl-farber/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/dl-farber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Idzikowski</title>
+      <link>https://sineadmorris.github.io/authors/e-idzikowski/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/e-idzikowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Krupska</title>
+      <link>https://sineadmorris.github.io/authors/i-krupska/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/i-krupska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Davis-Porada</title>
+      <link>https://sineadmorris.github.io/authors/j-davis-porada/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/j-davis-porada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Zhou</title>
+      <link>https://sineadmorris.github.io/authors/j-zhou/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/j-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JI Gray*</title>
+      <link>https://sineadmorris.github.io/authors/ji-gray/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ji-gray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Baldwin</title>
+      <link>https://sineadmorris.github.io/authors/m-baldwin/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-baldwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Chait</title>
+      <link>https://sineadmorris.github.io/authors/m-chait/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-chait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Steinle</title>
+      <link>https://sineadmorris.github.io/authors/m-steinle/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-steinle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MML Poon</title>
+      <link>https://sineadmorris.github.io/authors/mml-poon/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/mml-poon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Dogra*</title>
+      <link>https://sineadmorris.github.io/authors/p-dogra/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/p-dogra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PA Sims</title>
+      <link>https://sineadmorris.github.io/authors/pa-sims/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/pa-sims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PA Szabo*</title>
+      <link>https://sineadmorris.github.io/authors/pa-szabo/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/pa-szabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Matsumoto</title>
+      <link>https://sineadmorris.github.io/authors/r-matsumoto/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/r-matsumoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Mackay</title>
+      <link>https://sineadmorris.github.io/authors/s-mackay/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-mackay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SB Wells*</title>
+      <link>https://sineadmorris.github.io/authors/sb-wells/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/sb-wells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SP Weisberg</title>
+      <link>https://sineadmorris.github.io/authors/sp-weisberg/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/sp-weisberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TJ Connors</title>
+      <link>https://sineadmorris.github.io/authors/tj-connors/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/tj-connors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XV Guo</title>
+      <link>https://sineadmorris.github.io/authors/xv-guo/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/xv-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AJN Anelone</title>
+      <link>https://sineadmorris.github.io/authors/ajn-anelone/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ajn-anelone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Schröter</title>
+      <link>https://sineadmorris.github.io/authors/j-schroter/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/j-schroter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Dziobek-Garrett</title>
+      <link>https://sineadmorris.github.io/authors/l-dziobek-garrett/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/l-dziobek-garrett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Paximadis</title>
+      <link>https://sineadmorris.github.io/authors/m-paximadis/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-paximadis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RJ de Boer</title>
+      <link>https://sineadmorris.github.io/authors/rj-de-boer/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rj-de-boer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AN Nelson</title>
+      <link>https://sineadmorris.github.io/authors/an-nelson/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/an-nelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DE Griffin</title>
+      <link>https://sineadmorris.github.io/authors/de-griffin/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/de-griffin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RD de Vries</title>
+      <link>https://sineadmorris.github.io/authors/rd-de-vries/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rd-de-vries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RD Kouyos</title>
+      <link>https://sineadmorris.github.io/authors/rd-kouyos/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rd-kouyos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL de Swart</title>
+      <link>https://sineadmorris.github.io/authors/rl-de-swart/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rl-de-swart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHW Lin</title>
+      <link>https://sineadmorris.github.io/authors/whw-lin/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/whw-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wesolowski</title>
+      <link>https://sineadmorris.github.io/authors/a-wesolowski/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/a-wesolowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Freiesleben de Blasio</title>
+      <link>https://sineadmorris.github.io/authors/b-freiesleben-de-blasio/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/b-freiesleben-de-blasio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Viboud</title>
+      <link>https://sineadmorris.github.io/authors/c-viboud/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/c-viboud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ON Bjørnstad</title>
+      <link>https://sineadmorris.github.io/authors/on-bj%C3%B8rnstad/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/on-bj%C3%B8rnstad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA Fauquier</title>
+      <link>https://sineadmorris.github.io/authors/da-fauquier/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/da-fauquier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Gulland</title>
+      <link>https://sineadmorris.github.io/authors/f-gulland/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/f-gulland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JL Zelner</title>
+      <link>https://sineadmorris.github.io/authors/jl-zelner/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/jl-zelner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PE Rosel</title>
+      <link>https://sineadmorris.github.io/authors/pe-rosel/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/pe-rosel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TK Rowles</title>
+      <link>https://sineadmorris.github.io/authors/tk-rowles/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/tk-rowles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VE Pitzer</title>
+      <link>https://sineadmorris.github.io/authors/ve-pitzer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ve-pitzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sineadmorris.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&#39;m a self-employed modeling consultant supporting the Influenza Division at CDC and working on questions that integrate mathematical modeling with public health.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

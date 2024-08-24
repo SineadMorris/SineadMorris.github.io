@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Outreach | Sinead Morris</title>
+    <title>outreach | Sinead Morris</title>
     <link>https://sineadmorris.github.io/tags/outreach/</link>
       <atom:link href="https://sineadmorris.github.io/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
-    <description>Outreach</description>
+    <description>outreach</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 20 May 2020 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>Outreach</title>
+      <title>outreach</title>
       <link>https://sineadmorris.github.io/tags/outreach/</link>
     </image>
     

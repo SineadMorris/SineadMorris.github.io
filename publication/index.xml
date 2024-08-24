@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/publication/</link>
       <atom:link href="https://sineadmorris.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Detection of novel influenza viruses through community and healthcare testing: Implications for surveillance efforts in the United States</title>
-      <link>https://sineadmorris.github.io/publication/novel-virus-detection/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/novel-virus-detection/</guid>
+      <title>Influenza virus shedding and symptoms: Dynamics and implications from a multi-season household transmission study</title>
+      <link>https://sineadmorris.github.io/publication/shedding-and-symptoms/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/shedding-and-symptoms/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Influenza virus shedding and symptoms: Dynamics and implications from a multi-season household transmission study</title>
-      <link>https://sineadmorris.github.io/publication/shedding-and-symptoms/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/shedding-and-symptoms/</guid>
+      <title>Estimating the generation time for influenza transmission using household data in the United States</title>
+      <link>https://sineadmorris.github.io/publication/generation-time/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/generation-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics and longevity of circulating CD4&#43; memory T cells depend on cell age and not the chronological age of the host</title>
+      <link>https://sineadmorris.github.io/publication/cd4-tcells/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/cd4-tcells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of waning immunity against SARS-CoV-2 severity exacerbated by vaccine hesitancy</title>
+      <link>https://sineadmorris.github.io/publication/covid_severity/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/covid_severity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of novel influenza viruses through community and healthcare testing: Implications for surveillance efforts in the United States</title>
+      <link>https://sineadmorris.github.io/publication/novel-virus-detection/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/novel-virus-detection/</guid>
       <description></description>
     </item>
     
@@ -49,14 +73,6 @@
       <link>https://sineadmorris.github.io/publication/chronic_covid/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/publication/chronic_covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impact of waning immunity against SARS-CoV-2 severity exacerbated by vaccine hesitancy</title>
-      <link>https://sineadmorris.github.io/publication/covid_severity/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/covid_severity/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RK Borchering | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/authors/rk-borchering/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/rk-borchering/index.xml" rel="self" type="application/rss+xml" />
+    <description>RK Borchering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>RK Borchering</title>
+      <link>https://sineadmorris.github.io/authors/rk-borchering/</link>
+    </image>
+    
+    <item>
+      <title>Estimating the generation time for influenza transmission using household data in the United States</title>
+      <link>https://sineadmorris.github.io/publication/generation-time/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/generation-time/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transmission | Sinead Morris</title>
+    <title>transmission | Sinead Morris</title>
     <link>https://sineadmorris.github.io/tags/transmission/</link>
       <atom:link href="https://sineadmorris.github.io/tags/transmission/index.xml" rel="self" type="application/rss+xml" />
-    <description>Transmission</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <description>transmission</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>Transmission</title>
+      <title>transmission</title>
       <link>https://sineadmorris.github.io/tags/transmission/</link>
     </image>
     
     <item>
       <title>Influenza virus shedding and symptoms: Dynamics and implications from a multi-season household transmission study</title>
       <link>https://sineadmorris.github.io/publication/shedding-and-symptoms/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/publication/shedding-and-symptoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the generation time for influenza transmission using household data in the United States</title>
+      <link>https://sineadmorris.github.io/publication/generation-time/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/generation-time/</guid>
       <description></description>
     </item>
     

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks | Sinead Morris</title>
+    <title>talks | Sinead Morris</title>
     <link>https://sineadmorris.github.io/categories/talks/</link>
       <atom:link href="https://sineadmorris.github.io/categories/talks/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks</description>
+    <description>talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 25 Oct 2022 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>Talks</title>
+      <title>talks</title>
       <link>https://sineadmorris.github.io/categories/talks/</link>
     </image>
     

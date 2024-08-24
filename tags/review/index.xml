@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Review | Sinead Morris</title>
+    <title>review | Sinead Morris</title>
     <link>https://sineadmorris.github.io/tags/review/</link>
       <atom:link href="https://sineadmorris.github.io/tags/review/index.xml" rel="self" type="application/rss+xml" />
-    <description>Review</description>
+    <description>review</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>Review</title>
+      <title>review</title>
       <link>https://sineadmorris.github.io/tags/review/</link>
     </image>
     

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Partial Immunity | Sinead Morris</title>
+    <title>partial immunity | Sinead Morris</title>
     <link>https://sineadmorris.github.io/tags/partial-immunity/</link>
       <atom:link href="https://sineadmorris.github.io/tags/partial-immunity/index.xml" rel="self" type="application/rss+xml" />
-    <description>Partial Immunity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <description>partial immunity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>Partial Immunity</title>
+      <title>partial immunity</title>
       <link>https://sineadmorris.github.io/tags/partial-immunity/</link>
     </image>
+    
+    <item>
+      <title>Impact of waning immunity against SARS-CoV-2 severity exacerbated by vaccine hesitancy</title>
+      <link>https://sineadmorris.github.io/publication/covid_severity/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/covid_severity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease</title>
       <link>https://sineadmorris.github.io/publication/chronic_covid/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/publication/chronic_covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impact of waning immunity against SARS-CoV-2 severity exacerbated by vaccine hesitancy</title>
-      <link>https://sineadmorris.github.io/publication/covid_severity/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/covid_severity/</guid>
       <description></description>
     </item>
     

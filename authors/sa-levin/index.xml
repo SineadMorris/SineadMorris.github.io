@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/authors/sa-levin/</link>
       <atom:link href="https://sineadmorris.github.io/authors/sa-levin/index.xml" rel="self" type="application/rss+xml" />
     <description>SA Levin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>SA Levin</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease</title>
-      <link>https://sineadmorris.github.io/publication/chronic_covid/</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/chronic_covid/</guid>
+      <title>Impact of waning immunity against SARS-CoV-2 severity exacerbated by vaccine hesitancy</title>
+      <link>https://sineadmorris.github.io/publication/covid_severity/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/covid_severity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Impact of waning immunity against SARS-CoV-2 severity exacerbated by vaccine hesitancy</title>
-      <link>https://sineadmorris.github.io/publication/covid_severity/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/covid_severity/</guid>
+      <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease</title>
+      <link>https://sineadmorris.github.io/publication/chronic_covid/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/chronic_covid/</guid>
       <description></description>
     </item>
     

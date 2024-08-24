@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CE Wagner | Sinead Morris</title>
+    <title>CE Wagner* | Sinead Morris</title>
     <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
       <atom:link href="https://sineadmorris.github.io/authors/ce-wagner/index.xml" rel="self" type="application/rss+xml" />
-    <description>CE Wagner</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <description>CE Wagner*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>CE Wagner</title>
+      <title>CE Wagner*</title>
       <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
     </image>
+    
+    <item>
+      <title>Impact of waning immunity against SARS-CoV-2 severity exacerbated by vaccine hesitancy</title>
+      <link>https://sineadmorris.github.io/publication/covid_severity/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/covid_severity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Medium-term scenarios of COVID-19 as a function of immune uncertainties and chronic disease</title>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>Impact of waning immunity against SARS-CoV-2 severity exacerbated by vaccine hesitancy</title>
-      <link>https://sineadmorris.github.io/publication/covid_severity/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/covid_severity/</guid>
+      <title>Vaccine nationalism and the dynamics and control of SARS-CoV-2</title>
+      <link>https://sineadmorris.github.io/publication/vaccine_nationalism/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/vaccine_nationalism/</guid>
       <description></description>
     </item>
     
@@ -33,6 +41,14 @@
       <link>https://sineadmorris.github.io/publication/covid_vaccine/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/publication/covid_vaccine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immune life history, vaccination, and the dynamics of SARS-CoV-2 over the next 5 years</title>
+      <link>https://sineadmorris.github.io/publication/covid/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/covid/</guid>
       <description></description>
     </item>
     

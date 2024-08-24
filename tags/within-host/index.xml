@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Within-Host | Sinead Morris</title>
+    <title>within-host | Sinead Morris</title>
     <link>https://sineadmorris.github.io/tags/within-host/</link>
       <atom:link href="https://sineadmorris.github.io/tags/within-host/index.xml" rel="self" type="application/rss+xml" />
-    <description>Within-Host</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <description>within-host</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
-      <title>Within-Host</title>
+      <title>within-host</title>
       <link>https://sineadmorris.github.io/tags/within-host/</link>
     </image>
+    
+    <item>
+      <title>The dynamics and longevity of circulating CD4&#43; memory T cells depend on cell age and not the chronological age of the host</title>
+      <link>https://sineadmorris.github.io/publication/cd4-tcells/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/cd4-tcells/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Healthy dynamics of CD4 T cells may drive HIV resurgence in perinatally-infected infants on antiretroviral therapy</title>

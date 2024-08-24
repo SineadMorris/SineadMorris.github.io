@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Seddon | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/authors/b-seddon/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/b-seddon/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Seddon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>B Seddon</title>
+      <link>https://sineadmorris.github.io/authors/b-seddon/</link>
+    </image>
+    
+    <item>
+      <title>The dynamics and longevity of circulating CD4&#43; memory T cells depend on cell age and not the chronological age of the host</title>
+      <link>https://sineadmorris.github.io/publication/cd4-tcells/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/cd4-tcells/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
