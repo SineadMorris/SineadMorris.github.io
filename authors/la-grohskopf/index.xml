@@ -5,12 +5,20 @@
     <link>https://sineadmorris.github.io/authors/la-grohskopf/</link>
       <atom:link href="https://sineadmorris.github.io/authors/la-grohskopf/index.xml" rel="self" type="application/rss+xml" />
     <description>LA Grohskopf</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>LA Grohskopf</title>
       <link>https://sineadmorris.github.io/authors/la-grohskopf/</link>
     </image>
+    
+    <item>
+      <title>Estimating historical impacts of vaccination against influenza B/Yamagata in the United States to inform possible risks of re-emergence in the absence of vaccination</title>
+      <link>https://sineadmorris.github.io/publication/burden-byamagata/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/burden-byamagata/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating potential impacts of a preferential vaccine recommendation for adults aged 65 years and older on US influenza burden</title>

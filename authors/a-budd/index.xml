@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Budd | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/authors/a-budd/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/a-budd/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Budd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>A Budd</title>
+      <link>https://sineadmorris.github.io/authors/a-budd/</link>
+    </image>
+    
+    <item>
+      <title>Estimating historical impacts of vaccination against influenza B/Yamagata in the United States to inform possible risks of re-emergence in the absence of vaccination</title>
+      <link>https://sineadmorris.github.io/publication/burden-byamagata/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/burden-byamagata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

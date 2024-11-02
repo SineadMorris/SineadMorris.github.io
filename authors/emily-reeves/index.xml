@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Reeves | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/authors/emily-reeves/</link>
+      <atom:link href="https://sineadmorris.github.io/authors/emily-reeves/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily Reeves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>Emily Reeves</title>
+      <link>https://sineadmorris.github.io/authors/emily-reeves/</link>
+    </image>
+    
+    <item>
+      <title>Modeling the potential impacts of outpatient antiviral treatment in reducing influenza-associated hospitalizations in the United States</title>
+      <link>https://sineadmorris.github.io/publication/antiviral-treatment/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/antiviral-treatment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

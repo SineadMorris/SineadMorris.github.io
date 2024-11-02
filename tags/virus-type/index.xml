@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virus type | Sinead Morris</title>
+    <link>https://sineadmorris.github.io/tags/virus-type/</link>
+      <atom:link href="https://sineadmorris.github.io/tags/virus-type/index.xml" rel="self" type="application/rss+xml" />
+    <description>virus type</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sineadmorris.github.io/img/icon-192.png</url>
+      <title>virus type</title>
+      <link>https://sineadmorris.github.io/tags/virus-type/</link>
+    </image>
+    
+    <item>
+      <title>Estimating historical disease burden and the impact of vaccination by influenza type and subtype in the United States, 2016-2020</title>
+      <link>https://sineadmorris.github.io/publication/burden/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/burden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/</link>
       <atom:link href="https://sineadmorris.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sinead Morris</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Sinead Morris</title>
@@ -52,6 +52,38 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Estimating historical impacts of vaccination against influenza B/Yamagata in the United States to inform possible risks of re-emergence in the absence of vaccination</title>
+      <link>https://sineadmorris.github.io/publication/burden-byamagata/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/burden-byamagata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating historical disease burden and the impact of vaccination by influenza type and subtype in the United States, 2016-2020</title>
+      <link>https://sineadmorris.github.io/publication/burden/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/burden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the potential impacts of outpatient antiviral treatment in reducing influenza-associated hospitalizations in the United States</title>
+      <link>https://sineadmorris.github.io/publication/antiviral-treatment/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/antiviral-treatment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the generation time for SARS-CoV-2 transmission using household data in the United States, December 2021-May 2023</title>
+      <link>https://sineadmorris.github.io/publication/generation-time-sarscov2/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/generation-time-sarscov2/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/authors/</link>
       <atom:link href="https://sineadmorris.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,32 +15,336 @@
     <item>
       <title>**SE Morris**</title>
       <link>https://sineadmorris.github.io/authors/se-morris/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/se-morris/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AM Mellis</title>
-      <link>https://sineadmorris.github.io/authors/am-mellis/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/am-mellis/</guid>
+      <title>A Budd</title>
+      <link>https://sineadmorris.github.io/authors/a-budd/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/a-budd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Merced-Morales</title>
+      <link>https://sineadmorris.github.io/authors/a-merced-morales/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/a-merced-morales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A O’Halloran</title>
+      <link>https://sineadmorris.github.io/authors/a-ohalloran/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/a-ohalloran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AD Iuliano</title>
+      <link>https://sineadmorris.github.io/authors/ad-iuliano/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ad-iuliano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Flannery</title>
+      <link>https://sineadmorris.github.io/authors/b-flannery/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/b-flannery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C Reed</title>
       <link>https://sineadmorris.github.io/authors/c-reed/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/c-reed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CH Bozio</title>
+      <link>https://sineadmorris.github.io/authors/ch-bozio/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ch-bozio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JR Chung</title>
+      <link>https://sineadmorris.github.io/authors/jr-chung/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/jr-chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Kniss</title>
+      <link>https://sineadmorris.github.io/authors/k-kniss/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/k-kniss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LA Grohskopf</title>
+      <link>https://sineadmorris.github.io/authors/la-grohskopf/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/la-grohskopf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Biggerstaff</title>
+      <link>https://sineadmorris.github.io/authors/m-biggerstaff/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/m-biggerstaff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Daly</title>
+      <link>https://sineadmorris.github.io/authors/p-daly/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/p-daly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Lu</title>
+      <link>https://sineadmorris.github.io/authors/p-lu/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/p-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SM Mathis*</title>
+      <link>https://sineadmorris.github.io/authors/sm-mathis/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/sm-mathis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TA Santibanez</title>
+      <link>https://sineadmorris.github.io/authors/ta-santibanez/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ta-santibanez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CN Cummings</title>
+      <link>https://sineadmorris.github.io/authors/cn-cummings/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/cn-cummings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Garg</title>
+      <link>https://sineadmorris.github.io/authors/s-garg/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-garg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Reeves</title>
+      <link>https://sineadmorris.github.io/authors/emily-reeves/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/emily-reeves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MW Tenforde</title>
+      <link>https://sineadmorris.github.io/authors/mw-tenforde/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/mw-tenforde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NM Lewis</title>
+      <link>https://sineadmorris.github.io/authors/nm-lewis/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/nm-lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RK Borchering</title>
+      <link>https://sineadmorris.github.io/authors/rk-borchering/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rk-borchering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Masalovich</title>
+      <link>https://sineadmorris.github.io/authors/s-masalovich/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-masalovich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TM Uyeki</title>
+      <link>https://sineadmorris.github.io/authors/tm-uyeki/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/tm-uyeki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AM Mellis</title>
+      <link>https://sineadmorris.github.io/authors/am-mellis/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/am-mellis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CG Grijalva</title>
       <link>https://sineadmorris.github.io/authors/cg-grijalva/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/cg-grijalva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Asturias</title>
+      <link>https://sineadmorris.github.io/authors/e-asturias/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/e-asturias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Sano</title>
+      <link>https://sineadmorris.github.io/authors/e-sano/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/e-sano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HK Talbot</title>
+      <link>https://sineadmorris.github.io/authors/hk-talbot/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/hk-talbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HQ Nguyen</title>
+      <link>https://sineadmorris.github.io/authors/hq-nguyen/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/hq-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JE Biddle</title>
+      <link>https://sineadmorris.github.io/authors/je-biddle/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/je-biddle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Lutrick</title>
+      <link>https://sineadmorris.github.io/authors/k-lutrick/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/k-lutrick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KD Ellingson</title>
+      <link>https://sineadmorris.github.io/authors/kd-ellingson/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/kd-ellingson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LYH Chan</title>
+      <link>https://sineadmorris.github.io/authors/lyh-chan/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/lyh-chan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MA Rolfes</title>
+      <link>https://sineadmorris.github.io/authors/ma-rolfes/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ma-rolfes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS Stockwell</title>
+      <link>https://sineadmorris.github.io/authors/ms-stockwell/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/ms-stockwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NM Bowman</title>
+      <link>https://sineadmorris.github.io/authors/nm-bowman/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/nm-bowman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RVTN-Sentinel Study Group</title>
+      <link>https://sineadmorris.github.io/authors/rvtn-sentinel-study-group/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/rvtn-sentinel-study-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Rao</title>
+      <link>https://sineadmorris.github.io/authors/s-rao/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/s-rao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE Smith-Jeffcoat</title>
+      <link>https://sineadmorris.github.io/authors/se-smith-jeffcoat/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/se-smith-jeffcoat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SH McLaren,</title>
+      <link>https://sineadmorris.github.io/authors/sh-mclaren/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/sh-mclaren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Maldonado</title>
+      <link>https://sineadmorris.github.io/authors/y-maldonado/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/authors/y-maldonado/</guid>
       <description></description>
     </item>
     
@@ -53,34 +357,10 @@
     </item>
     
     <item>
-      <title>HK Talbot</title>
-      <link>https://sineadmorris.github.io/authors/hk-talbot/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/hk-talbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HQ Nguyen</title>
-      <link>https://sineadmorris.github.io/authors/hq-nguyen/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/hq-nguyen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>JD Chappell</title>
       <link>https://sineadmorris.github.io/authors/jd-chappell/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/jd-chappell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JE Biddle</title>
-      <link>https://sineadmorris.github.io/authors/je-biddle/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/je-biddle/</guid>
       <description></description>
     </item>
     
@@ -101,22 +381,6 @@
     </item>
     
     <item>
-      <title>M Biggerstaff</title>
-      <link>https://sineadmorris.github.io/authors/m-biggerstaff/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/m-biggerstaff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MA Rolfes</title>
-      <link>https://sineadmorris.github.io/authors/ma-rolfes/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/ma-rolfes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NB Halasa</title>
       <link>https://sineadmorris.github.io/authors/nb-halasa/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
@@ -129,110 +393,6 @@
       <link>https://sineadmorris.github.io/authors/y-zhu/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/y-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E Asturias</title>
-      <link>https://sineadmorris.github.io/authors/e-asturias/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/e-asturias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E Sano</title>
-      <link>https://sineadmorris.github.io/authors/e-sano/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/e-sano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K Lutrick</title>
-      <link>https://sineadmorris.github.io/authors/k-lutrick/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/k-lutrick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KD Ellingson</title>
-      <link>https://sineadmorris.github.io/authors/kd-ellingson/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/kd-ellingson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LYH Chan</title>
-      <link>https://sineadmorris.github.io/authors/lyh-chan/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/lyh-chan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MS Stockwell</title>
-      <link>https://sineadmorris.github.io/authors/ms-stockwell/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/ms-stockwell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NM Bowman</title>
-      <link>https://sineadmorris.github.io/authors/nm-bowman/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/nm-bowman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RK Borchering</title>
-      <link>https://sineadmorris.github.io/authors/rk-borchering/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/rk-borchering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RVTN-Sentinel Study Group</title>
-      <link>https://sineadmorris.github.io/authors/rvtn-sentinel-study-group/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/rvtn-sentinel-study-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Rao</title>
-      <link>https://sineadmorris.github.io/authors/s-rao/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/s-rao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SE Smith-Jeffcoat</title>
-      <link>https://sineadmorris.github.io/authors/se-smith-jeffcoat/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/se-smith-jeffcoat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SH McLaren,</title>
-      <link>https://sineadmorris.github.io/authors/sh-mclaren/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/sh-mclaren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y Maldonado</title>
-      <link>https://sineadmorris.github.io/authors/y-maldonado/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/y-maldonado/</guid>
       <description></description>
     </item>
     
@@ -325,7 +485,7 @@
     </item>
     
     <item>
-      <title>CE Wagner*</title>
+      <title>CE Wagner</title>
       <link>https://sineadmorris.github.io/authors/ce-wagner/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/ce-wagner/</guid>
@@ -341,7 +501,7 @@
     </item>
     
     <item>
-      <title>CM Saad-Roy*</title>
+      <title>CM Saad-Roy</title>
       <link>https://sineadmorris.github.io/authors/cm-saad-roy/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/cm-saad-roy/</guid>
@@ -385,14 +545,6 @@
       <link>https://sineadmorris.github.io/authors/sa-levin/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/sa-levin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AD Iuliano</title>
-      <link>https://sineadmorris.github.io/authors/ad-iuliano/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/ad-iuliano/</guid>
       <description></description>
     </item>
     
@@ -517,14 +669,6 @@
     </item>
     
     <item>
-      <title>S Garg</title>
-      <link>https://sineadmorris.github.io/authors/s-garg/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/s-garg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ZJ Madewell</title>
       <link>https://sineadmorris.github.io/authors/zj-madewell/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
@@ -537,14 +681,6 @@
       <link>https://sineadmorris.github.io/authors/j-ferdinands/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/authors/j-ferdinands/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LA Grohskopf</title>
-      <link>https://sineadmorris.github.io/authors/la-grohskopf/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/authors/la-grohskopf/</guid>
       <description></description>
     </item>
     

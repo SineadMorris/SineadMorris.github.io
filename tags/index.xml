@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/tags/</link>
       <atom:link href="https://sineadmorris.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,122 @@
     </image>
     
     <item>
-      <title>Ct</title>
-      <link>https://sineadmorris.github.io/tags/ct/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/ct/</guid>
+      <title>B/Yamagata</title>
+      <link>https://sineadmorris.github.io/tags/b/yamagata/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/b/yamagata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disease burden</title>
+      <link>https://sineadmorris.github.io/tags/disease-burden/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/disease-burden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>influenza</title>
       <link>https://sineadmorris.github.io/tags/influenza/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/influenza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vaccination</title>
+      <link>https://sineadmorris.github.io/tags/vaccination/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/vaccination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virus lineage</title>
+      <link>https://sineadmorris.github.io/tags/virus-lineage/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/virus-lineage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virus subtype</title>
+      <link>https://sineadmorris.github.io/tags/virus-subtype/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/virus-subtype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virus type</title>
+      <link>https://sineadmorris.github.io/tags/virus-type/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/virus-type/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>antivirals</title>
+      <link>https://sineadmorris.github.io/tags/antivirals/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/antivirals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hospitalization</title>
+      <link>https://sineadmorris.github.io/tags/hospitalization/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/hospitalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treatment</title>
+      <link>https://sineadmorris.github.io/tags/treatment/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/treatment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generation time</title>
+      <link>https://sineadmorris.github.io/tags/generation-time/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/generation-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>household study</title>
+      <link>https://sineadmorris.github.io/tags/household-study/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/household-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2</title>
+      <link>https://sineadmorris.github.io/tags/sars-cov-2/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/sars-cov-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transmission</title>
+      <link>https://sineadmorris.github.io/tags/transmission/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ct</title>
+      <link>https://sineadmorris.github.io/tags/ct/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/ct/</guid>
       <description></description>
     </item>
     
@@ -45,34 +149,10 @@
     </item>
     
     <item>
-      <title>transmission</title>
-      <link>https://sineadmorris.github.io/tags/transmission/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/transmission/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>virus shedding</title>
       <link>https://sineadmorris.github.io/tags/virus-shedding/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/virus-shedding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>generation time</title>
-      <link>https://sineadmorris.github.io/tags/generation-time/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/generation-time/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>household study</title>
-      <link>https://sineadmorris.github.io/tags/household-study/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/household-study/</guid>
       <description></description>
     </item>
     
@@ -125,14 +205,6 @@
     </item>
     
     <item>
-      <title>SARS-CoV-2</title>
-      <link>https://sineadmorris.github.io/tags/sars-cov-2/</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/sars-cov-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>H5N1</title>
       <link>https://sineadmorris.github.io/tags/h5n1/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
@@ -173,14 +245,6 @@
     </item>
     
     <item>
-      <title>antivirals</title>
-      <link>https://sineadmorris.github.io/tags/antivirals/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/antivirals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>nursing homes</title>
       <link>https://sineadmorris.github.io/tags/nursing-homes/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
@@ -193,14 +257,6 @@
       <link>https://sineadmorris.github.io/tags/shiny-apps/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/shiny-apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vaccination</title>
-      <link>https://sineadmorris.github.io/tags/vaccination/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/vaccination/</guid>
       <description></description>
     </item>
     

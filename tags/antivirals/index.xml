@@ -5,12 +5,20 @@
     <link>https://sineadmorris.github.io/tags/antivirals/</link>
       <atom:link href="https://sineadmorris.github.io/tags/antivirals/index.xml" rel="self" type="application/rss+xml" />
     <description>antivirals</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>antivirals</title>
       <link>https://sineadmorris.github.io/tags/antivirals/</link>
     </image>
+    
+    <item>
+      <title>Modeling the potential impacts of outpatient antiviral treatment in reducing influenza-associated hospitalizations in the United States</title>
+      <link>https://sineadmorris.github.io/publication/antiviral-treatment/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/antiviral-treatment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modeling the impacts of antiviral prophylaxis strategies in mitigating seasonal influenza outbreaks in nursing homes</title>
