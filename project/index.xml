@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/project/</link>
       <atom:link href="https://sineadmorris.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Long COVID</title>
-      <link>https://sineadmorris.github.io/project/covid_chronic/</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/project/covid_chronic/</guid>
+      <title>SARS-CoV-2 severity-blocking immunity</title>
+      <link>https://sineadmorris.github.io/project/covid_severe/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/project/covid_severe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SARS-CoV-2 severity-blocking immunity</title>
-      <link>https://sineadmorris.github.io/project/covid_severe/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/project/covid_severe/</guid>
+      <title>Long COVID</title>
+      <link>https://sineadmorris.github.io/project/covid_chronic/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/project/covid_chronic/</guid>
       <description></description>
     </item>
     

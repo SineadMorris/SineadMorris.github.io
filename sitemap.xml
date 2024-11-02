@@ -533,12 +533,27 @@
   </url>
   
   <url>
+    <loc>https://sineadmorris.github.io/project/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sineadmorris.github.io/authors/re-baker/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sineadmorris.github.io/authors/sa-levin/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sineadmorris.github.io/project/covid_severe/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sineadmorris.github.io/tags/shiny-apps/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -678,21 +693,6 @@
   </url>
   
   <url>
-    <loc>https://sineadmorris.github.io/project/</loc>
-    <lastmod>2023-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sineadmorris.github.io/tags/shiny-apps/</loc>
-    <lastmod>2023-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sineadmorris.github.io/project/covid_severe/</loc>
-    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sineadmorris.github.io/publication/hdav/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url>
@@ -718,12 +718,12 @@
   </url>
   
   <url>
-    <loc>https://sineadmorris.github.io/tags/talks/</loc>
+    <loc>https://sineadmorris.github.io/categories/talks/</loc>
     <lastmod>2022-10-25T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sineadmorris.github.io/categories/talks/</loc>
+    <loc>https://sineadmorris.github.io/tags/talks/</loc>
     <lastmod>2022-10-25T10:00:00+00:00</lastmod>
   </url>
   
