@@ -181,7 +181,7 @@
       <guid>https://sineadmorris.github.io/post/modeling101/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event&lt;/strong&gt;: 2022 Council of State and Territorial Epidemiologists (CTSE)/CDC Infectious Disease Forecasting Workshop in Atlanta, GA.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;: A seminar introducing infectious disease modeling for public health officials, with a particular focus on interpreting model results and assessing model utility.&lt;/p&gt;
-&lt;p&gt;Lecture slides are available below, or on &lt;a href=&#34;https://github.com/SineadMorris/trainings&#34;&gt;Github&lt;/a&gt; along with the associated R code. A modified version of this seminar is also available on the &lt;a href=&#34;https://learn.cste.org/courses/course/template-142&#34;&gt;CSTE Learn Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Materials&lt;/strong&gt;: Lecture slides and associated R code are available on &lt;a href=&#34;https://github.com/SineadMorris/trainings&#34;&gt;Github&lt;/a&gt;. A modified version of this seminar is also available on the &lt;a href=&#34;https://learn.cste.org/courses/course/template-142&#34;&gt;CSTE Learn Platform&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe id=&#34;iframepdf&#34; src=&#34;modeling_for_publichealth.pdf&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
