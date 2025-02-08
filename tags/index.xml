@@ -5,12 +5,44 @@
     <link>https://sineadmorris.github.io/tags/</link>
       <atom:link href="https://sineadmorris.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://sineadmorris.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>generation time</title>
+      <link>https://sineadmorris.github.io/tags/generation-time/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/generation-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>household study</title>
+      <link>https://sineadmorris.github.io/tags/household-study/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/household-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>influenza</title>
+      <link>https://sineadmorris.github.io/tags/influenza/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/influenza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transmission</title>
+      <link>https://sineadmorris.github.io/tags/transmission/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/tags/transmission/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>B/Yamagata</title>
@@ -25,14 +57,6 @@
       <link>https://sineadmorris.github.io/tags/disease-burden/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/disease-burden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>influenza</title>
-      <link>https://sineadmorris.github.io/tags/influenza/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/influenza/</guid>
       <description></description>
     </item>
     
@@ -93,34 +117,10 @@
     </item>
     
     <item>
-      <title>generation time</title>
-      <link>https://sineadmorris.github.io/tags/generation-time/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/generation-time/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>household study</title>
-      <link>https://sineadmorris.github.io/tags/household-study/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/household-study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SARS-CoV-2</title>
       <link>https://sineadmorris.github.io/tags/sars-cov-2/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/tags/sars-cov-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transmission</title>
-      <link>https://sineadmorris.github.io/tags/transmission/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/tags/transmission/</guid>
       <description></description>
     </item>
     

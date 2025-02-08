@@ -5,12 +5,20 @@
     <link>https://sineadmorris.github.io/authors/rk-borchering/</link>
       <atom:link href="https://sineadmorris.github.io/authors/rk-borchering/index.xml" rel="self" type="application/rss+xml" />
     <description>RK Borchering</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>RK Borchering</title>
       <link>https://sineadmorris.github.io/authors/rk-borchering/</link>
     </image>
+    
+    <item>
+      <title>Estimating the generation time for influenza transmission using household data in the United States</title>
+      <link>https://sineadmorris.github.io/publication/generation-time/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/generation-time/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modeling the potential impacts of outpatient antiviral treatment in reducing influenza-associated hospitalizations in the United States</title>
@@ -25,14 +33,6 @@
       <link>https://sineadmorris.github.io/publication/generation-time-sarscov2/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/publication/generation-time-sarscov2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating the generation time for influenza transmission using household data in the United States</title>
-      <link>https://sineadmorris.github.io/publication/generation-time/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/generation-time/</guid>
       <description></description>
     </item>
     

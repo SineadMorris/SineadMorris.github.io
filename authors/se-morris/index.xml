@@ -5,12 +5,20 @@
     <link>https://sineadmorris.github.io/authors/se-morris/</link>
       <atom:link href="https://sineadmorris.github.io/authors/se-morris/index.xml" rel="self" type="application/rss+xml" />
     <description>**SE Morris**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>**SE Morris**</title>
       <link>https://sineadmorris.github.io/authors/se-morris/</link>
     </image>
+    
+    <item>
+      <title>Estimating the generation time for influenza transmission using household data in the United States</title>
+      <link>https://sineadmorris.github.io/publication/generation-time/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/generation-time/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimating historical impacts of vaccination against influenza B/Yamagata in the United States to inform possible risks of re-emergence in the absence of vaccination</title>
@@ -49,14 +57,6 @@
       <link>https://sineadmorris.github.io/publication/shedding-and-symptoms/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://sineadmorris.github.io/publication/shedding-and-symptoms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating the generation time for influenza transmission using household data in the United States</title>
-      <link>https://sineadmorris.github.io/publication/generation-time/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/generation-time/</guid>
       <description></description>
     </item>
     

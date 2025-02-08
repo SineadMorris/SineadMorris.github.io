@@ -5,7 +5,7 @@
     <link>https://sineadmorris.github.io/authors/e-sano/</link>
       <atom:link href="https://sineadmorris.github.io/authors/e-sano/index.xml" rel="self" type="application/rss+xml" />
     <description>E Sano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Sinead Morris</copyright><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sineadmorris.github.io/img/icon-192.png</url>
       <title>E Sano</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Estimating the generation time for SARS-CoV-2 transmission using household data in the United States, December 2021-May 2023</title>
-      <link>https://sineadmorris.github.io/publication/generation-time-sarscov2/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/generation-time-sarscov2/</guid>
+      <title>Estimating the generation time for influenza transmission using household data in the United States</title>
+      <link>https://sineadmorris.github.io/publication/generation-time/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/generation-time/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Estimating the generation time for influenza transmission using household data in the United States</title>
-      <link>https://sineadmorris.github.io/publication/generation-time/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sineadmorris.github.io/publication/generation-time/</guid>
+      <title>Estimating the generation time for SARS-CoV-2 transmission using household data in the United States, December 2021-May 2023</title>
+      <link>https://sineadmorris.github.io/publication/generation-time-sarscov2/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sineadmorris.github.io/publication/generation-time-sarscov2/</guid>
       <description></description>
     </item>
     
